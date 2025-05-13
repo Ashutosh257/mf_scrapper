@@ -2,36 +2,46 @@ name: Scheduled NAV Scraper
 
 on:
   schedule:
-    - cron: '0 5 * * *'  # Runs daily at 5 AM UTC
-  workflow_dispatch:
+    - cron: '0 5 * * *'  # Runs every day at 5 AM UTC
+  workflow_dispatch:      # Allows manual run
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - name: Cache pip dependencies
+        uses: actions/cache@v3
         with:
-          python-version: '3.11'
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Cache APT packages (Chromium)
+        uses: actions/cache@v3
+        with:
+          path: |
+            /var/cache/apt/archives
+            /var/lib/apt/lists
+          key: ${{ runner.os }}-apt-chromium
 
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt
           sudo apt-get update
           sudo apt-get install -y chromium-browser chromium-chromedriver
+          pip install -r requirements.txt
 
       - name: Run scraper
-        env:
-          PYTHONPATH: .
         run: python scrape_nav.py
 
-      - name: Commit updated JSON
+      - name: Commit updated nav_data.json
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add nav_data.json
-          git commit -m "Update NAV data"
+          git diff-index --quiet HEAD || git commit -m "Update NAV data"
           git push
