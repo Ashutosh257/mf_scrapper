@@ -43,3 +43,8 @@ for row in soup.select("tr.mfFund-nav-row"):
 
 with open("nav_data.json", "w") as f:
     json.dump(data, f, indent=2)
+
+# json to csv
+import pandas as pd
+df = pd.read_json("nav_data.json")
+df.to_csv("nav_data.csv", index=False)

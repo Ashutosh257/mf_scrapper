@@ -1,4 +1,5 @@
 from fastapi import FastAPI, HTTPException
+import pandas as pd
 import json
 
 app = FastAPI()
@@ -11,6 +12,15 @@ def index():
 def get_all_navs():
     with open("nav_data.json", "r") as f:
         data = json.load(f)
+    return data
+
+# nav csv format
+@app.get("/nav/csv")
+def get_nav_csv():
+    with open("nav_data.csv", "r") as f:
+        data = f.read()
+    
+    # print(data)
     return data
 
 @app.get("/nav/{scheme_id}")
