@@ -28,6 +28,8 @@ jobs:
             /var/cache/apt/archives
             /var/lib/apt/lists
           key: ${{ runner.os }}-apt-chromium
+          restore-keys: |
+            ${{ runner.os }}-apt
 
       - name: Install dependencies
         run: |
