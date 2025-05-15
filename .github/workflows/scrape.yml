@@ -29,6 +29,7 @@ jobs:
             /var/lib/apt/lists/*.gz
           key: ${{ runner.os }}-apt-chromium
           restore-keys: |
+            ${{ runner.os }}-apt-chromium
             ${{ runner.os }}-apt
 
       - name: Install dependencies
