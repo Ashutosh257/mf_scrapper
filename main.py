@@ -1,7 +1,7 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Query, Body
 from fastapi.responses import PlainTextResponse
 from typing import List
-from fastapi import Query
+from pydantic import BaseModel
 
 import json
 from pathlib import Path
@@ -78,9 +78,22 @@ def get_nav_by_id(scheme_id: str):
 
 
 # eg: /nav/?scheme_ids=12345&scheme_ids=67890
-@app.get("/nav/")
-def get_nav_by_ids(scheme_ids: List[str] = Query(...)):
-    results = [nav_data[_id] for _id in scheme_ids if nav_data.get(_id, False)]
+# @app.get("/nav/")
+# def get_nav_by_ids(scheme_ids: List[str] = Query(...)):
+#     results = [nav_data[_id]["nav"] for _id in scheme_ids if nav_data.get(_id, False)]
+#     data = [item["nav"] for _, item in results.items()]
+#     if not results:
+#         raise HTTPException(status_code=404, detail="No matching schemes(mutual funds) found")
+#     # return results
+#     return data
+
+
+class NavRequest(BaseModel):
+    scheme_ids: List[str]
+
+@app.post("/nav/")
+async def get_nav_post(data: NavRequest = Body(...)):
+    results = [nav_data[_id]["nav"] for _id in data.scheme_ids if nav_data.get(_id, False)]
     if not results:
         raise HTTPException(status_code=404, detail="No matching schemes(mutual funds) found")
     return results
