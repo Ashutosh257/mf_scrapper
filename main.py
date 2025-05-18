@@ -77,10 +77,14 @@ def get_nav_by_id(scheme_id: str):
     return result
 
 
+class SchemeRequest(BaseModel):
+    scheme_id: str
+
 # eg: /nav/?scheme_id=24536
 @app.post("/nav/")
-def get_nav_by_ids(scheme_id: str = Query(...)):
-    
+def get_nav_by_ids(req: SchemeRequest):
+    scheme_id = req.scheme_id
+
     if nav_data.get(scheme_id, False):
         nav_value = nav_data[scheme_id]["nav"]
         nav_value = nav_value.replace("₹", "")
