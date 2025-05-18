@@ -88,7 +88,8 @@ def get_nav_by_ids(req: SchemeRequest):
     if nav_data.get(scheme_id, False):
         nav_value = nav_data[scheme_id]["nav"]
         nav_value = nav_value.replace("₹", "")
-        return int(nav_value)
+        print(nav_value)
+        return float(nav_value)
     else:
         return "Not Found"
 
