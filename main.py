@@ -78,7 +78,7 @@ def get_nav_by_id(scheme_id: str):
 
 
 # eg: /nav/?scheme_id=24536
-@app.get("/nav/")
+@app.post("/nav/")
 def get_nav_by_ids(scheme_id: str = Query(...)):
     
     if nav_data.get(scheme_id, False):
