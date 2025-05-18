@@ -93,7 +93,8 @@ class NavRequest(BaseModel):
 
 @app.post("/nav/")
 async def get_nav_post(data: NavRequest = Body(...)):
-    results = [nav_data[_id]["nav"] if nav_data.get(_id, False) else "Not Found" for _id in data.scheme_ids]
-    if not results:
+    nav_results = [nav_data[_id]["nav"] if nav_data.get(_id, False) else "Not Found" for _id in data.scheme_ids]
+    navs = [n.replace("₹", "") for n in nav_results if "₹" in n]
+    if not nav_results:
         raise HTTPException(status_code=404, detail="No matching schemes(mutual funds) found")
-    return results
+    return navs
