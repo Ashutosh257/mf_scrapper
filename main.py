@@ -77,15 +77,16 @@ def get_nav_by_id(scheme_id: str):
     return result
 
 
-# eg: /nav/?scheme_ids=12345&scheme_ids=67890
-# @app.get("/nav/")
-# def get_nav_by_ids(scheme_ids: List[str] = Query(...)):
-#     results = [nav_data[_id]["nav"] for _id in scheme_ids if nav_data.get(_id, False)]
-#     data = [item["nav"] for _, item in results.items()]
-#     if not results:
-#         raise HTTPException(status_code=404, detail="No matching schemes(mutual funds) found")
-#     # return results
-#     return data
+# eg: /nav/?scheme_id=24536
+@app.get("/nav/")
+def get_nav_by_ids(scheme_id: str = Query(...)):
+    
+    if nav_data.get(scheme_id, False):
+        nav_value = nav_data[scheme_id]["nav"]
+        nav_value = nav_value.replace("₹", "")
+        return nav_value
+    else:
+        return "Not Found"
 
 
 class NavRequest(BaseModel):
