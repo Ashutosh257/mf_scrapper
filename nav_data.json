@@ -178,7 +178,7 @@
   {
     "scheme_id": "16143",
     "scheme_name": "Sundaram Multi Cap FundMulti Cap",
-    "duration": "3 yrs 11 m",
+    "duration": "4 yrs",
     "nav": "\u20b9411.21",
     "change": "0.42%",
     "date": "May 16, 2025"
@@ -778,7 +778,7 @@
   {
     "scheme_id": "15692",
     "scheme_name": "Sundaram Mid Cap FundMid Cap",
-    "duration": "2 yrs 9 m",
+    "duration": "2 yrs 10 m",
     "nav": "\u20b91,452.9",
     "change": "0.69%",
     "date": "May 16, 2025"
@@ -818,7 +818,7 @@
   {
     "scheme_id": "30817",
     "scheme_name": "Mirae Asset ELSS Tax Saver FundELSS",
-    "duration": "4 yrs",
+    "duration": "4 yrs 1 m",
     "nav": "\u20b953.73",
     "change": "0.28%",
     "date": "May 16, 2025"
@@ -1162,7 +1162,7 @@
   {
     "scheme_id": "16922",
     "scheme_name": "Quant Large and Mid Cap FundLarge & MidCap",
-    "duration": "2 yrs 10 m",
+    "duration": "2 yrs 11 m",
     "nav": "\u20b9125.86",
     "change": "0.48%",
     "date": "May 16, 2025"
@@ -1258,7 +1258,7 @@
   {
     "scheme_id": "28970",
     "scheme_name": "SBI Banking & Financial Services FundSectoral-Banking",
-    "duration": "4 yrs",
+    "duration": "4 yrs 1 m",
     "nav": "\u20b945.48",
     "change": "0.22%",
     "date": "May 16, 2025"
@@ -1338,7 +1338,7 @@
   {
     "scheme_id": "28798",
     "scheme_name": "Nippon India Retirement Fund - Wealth Creation SchemeRetirement Solutions",
-    "duration": "3 yrs 11 m",
+    "duration": "4 yrs",
     "nav": "\u20b931.89",
     "change": "0.52%",
     "date": "May 16, 2025"
@@ -1482,7 +1482,7 @@
   {
     "scheme_id": "30666",
     "scheme_name": "PGIM India ELSS Tax Saver FundELSS",
-    "duration": "4 yrs",
+    "duration": "4 yrs 1 m",
     "nav": "\u20b939.59",
     "change": "0.23%",
     "date": "May 16, 2025"
@@ -1498,7 +1498,7 @@
   {
     "scheme_id": "15730",
     "scheme_name": "Sundaram Consumption FundThematic-Consumption",
-    "duration": "3 yrs 11 m",
+    "duration": "4 yrs",
     "nav": "\u20b9106.25",
     "change": "0.32%",
     "date": "May 16, 2025"
@@ -1634,7 +1634,7 @@
   {
     "scheme_id": "15503",
     "scheme_name": "ICICI Prudential Banking and Financial Services FundSectoral-Banking",
-    "duration": "4 yrs",
+    "duration": "4 yrs 1 m",
     "nav": "\u20b9148.19",
     "change": "0.17%",
     "date": "May 16, 2025"
@@ -2050,7 +2050,7 @@
   {
     "scheme_id": "16366",
     "scheme_name": "Bank of India ELSS Tax Saver FundELSS",
-    "duration": "3 yrs 11 m",
+    "duration": "4 yrs",
     "nav": "\u20b9184.39",
     "change": "1.24%",
     "date": "May 16, 2025"
@@ -2610,7 +2610,7 @@
   {
     "scheme_id": "16995",
     "scheme_name": "Kotak Multi Asset Allocator FoF - DynamicHybrid FoF",
-    "duration": "3 yrs 11 m",
+    "duration": "4 yrs",
     "nav": "\u20b9246.4",
     "change": "0.31%",
     "date": "May 16, 2025"
@@ -2922,7 +2922,7 @@
   {
     "scheme_id": "15887",
     "scheme_name": "HSBC Flexi Cap FundFlexi Cap",
-    "duration": "3 yrs 11 m",
+    "duration": "4 yrs",
     "nav": "\u20b9237.69",
     "change": "0.4%",
     "date": "May 16, 2025"
@@ -3162,7 +3162,7 @@
   {
     "scheme_id": "40571",
     "scheme_name": "Mahindra Manulife Aggressive Hybrid FundAggressive Hybrid",
-    "duration": "3 yrs 11 m",
+    "duration": "4 yrs",
     "nav": "\u20b929.86",
     "change": "0.15%",
     "date": "May 16, 2025"
@@ -3362,7 +3362,7 @@
   {
     "scheme_id": "16916",
     "scheme_name": "Quant Absolute FundAggressive Hybrid",
-    "duration": "4 yrs",
+    "duration": "4 yrs 1 m",
     "nav": "\u20b9451.13",
     "change": "0.66%",
     "date": "May 16, 2025"
@@ -3474,7 +3474,7 @@
   {
     "scheme_id": "39934",
     "scheme_name": "HSBC Large and Mid Cap FundLarge & MidCap",
-    "duration": "3 yrs 11 m",
+    "duration": "4 yrs",
     "nav": "\u20b928.06",
     "change": "0.53%",
     "date": "May 16, 2025"
@@ -3674,7 +3674,7 @@
   {
     "scheme_id": "16178",
     "scheme_name": "Canara Robeco Liquid FundLiquid",
-    "duration": "11 yrs",
+    "duration": "11 yrs 1 m",
     "nav": "\u20b93,136.83",
     "change": "0.02%",
     "date": "May 18, 2025"
@@ -3850,7 +3850,7 @@
   {
     "scheme_id": "16512",
     "scheme_name": "Tata Equity PE FundValue Oriented",
-    "duration": "3 yrs 9 m",
+    "duration": "3 yrs 10 m",
     "nav": "\u20b9383.52",
     "change": "0.64%",
     "date": "May 16, 2025"
@@ -3906,7 +3906,7 @@
   {
     "scheme_id": "15354",
     "scheme_name": "SBI Small Cap FundSmall Cap",
-    "duration": "3 yrs 11 m",
+    "duration": "4 yrs",
     "nav": "\u20b9190.55",
     "change": "0.41%",
     "date": "May 16, 2025"
@@ -4154,7 +4154,7 @@
   {
     "scheme_id": "15575",
     "scheme_name": "Franklin India Flexi Cap FundFlexi Cap",
-    "duration": "2 yrs 10 m",
+    "duration": "2 yrs 11 m",
     "nav": "\u20b91,814.03",
     "change": "0.2%",
     "date": "May 16, 2025"
@@ -4178,7 +4178,7 @@
   {
     "scheme_id": "15979",
     "scheme_name": "Union Flexi Cap FundFlexi Cap",
-    "duration": "4 yrs",
+    "duration": "4 yrs 1 m",
     "nav": "\u20b955.53",
     "change": "0.13%",
     "date": "May 16, 2025"
@@ -4466,7 +4466,7 @@
   {
     "scheme_id": "16320",
     "scheme_name": "Franklin India Floating Rate FundFloater",
-    "duration": "10 yrs 1 m",
+    "duration": "10 yrs 2 m",
     "nav": "\u20b944.35",
     "change": "0.11%",
     "date": "May 16, 2025"
@@ -4610,7 +4610,7 @@
   {
     "scheme_id": "15604",
     "scheme_name": "HDFC Floating Rate Debt FundFloater",
-    "duration": "9 yrs 5 m",
+    "duration": "9 yrs 6 m",
     "nav": "\u20b950.68",
     "change": "0.09%",
     "date": "May 16, 2025"
@@ -4818,7 +4818,7 @@
   {
     "scheme_id": "30777",
     "scheme_name": "Navi Large & Midcap FundLarge & MidCap",
-    "duration": "4 yrs",
+    "duration": "4 yrs 1 m",
     "nav": "\u20b941.56",
     "change": "0.22%",
     "date": "May 16, 2025"
@@ -4938,7 +4938,7 @@
   {
     "scheme_id": "15717",
     "scheme_name": "Nippon India Pharma FundSectoral-Pharma",
-    "duration": "2 yrs 10 m",
+    "duration": "2 yrs 11 m",
     "nav": "\u20b9553.11",
     "change": "0.13%",
     "date": "May 16, 2025"
@@ -5154,7 +5154,7 @@
   {
     "scheme_id": "16102",
     "scheme_name": "JM Focused FundFocused",
-    "duration": "3 yrs 11 m",
+    "duration": "4 yrs",
     "nav": "\u20b922.51",
     "change": "-0.03%",
     "date": "May 16, 2025"
@@ -5442,7 +5442,7 @@
   {
     "scheme_id": "15753",
     "scheme_name": "Nippon India ELSS Tax Saver  FundELSS",
-    "duration": "3 yrs 11 m",
+    "duration": "4 yrs",
     "nav": "\u20b9138.3",
     "change": "0.51%",
     "date": "May 16, 2025"
@@ -5818,7 +5818,7 @@
   {
     "scheme_id": "40779",
     "scheme_name": "ICICI Prudential Commodities FundThematic",
-    "duration": "3 yrs 11 m",
+    "duration": "4 yrs",
     "nav": "\u20b943.54",
     "change": "0.28%",
     "date": "May 16, 2025"
@@ -6026,7 +6026,7 @@
   {
     "scheme_id": "41241",
     "scheme_name": "Union Midcap FundMid Cap",
-    "duration": "2 yrs 10 m",
+    "duration": "2 yrs 11 m",
     "nav": "\u20b948.65",
     "change": "0.48%",
     "date": "May 16, 2025"
@@ -6378,7 +6378,7 @@
   {
     "scheme_id": "41735",
     "scheme_name": "Nippon India Multi Asset Active FoFHybrid FoF",
-    "duration": "3 yrs 11 m",
+    "duration": "4 yrs",
     "nav": "\u20b921.86",
     "change": "0.67%",
     "date": "May 16, 2025"
@@ -6602,7 +6602,7 @@
   {
     "scheme_id": "41918",
     "scheme_name": "Quant Quantamental FundThematic",
-    "duration": "2 yrs 9 m",
+    "duration": "2 yrs 10 m",
     "nav": "\u20b923.86",
     "change": "0.91%",
     "date": "May 16, 2025"
@@ -6794,7 +6794,7 @@
   {
     "scheme_id": "42093",
     "scheme_name": "Canara Robeco Value FundValue Oriented",
-    "duration": "2 yrs 10 m",
+    "duration": "2 yrs 11 m",
     "nav": "\u20b919.14",
     "change": "0.37%",
     "date": "May 16, 2025"
