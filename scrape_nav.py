@@ -2,6 +2,8 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
+
+import os
 import json
 import time
 
@@ -10,7 +12,8 @@ options.add_argument("--headless")
 options.add_argument("--no-sandbox")
 options.add_argument("--disable-dev-shm-usage")
 
-options.binary_location = "/usr/bin/chromium-browser"
+if os.getenv("GITHUB_ACTIONS") == "true":
+    options.binary_location = "/usr/bin/chromium-browser"
 
 driver = webdriver.Chrome(options=options)
 driver.get("https://www.etmoney.com/mutual-funds/filter/latest-mutual-fund-nav")
