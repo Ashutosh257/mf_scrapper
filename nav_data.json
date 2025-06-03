@@ -299,9 +299,9 @@
     "scheme_id": "25669",
     "scheme_name": "Invesco India - Invesco Global Equity Income FoFInternational",
     "duration": "4 yrs 6 m",
-    "nav": "\u20b931.56",
-    "change": "0.08%",
-    "date": "May 30, 2025"
+    "nav": "\u20b931.47",
+    "change": "-0.28%",
+    "date": "Jun 02, 2025"
   },
   {
     "scheme_id": "15412",
@@ -915,9 +915,9 @@
     "scheme_id": "22836",
     "scheme_name": "Invesco India - Invesco Pan European Equity FoFInternational",
     "duration": "4 yrs 7 m",
-    "nav": "\u20b920.44",
-    "change": "0.1%",
-    "date": "May 30, 2025"
+    "nav": "\u20b920.41",
+    "change": "-0.15%",
+    "date": "Jun 02, 2025"
   },
   {
     "scheme_id": "16748",
@@ -6323,9 +6323,9 @@
     "scheme_id": "41697",
     "scheme_name": "Invesco India - Invesco Global Consumer Trends FoFInternational",
     "duration": "-",
-    "nav": "\u20b910.18",
-    "change": "-0.89%",
-    "date": "May 30, 2025"
+    "nav": "\u20b910.1",
+    "change": "-0.81%",
+    "date": "Jun 02, 2025"
   },
   {
     "scheme_id": "41705",
@@ -7419,9 +7419,9 @@
     "scheme_id": "42673",
     "scheme_name": "Invesco India - Invesco EQQQ NASDAQ-100 ETF FoFInternational Index",
     "duration": "2 yrs 4 m",
-    "nav": "\u20b917.08",
-    "change": "-0.3%",
-    "date": "May 30, 2025"
+    "nav": "\u20b917.09",
+    "change": "0.07%",
+    "date": "Jun 02, 2025"
   },
   {
     "scheme_id": "42676",
@@ -11253,6 +11253,14 @@
     "duration": "-",
     "nav": "\u20b910.02",
     "change": "0.04%",
+    "date": "Jun 02, 2025"
+  },
+  {
+    "scheme_id": "45528",
+    "scheme_name": "Baroda BNP Paribas Multi Asset Active FoFHybrid FoF",
+    "duration": "-",
+    "nav": "\u20b910.01",
+    "change": "?%",
     "date": "Jun 02, 2025"
   }
 ]
