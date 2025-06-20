@@ -2793,7 +2793,7 @@
   },
   {
     "scheme_id": "16144",
-    "scheme_name": "Canara Robeco Emerging Equities FundLarge & MidCap",
+    "scheme_name": "Canara Robeco Large and Mid Cap FundLarge & MidCap",
     "duration": "4 yrs 1 m",
     "nav": "\u20b9288.45",
     "change": "-1.07%",
@@ -3793,7 +3793,7 @@
   },
   {
     "scheme_id": "15332",
-    "scheme_name": "Canara Robeco Bluechip Equity FundLarge Cap",
+    "scheme_name": "Canara Robeco Large Cap FundLarge Cap",
     "duration": "4 yrs 4 m",
     "nav": "\u20b971.83",
     "change": "-0.32%",
@@ -6593,7 +6593,7 @@
   },
   {
     "scheme_id": "41926",
-    "scheme_name": "Canara Robeco Focused Equity FundStrategy",
+    "scheme_name": "Canara Robeco Focused FundStrategy",
     "duration": "4 yrs",
     "nav": "\u20b920.89",
     "change": "-0.43%",
