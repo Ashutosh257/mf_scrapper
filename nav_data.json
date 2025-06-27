@@ -65,7 +65,7 @@
   },
   {
     "scheme_id": "15264",
-    "scheme_name": "Aditya Birla Sun Life Equity Advantage FundLarge & MidCap",
+    "scheme_name": "Aditya Birla Sun Life Large & Mid Cap FundLarge & MidCap",
     "duration": "4 yrs 6 m",
     "nav": "\u20b91,017.11",
     "change": "0.93%",
@@ -81,7 +81,7 @@
   },
   {
     "scheme_id": "15398",
-    "scheme_name": "Aditya Birla Sun Life Frontline Equity FundLarge Cap",
+    "scheme_name": "Aditya Birla Sun Life Large Cap FundLarge Cap",
     "duration": "4 yrs 2 m",
     "nav": "\u20b9592.02",
     "change": "1.01%",
@@ -553,7 +553,7 @@
   },
   {
     "scheme_id": "15681",
-    "scheme_name": "HDFC Mid-Cap Opportunities FundMid Cap",
+    "scheme_name": "HDFC Mid Cap FundMid Cap",
     "duration": "2 yrs 2 m",
     "nav": "\u20b9213.83",
     "change": "0.53%",
@@ -811,9 +811,9 @@
     "scheme_id": "16132",
     "scheme_name": "Edelweiss Large & Mid Cap FundLarge & MidCap",
     "duration": "3 yrs",
-    "nav": "\u20b9102.56",
-    "change": "0.71%",
-    "date": "Jun 25, 2025"
+    "nav": "\u20b9103.35",
+    "change": "0.77%",
+    "date": "Jun 26, 2025"
   },
   {
     "scheme_id": "30817",
@@ -1371,9 +1371,9 @@
     "scheme_id": "16913",
     "scheme_name": "Edelweiss Aggressive Hybrid FundAggressive Hybrid",
     "duration": "4 yrs",
-    "nav": "\u20b973.28",
-    "change": "0.47%",
-    "date": "Jun 25, 2025"
+    "nav": "\u20b973.77",
+    "change": "0.67%",
+    "date": "Jun 26, 2025"
   },
   {
     "scheme_id": "19589",
@@ -1682,10 +1682,10 @@
   {
     "scheme_id": "26665",
     "scheme_name": "Edelweiss Arbitrage FundArbitrage",
-    "duration": "10 yrs 7 m",
-    "nav": "\u20b920.77",
-    "change": "0%",
-    "date": "Jun 25, 2025"
+    "duration": "10 yrs 6 m",
+    "nav": "\u20b920.78",
+    "change": "0.06%",
+    "date": "Jun 26, 2025"
   },
   {
     "scheme_id": "15621",
@@ -2507,9 +2507,9 @@
     "scheme_id": "16149",
     "scheme_name": "Edelweiss Mid Cap FundMid Cap",
     "duration": "2 yrs 2 m",
-    "nav": "\u20b9119.13",
-    "change": "0.84%",
-    "date": "Jun 25, 2025"
+    "nav": "\u20b9119.72",
+    "change": "0.5%",
+    "date": "Jun 26, 2025"
   },
   {
     "scheme_id": "9789",
@@ -2731,9 +2731,9 @@
     "scheme_id": "16911",
     "scheme_name": "Edelweiss Large Cap FundLarge Cap",
     "duration": "4 yrs 2 m",
-    "nav": "\u20b996.84",
-    "change": "0.68%",
-    "date": "Jun 25, 2025"
+    "nav": "\u20b997.89",
+    "change": "1.08%",
+    "date": "Jun 26, 2025"
   },
   {
     "scheme_id": "16171",
@@ -2937,7 +2937,7 @@
   },
   {
     "scheme_id": "15588",
-    "scheme_name": "HDFC Focused 30 FundStrategy",
+    "scheme_name": "HDFC Focused FundStrategy",
     "duration": "2 yrs 10 m",
     "nav": "\u20b9261.93",
     "change": "0.7%",
@@ -3459,9 +3459,9 @@
     "scheme_id": "17318",
     "scheme_name": "Edelweiss ELSS Tax Saver FundELSS",
     "duration": "4 yrs 1 m",
-    "nav": "\u20b9131.15",
-    "change": "0.91%",
-    "date": "Jun 25, 2025"
+    "nav": "\u20b9132.43",
+    "change": "0.98%",
+    "date": "Jun 26, 2025"
   },
   {
     "scheme_id": "39325",
@@ -3587,9 +3587,9 @@
     "scheme_id": "17324",
     "scheme_name": "Edelweiss Balanced Advantage FundDynamic Asset Allocation",
     "duration": "4 yrs 7 m",
-    "nav": "\u20b957.71",
-    "change": "0.63%",
-    "date": "Jun 25, 2025"
+    "nav": "\u20b958.11",
+    "change": "0.69%",
+    "date": "Jun 26, 2025"
   },
   {
     "scheme_id": "16017",
@@ -3763,9 +3763,9 @@
     "scheme_id": "28770",
     "scheme_name": "Edelweiss Flexi Cap FundFlexi Cap",
     "duration": "3 yrs",
-    "nav": "\u20b944.09",
-    "change": "0.84%",
-    "date": "Jun 25, 2025"
+    "nav": "\u20b944.49",
+    "change": "0.91%",
+    "date": "Jun 26, 2025"
   },
   {
     "scheme_id": "15658",
@@ -3843,9 +3843,9 @@
     "scheme_id": "27749",
     "scheme_name": "Edelweiss Equity Savings FundEquity Savings",
     "duration": "6 yrs 4 m",
-    "nav": "\u20b927.54",
-    "change": "0.21%",
-    "date": "Jun 25, 2025"
+    "nav": "\u20b927.63",
+    "change": "0.34%",
+    "date": "Jun 26, 2025"
   },
   {
     "scheme_id": "16512",
@@ -3859,9 +3859,9 @@
     "scheme_id": "39330",
     "scheme_name": "Edelweiss Small Cap FundSmall Cap",
     "duration": "2 yrs 11 m",
-    "nav": "\u20b948.77",
-    "change": "1.19%",
-    "date": "Jun 25, 2025"
+    "nav": "\u20b948.99",
+    "change": "0.45%",
+    "date": "Jun 26, 2025"
   },
   {
     "scheme_id": "15293",
@@ -4321,7 +4321,7 @@
   },
   {
     "scheme_id": "15446",
-    "scheme_name": "Aditya Birla Sun Life Pure Value FundStrategy",
+    "scheme_name": "Aditya Birla Sun Life Value FundStrategy",
     "duration": "2 yrs 11 m",
     "nav": "\u20b9142.88",
     "change": "0.84%",
@@ -5011,9 +5011,9 @@
     "scheme_id": "35718",
     "scheme_name": "Edelweiss Recently Listed IPO FundThematic",
     "duration": "4 yrs 4 m",
-    "nav": "\u20b927.91",
-    "change": "1.11%",
-    "date": "Jun 25, 2025"
+    "nav": "\u20b927.9",
+    "change": "-0.04%",
+    "date": "Jun 26, 2025"
   },
   {
     "scheme_id": "15722",
@@ -6779,9 +6779,9 @@
     "scheme_id": "42088",
     "scheme_name": "Bandhan US Equity FoFInternational",
     "duration": "2 yrs 8 m",
-    "nav": "\u20b916.62",
-    "change": "0.78%",
-    "date": "Jun 25, 2025"
+    "nav": "\u20b916.59",
+    "change": "-0.19%",
+    "date": "Jun 26, 2025"
   },
   {
     "scheme_id": "42084",
@@ -6955,17 +6955,17 @@
     "scheme_id": "42243",
     "scheme_name": "Edelweiss Nifty 100 Quality 30 Index FundLarge Cap Index",
     "duration": "-",
-    "nav": "\u20b914.59",
-    "change": "0.51%",
-    "date": "Jun 25, 2025"
+    "nav": "\u20b914.65",
+    "change": "0.43%",
+    "date": "Jun 26, 2025"
   },
   {
     "scheme_id": "42240",
     "scheme_name": "Edelweiss Nifty 50 Index FundLarge Cap Index",
     "duration": "-",
-    "nav": "\u20b914.76",
-    "change": "0.8%",
-    "date": "Jun 25, 2025"
+    "nav": "\u20b914.93",
+    "change": "1.2%",
+    "date": "Jun 26, 2025"
   },
   {
     "scheme_id": "42254",
@@ -7043,9 +7043,9 @@
     "scheme_id": "42309",
     "scheme_name": "Edelweiss NIFTY Large Mid Cap 250 Index FundLarge & MidCap Index",
     "duration": "-",
-    "nav": "\u20b916.95",
-    "change": "0.64%",
-    "date": "Jun 25, 2025"
+    "nav": "\u20b917.09",
+    "change": "0.83%",
+    "date": "Jun 26, 2025"
   },
   {
     "scheme_id": "42317",
@@ -7491,9 +7491,9 @@
     "scheme_id": "42753",
     "scheme_name": "Edelweiss Focused FundStrategy",
     "duration": "-",
-    "nav": "\u20b917.41",
-    "change": "0.78%",
-    "date": "Jun 25, 2025"
+    "nav": "\u20b917.57",
+    "change": "0.94%",
+    "date": "Jun 26, 2025"
   },
   {
     "scheme_id": "42757",
@@ -8131,25 +8131,25 @@
     "scheme_id": "43256",
     "scheme_name": "Edelweiss Nifty Midcap150 Momentum 50 Index FundMid Cap Index",
     "duration": "2 yrs 2 m",
-    "nav": "\u20b918.72",
-    "change": "0.59%",
-    "date": "Jun 25, 2025"
+    "nav": "\u20b918.79",
+    "change": "0.33%",
+    "date": "Jun 26, 2025"
   },
   {
     "scheme_id": "43252",
     "scheme_name": "Edelweiss Nifty Smallcap 250 Index FundSmall Cap Index",
     "duration": "2 yrs 2 m",
-    "nav": "\u20b918.1",
-    "change": "1.6%",
-    "date": "Jun 25, 2025"
+    "nav": "\u20b918.15",
+    "change": "0.26%",
+    "date": "Jun 26, 2025"
   },
   {
     "scheme_id": "43248",
     "scheme_name": "Edelweiss Nifty Next 50 Index FundLarge Cap Index",
     "duration": "-",
-    "nav": "\u20b915.66",
-    "change": "0.47%",
-    "date": "Jun 25, 2025"
+    "nav": "\u20b915.81",
+    "change": "0.92%",
+    "date": "Jun 26, 2025"
   },
   {
     "scheme_id": "43264",
@@ -8827,9 +8827,9 @@
     "scheme_id": "44010",
     "scheme_name": "Bajaj Finserv Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,134.87",
+    "nav": "\u20b91,135.03",
     "change": "0.01%",
-    "date": "Jun 25, 2025"
+    "date": "Jun 26, 2025"
   },
   {
     "scheme_id": "44000",
@@ -9027,9 +9027,9 @@
     "scheme_id": "44163",
     "scheme_name": "Edelweiss Multi Cap FundMulti Cap",
     "duration": "-",
-    "nav": "\u20b915.51",
-    "change": "0.95%",
-    "date": "Jun 25, 2025"
+    "nav": "\u20b915.63",
+    "change": "0.81%",
+    "date": "Jun 26, 2025"
   },
   {
     "scheme_id": "44167",
@@ -9299,9 +9299,9 @@
     "scheme_id": "44395",
     "scheme_name": "Bandhan Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b912.51",
-    "change": "0.36%",
-    "date": "Jun 25, 2025"
+    "nav": "\u20b912.59",
+    "change": "0.65%",
+    "date": "Jun 26, 2025"
   },
   {
     "scheme_id": "44391",
@@ -9675,9 +9675,9 @@
     "scheme_id": "44670",
     "scheme_name": "Edelweiss Nifty Alpha Low Volatility 30 Index FundLarge Cap Index",
     "duration": "-",
-    "nav": "\u20b910.14",
-    "change": "0.93%",
-    "date": "Jun 25, 2025"
+    "nav": "\u20b910.19",
+    "change": "0.54%",
+    "date": "Jun 26, 2025"
   },
   {
     "scheme_id": "44674",
@@ -9811,9 +9811,9 @@
     "scheme_id": "44754",
     "scheme_name": "Edelweiss Business Cycle FundStrategy",
     "duration": "-",
-    "nav": "\u20b99.13",
-    "change": "0.8%",
-    "date": "Jun 25, 2025"
+    "nav": "\u20b99.2",
+    "change": "0.68%",
+    "date": "Jun 26, 2025"
   },
   {
     "scheme_id": "44757",
@@ -10331,9 +10331,9 @@
     "scheme_id": "45007",
     "scheme_name": "Edelweiss Nifty500 Multicap Momentum Quality 50 Index FundMulti Cap Index",
     "duration": "-",
-    "nav": "\u20b99.55",
-    "change": "0.19%",
-    "date": "Jun 25, 2025"
+    "nav": "\u20b99.56",
+    "change": "0.12%",
+    "date": "Jun 26, 2025"
   },
   {
     "scheme_id": "45013",
@@ -10803,9 +10803,9 @@
     "scheme_id": "45237",
     "scheme_name": "Edelweiss Consumption FundThematic-Consumption",
     "duration": "-",
-    "nav": "\u20b911.14",
-    "change": "1.15%",
-    "date": "Jun 25, 2025"
+    "nav": "\u20b911.21",
+    "change": "0.63%",
+    "date": "Jun 26, 2025"
   },
   {
     "scheme_id": "45241",
@@ -11203,9 +11203,9 @@
     "scheme_id": "45479",
     "scheme_name": "Edelweiss BSE Internet Economy Index FundOther Equity Index",
     "duration": "-",
-    "nav": "\u20b910.73",
-    "change": "1.18%",
-    "date": "Jun 25, 2025"
+    "nav": "\u20b910.84",
+    "change": "1.02%",
+    "date": "Jun 26, 2025"
   },
   {
     "scheme_id": "45487",
