@@ -105,7 +105,7 @@
   },
   {
     "scheme_id": "15577",
-    "scheme_name": "Franklin India Smaller Companies FundSmall Cap",
+    "scheme_name": "Franklin India Small Cap FundSmall Cap",
     "duration": "2 yrs 10 m",
     "nav": "\u20b9200.25",
     "change": "-0.01%",
@@ -299,9 +299,9 @@
     "scheme_id": "25669",
     "scheme_name": "Invesco India - Invesco Global Equity Income FoFInternational",
     "duration": "2 yrs 8 m",
-    "nav": "\u20b934.03",
-    "change": "0.56%",
-    "date": "Jul 09, 2025"
+    "nav": "\u20b934.18",
+    "change": "0.44%",
+    "date": "Jul 10, 2025"
   },
   {
     "scheme_id": "15412",
@@ -689,7 +689,7 @@
   },
   {
     "scheme_id": "15587",
-    "scheme_name": "Franklin India Equity Hybrid FundAggressive Hybrid",
+    "scheme_name": "Franklin India Aggressive Hybrid FundAggressive Hybrid",
     "duration": "4 yrs 5 m",
     "nav": "\u20b9312.48",
     "change": "-0.15%",
@@ -915,9 +915,9 @@
     "scheme_id": "22836",
     "scheme_name": "Invesco India - Invesco Pan European Equity FoFInternational",
     "duration": "4 yrs 8 m",
-    "nav": "\u20b921.29",
-    "change": "1.16%",
-    "date": "Jul 09, 2025"
+    "nav": "\u20b921.44",
+    "change": "0.7%",
+    "date": "Jul 10, 2025"
   },
   {
     "scheme_id": "16748",
@@ -1305,7 +1305,7 @@
   },
   {
     "scheme_id": "16345",
-    "scheme_name": "Templeton India Equity Income FundStrategy",
+    "scheme_name": "Franklin India Dividend Yield FundStrategy",
     "duration": "4 yrs",
     "nav": "\u20b9153.55",
     "change": "-0.06%",
@@ -1449,7 +1449,7 @@
   },
   {
     "scheme_id": "15570",
-    "scheme_name": "Franklin India Prima FundMid Cap",
+    "scheme_name": "Franklin India Mid Cap FundMid Cap",
     "duration": "2 yrs 11 m",
     "nav": "\u20b93,154.28",
     "change": "-0.21%",
@@ -1881,7 +1881,7 @@
   },
   {
     "scheme_id": "17386",
-    "scheme_name": "Franklin India Debt Hybrid FundConservative Hybrid",
+    "scheme_name": "Franklin India Conservative Hybrid FundConservative Hybrid",
     "duration": "8 yrs 6 m",
     "nav": "\u20b9100.38",
     "change": "-0.03%",
@@ -2289,7 +2289,7 @@
   },
   {
     "scheme_id": "15553",
-    "scheme_name": "Franklin India Equity Advantage FundLarge & MidCap",
+    "scheme_name": "Franklin India Large & Mid Cap FundLarge & MidCap",
     "duration": "4 yrs 1 m",
     "nav": "\u20b9213.29",
     "change": "-0.23%",
@@ -3521,7 +3521,7 @@
   },
   {
     "scheme_id": "15549",
-    "scheme_name": "Franklin India Bluechip FundLarge Cap",
+    "scheme_name": "Franklin India Large Cap FundLarge Cap",
     "duration": "4 yrs 6 m",
     "nav": "\u20b91,141.41",
     "change": "-0.42%",
@@ -3553,7 +3553,7 @@
   },
   {
     "scheme_id": "16316",
-    "scheme_name": "Franklin India Pension FundRetirement Solutions",
+    "scheme_name": "Franklin India Retirement FundRetirement Solutions",
     "duration": "8 yrs",
     "nav": "\u20b9241.4",
     "change": "-0.08%",
@@ -5561,7 +5561,7 @@
   },
   {
     "scheme_id": "15591",
-    "scheme_name": "Franklin India Dynamic Asset Allocation FoFDynamic Asset Allocation",
+    "scheme_name": "Franklin India Dynamic Asset Allocation Active FoFDynamic Asset Allocation",
     "duration": "4 yrs 2 m",
     "nav": "\u20b9187.38",
     "change": "-0.11%",
@@ -6315,9 +6315,9 @@
     "scheme_id": "41697",
     "scheme_name": "Invesco India - Invesco Global Consumer Trends FoFInternational",
     "duration": "-",
-    "nav": "\u20b910.82",
-    "change": "-0.87%",
-    "date": "Jul 09, 2025"
+    "nav": "\u20b910.87",
+    "change": "0.5%",
+    "date": "Jul 10, 2025"
   },
   {
     "scheme_id": "41705",
@@ -7411,9 +7411,9 @@
     "scheme_id": "42673",
     "scheme_name": "Invesco India - Invesco EQQQ NASDAQ-100 ETF FoFInternational Index",
     "duration": "2 yrs 5 m",
-    "nav": "\u20b918.31",
-    "change": "0.48%",
-    "date": "Jul 09, 2025"
+    "nav": "\u20b918.35",
+    "change": "0.18%",
+    "date": "Jul 10, 2025"
   },
   {
     "scheme_id": "42676",
