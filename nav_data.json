@@ -7281,7 +7281,7 @@
   },
   {
     "scheme_id": "42535",
-    "scheme_name": "Axis Equity ETFs FoFStrategy",
+    "scheme_name": "Axis Multi Factor FoF PassiveStrategy",
     "duration": "-",
     "nav": "\u20b915.29",
     "change": "0.01%",
@@ -9241,7 +9241,7 @@
   },
   {
     "scheme_id": "44344",
-    "scheme_name": "Axis US Treasury Dynamic Bond ETF FoFInternational Debt",
+    "scheme_name": "Axis US Specific Treasury Dynamic Debt Passive ETF FoFInternational Debt",
     "duration": "-",
     "nav": "\u20b910.66",
     "change": "-0.57%",
