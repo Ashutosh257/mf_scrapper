@@ -162,7 +162,7 @@
   {
     "scheme_id": "15797",
     "scheme_name": "SBI Magnum Income FundMedium to Long Duration",
-    "duration": "8 yrs 10 m",
+    "duration": "8 yrs 11 m",
     "nav": "\u20b976.72",
     "change": "0.06%",
     "date": "Jul 18, 2025"
@@ -426,7 +426,7 @@
   {
     "scheme_id": "15257",
     "scheme_name": "Axis Midcap FundMid Cap",
-    "duration": "3 yrs",
+    "duration": "3 yrs 1 m",
     "nav": "\u20b9132.02",
     "change": "-0.56%",
     "date": "Jul 18, 2025"
@@ -810,7 +810,7 @@
   {
     "scheme_id": "16132",
     "scheme_name": "Edelweiss Large & Mid Cap FundLarge & MidCap",
-    "duration": "3 yrs",
+    "duration": "3 yrs 1 m",
     "nav": "\u20b9102.27",
     "change": "-0.69%",
     "date": "Jul 18, 2025"
@@ -1058,7 +1058,7 @@
   {
     "scheme_id": "40488",
     "scheme_name": "Quantum ESG Best In Class Strategy FundThematic-ESG",
-    "duration": "4 yrs 6 m",
+    "duration": "4 yrs 7 m",
     "nav": "\u20b925.74",
     "change": "-0.43%",
     "date": "Jul 18, 2025"
@@ -1082,7 +1082,7 @@
   {
     "scheme_id": "31281",
     "scheme_name": "HDFC Retirement Savings Fund - Equity PlanRetirement Solutions",
-    "duration": "3 yrs",
+    "duration": "3 yrs 1 m",
     "nav": "\u20b957.53",
     "change": "-0.53%",
     "date": "Jul 18, 2025"
@@ -1323,9 +1323,9 @@
     "scheme_id": "16759",
     "scheme_name": "Sundaram Global Brand Theme - Equity Active FoFInternational",
     "duration": "5 yrs",
-    "nav": "\u20b938.28",
-    "change": "1.11%",
-    "date": "Jul 17, 2025"
+    "nav": "\u20b938.38",
+    "change": "0.26%",
+    "date": "Jul 18, 2025"
   },
   {
     "scheme_id": "15435",
@@ -1650,7 +1650,7 @@
   {
     "scheme_id": "15292",
     "scheme_name": "Aditya Birla Sun Life Low Duration FundLow Duration",
-    "duration": "9 yrs 5 m",
+    "duration": "9 yrs 6 m",
     "nav": "\u20b9731.79",
     "change": "0.03%",
     "date": "Jul 18, 2025"
@@ -1738,7 +1738,7 @@
   {
     "scheme_id": "39296",
     "scheme_name": "Canara Robeco Small Cap FundSmall Cap",
-    "duration": "3 yrs",
+    "duration": "3 yrs 1 m",
     "nav": "\u20b944.38",
     "change": "-0.78%",
     "date": "Jul 18, 2025"
@@ -1810,7 +1810,7 @@
   {
     "scheme_id": "19232",
     "scheme_name": "Parag Parikh Flexi Cap FundFlexi Cap",
-    "duration": "3 yrs",
+    "duration": "3 yrs 1 m",
     "nav": "\u20b991.94",
     "change": "-0.42%",
     "date": "Jul 18, 2025"
@@ -2050,7 +2050,7 @@
   {
     "scheme_id": "16366",
     "scheme_name": "Bank of India ELSS Tax Saver FundELSS",
-    "duration": "3 yrs",
+    "duration": "3 yrs 1 m",
     "nav": "\u20b9189.18",
     "change": "-0.56%",
     "date": "Jul 18, 2025"
@@ -2178,7 +2178,7 @@
   {
     "scheme_id": "15172",
     "scheme_name": "PGIM India Liquid FundLiquid",
-    "duration": "10 yrs 10 m",
+    "duration": "10 yrs 11 m",
     "nav": "\u20b9345.17",
     "change": "0.02%",
     "date": "Jul 20, 2025"
@@ -2250,7 +2250,7 @@
   {
     "scheme_id": "16070",
     "scheme_name": "Bandhan Focused FundStrategy",
-    "duration": "3 yrs",
+    "duration": "3 yrs 1 m",
     "nav": "\u20b9104.79",
     "change": "-0.51%",
     "date": "Jul 18, 2025"
@@ -2282,7 +2282,7 @@
   {
     "scheme_id": "15530",
     "scheme_name": "UTI Multi Asset Allocation FundMulti Asset Allocation",
-    "duration": "4 yrs 6 m",
+    "duration": "4 yrs 7 m",
     "nav": "\u20b982.51",
     "change": "-0.09%",
     "date": "Jul 18, 2025"
@@ -2370,7 +2370,7 @@
   {
     "scheme_id": "17126",
     "scheme_name": "SBI Arbitrage Opportunities FundArbitrage",
-    "duration": "10 yrs 11 m",
+    "duration": "11 yrs",
     "nav": "\u20b936.07",
     "change": "0.03%",
     "date": "Jul 18, 2025"
@@ -2394,7 +2394,7 @@
   {
     "scheme_id": "15301",
     "scheme_name": "Aditya Birla Sun Life Dynamic Bond FundDynamic Bond",
-    "duration": "9 yrs 11 m",
+    "duration": "10 yrs",
     "nav": "\u20b950.15",
     "change": "0.15%",
     "date": "Jul 18, 2025"
@@ -2442,7 +2442,7 @@
   {
     "scheme_id": "17186",
     "scheme_name": "UTI Overnight FundOvernight",
-    "duration": "11 yrs 7 m",
+    "duration": "11 yrs 8 m",
     "nav": "\u20b93,554.8",
     "change": "0.01%",
     "date": "Jul 20, 2025"
@@ -2530,7 +2530,7 @@
   {
     "scheme_id": "15437",
     "scheme_name": "Aditya Birla Sun Life Mid Cap FundMid Cap",
-    "duration": "3 yrs",
+    "duration": "3 yrs 1 m",
     "nav": "\u20b9891.27",
     "change": "-0.5%",
     "date": "Jul 18, 2025"
@@ -2770,7 +2770,7 @@
   {
     "scheme_id": "16360",
     "scheme_name": "Invesco India Ultra Short Duration FundUltra Short Duration",
-    "duration": "10 yrs",
+    "duration": "10 yrs 1 m",
     "nav": "\u20b92,891.7",
     "change": "0.03%",
     "date": "Jul 18, 2025"
@@ -2970,7 +2970,7 @@
   {
     "scheme_id": "16536",
     "scheme_name": "Bank of India Short Term Income FundShort Duration",
-    "duration": "10 yrs 8 m",
+    "duration": "10 yrs 9 m",
     "nav": "\u20b929.27",
     "change": "0.03%",
     "date": "Jul 18, 2025"
@@ -2978,7 +2978,7 @@
   {
     "scheme_id": "30859",
     "scheme_name": "Tata India Consumer FundThematic-Consumption",
-    "duration": "3 yrs",
+    "duration": "3 yrs 1 m",
     "nav": "\u20b950.97",
     "change": "-0.3%",
     "date": "Jul 18, 2025"
@@ -3202,7 +3202,7 @@
   {
     "scheme_id": "17070",
     "scheme_name": "SBI Flexicap FundFlexi Cap",
-    "duration": "4 yrs 6 m",
+    "duration": "4 yrs 7 m",
     "nav": "\u20b9121.18",
     "change": "-0.36%",
     "date": "Jul 18, 2025"
@@ -3378,7 +3378,7 @@
   {
     "scheme_id": "28151",
     "scheme_name": "Kotak Aggressive Hybrid FundAggressive Hybrid",
-    "duration": "4 yrs 4 m",
+    "duration": "4 yrs 5 m",
     "nav": "\u20b973.32",
     "change": "-0.29%",
     "date": "Jul 18, 2025"
@@ -3418,7 +3418,7 @@
   {
     "scheme_id": "15274",
     "scheme_name": "Baroda BNP Paribas Multi Cap FundMulti Cap",
-    "duration": "3 yrs",
+    "duration": "3 yrs 1 m",
     "nav": "\u20b9321.55",
     "change": "-0.39%",
     "date": "Jul 18, 2025"
@@ -3514,7 +3514,7 @@
   {
     "scheme_id": "15581",
     "scheme_name": "Franklin India ELSS Tax Saver FundELSS",
-    "duration": "3 yrs",
+    "duration": "3 yrs 1 m",
     "nav": "\u20b91,648.48",
     "change": "-0.73%",
     "date": "Jul 18, 2025"
@@ -3706,7 +3706,7 @@
   {
     "scheme_id": "17392",
     "scheme_name": "ICICI Prudential Thematic Advantage Fund (FOF)Strategy",
-    "duration": "3 yrs",
+    "duration": "3 yrs 1 m",
     "nav": "\u20b9242.68",
     "change": "-0.45%",
     "date": "Jul 18, 2025"
@@ -3762,7 +3762,7 @@
   {
     "scheme_id": "28770",
     "scheme_name": "Edelweiss Flexi Cap FundFlexi Cap",
-    "duration": "3 yrs",
+    "duration": "3 yrs 1 m",
     "nav": "\u20b943.87",
     "change": "-0.52%",
     "date": "Jul 18, 2025"
@@ -3882,7 +3882,7 @@
   {
     "scheme_id": "16001",
     "scheme_name": "DSP Midcap FundMid Cap",
-    "duration": "3 yrs",
+    "duration": "3 yrs 1 m",
     "nav": "\u20b9164.93",
     "change": "-0.55%",
     "date": "Jul 18, 2025"
@@ -4186,7 +4186,7 @@
   {
     "scheme_id": "40301",
     "scheme_name": "Mirae Asset Focused FundStrategy",
-    "duration": "4 yrs 6 m",
+    "duration": "4 yrs 7 m",
     "nav": "\u20b928.31",
     "change": "-0.64%",
     "date": "Jul 18, 2025"
@@ -4258,7 +4258,7 @@
   {
     "scheme_id": "27073",
     "scheme_name": "Invesco India Credit Risk FundCredit Risk",
-    "duration": "10 yrs 1 m",
+    "duration": "10 yrs 2 m",
     "nav": "\u20b92,163.88",
     "change": "0.05%",
     "date": "Jul 18, 2025"
@@ -4346,7 +4346,7 @@
   {
     "scheme_id": "15247",
     "scheme_name": "Axis Banking & PSU Debt FundBanking and PSU",
-    "duration": "9 yrs 5 m",
+    "duration": "9 yrs 6 m",
     "nav": "\u20b92,738.71",
     "change": "0.04%",
     "date": "Jul 18, 2025"
@@ -4626,7 +4626,7 @@
   {
     "scheme_id": "17327",
     "scheme_name": "UTI Arbitrage FundArbitrage",
-    "duration": "10 yrs 10 m",
+    "duration": "10 yrs 11 m",
     "nav": "\u20b937.41",
     "change": "0.03%",
     "date": "Jul 18, 2025"
@@ -4644,7 +4644,7 @@
     "scheme_name": "JM Liquid FundLiquid",
     "duration": "10 yrs 11 m",
     "nav": "\u20b972.25",
-    "change": "0.03%",
+    "change": "0.01%",
     "date": "Jul 20, 2025"
   },
   {
@@ -4698,7 +4698,7 @@
   {
     "scheme_id": "38686",
     "scheme_name": "Union Value FundStrategy",
-    "duration": "3 yrs",
+    "duration": "3 yrs 1 m",
     "nav": "\u20b930.42",
     "change": "-0.72%",
     "date": "Jul 18, 2025"
@@ -5618,7 +5618,7 @@
   {
     "scheme_id": "15667",
     "scheme_name": "Nippon India Liquid FundLiquid",
-    "duration": "10 yrs 10 m",
+    "duration": "10 yrs 11 m",
     "nav": "\u20b96,476.16",
     "change": "0.02%",
     "date": "Jul 20, 2025"
@@ -5964,7 +5964,7 @@
     "scheme_name": "JM Overnight FundOvernight",
     "duration": "-",
     "nav": "\u20b91,317.61",
-    "change": "0.03%",
+    "change": "0.01%",
     "date": "Jul 20, 2025"
   },
   {
@@ -6114,7 +6114,7 @@
   {
     "scheme_id": "41556",
     "scheme_name": "Baroda BNP Paribas Large & Mid Cap FundLarge & MidCap",
-    "duration": "3 yrs",
+    "duration": "3 yrs 1 m",
     "nav": "\u20b929.14",
     "change": "-0.66%",
     "date": "Jul 18, 2025"
@@ -6234,7 +6234,7 @@
   {
     "scheme_id": "41658",
     "scheme_name": "Mirae Asset Banking and Financial Services FundSectoral-Banking",
-    "duration": "3 yrs",
+    "duration": "3 yrs 1 m",
     "nav": "\u20b922.2",
     "change": "-0.95%",
     "date": "Jul 18, 2025"
@@ -6595,9 +6595,9 @@
     "scheme_id": "41922",
     "scheme_name": "Baroda BNP Paribas Aqua FoFInternational",
     "duration": "-",
-    "nav": "\u20b913.79",
-    "change": "1.19%",
-    "date": "Jul 17, 2025"
+    "nav": "\u20b913.88",
+    "change": "0.65%",
+    "date": "Jul 18, 2025"
   },
   {
     "scheme_id": "41930",
@@ -6690,7 +6690,7 @@
   {
     "scheme_id": "42001",
     "scheme_name": "HDFC Banking & Financial Services FundSectoral-Banking",
-    "duration": "3 yrs",
+    "duration": "3 yrs 1 m",
     "nav": "\u20b918.25",
     "change": "-1.01%",
     "date": "Jul 18, 2025"
@@ -6747,9 +6747,9 @@
     "scheme_id": "42063",
     "scheme_name": "Kotak Global Innovation FoFInternational",
     "duration": "-",
-    "nav": "\u20b911.73",
-    "change": "1%",
-    "date": "Jul 17, 2025"
+    "nav": "\u20b911.78",
+    "change": "0.42%",
+    "date": "Jul 18, 2025"
   },
   {
     "scheme_id": "42074",
@@ -6876,8 +6876,8 @@
     "scheme_name": "HDFC Developed World Equity Passive FoFInternational",
     "duration": "-",
     "nav": "\u20b916.1",
-    "change": "0.95%",
-    "date": "Jul 17, 2025"
+    "change": "0%",
+    "date": "Jul 18, 2025"
   },
   {
     "scheme_id": "42193",
