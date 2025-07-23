@@ -1515,9 +1515,9 @@
     "scheme_id": "15578",
     "scheme_name": "HDFC Low Duration FundLow Duration",
     "duration": "9 yrs 8 m",
-    "nav": "\u20b963.05",
-    "change": "0.04%",
-    "date": "Jul 21, 2025"
+    "nav": "\u20b963.06",
+    "change": "0.02%",
+    "date": "Jul 22, 2025"
   },
   {
     "scheme_id": "24791",
@@ -4611,9 +4611,9 @@
     "scheme_id": "15604",
     "scheme_name": "HDFC Floating Rate Debt FundFloater",
     "duration": "9 yrs 5 m",
-    "nav": "\u20b951.38",
-    "change": "0.06%",
-    "date": "Jul 21, 2025"
+    "nav": "\u20b951.39",
+    "change": "0.02%",
+    "date": "Jul 22, 2025"
   },
   {
     "scheme_id": "36866",
@@ -5756,8 +5756,8 @@
     "scheme_name": "HDFC Ultra Short Term FundUltra Short Duration",
     "duration": "-",
     "nav": "\u20b915.56",
-    "change": "0.04%",
-    "date": "Jul 21, 2025"
+    "change": "0.02%",
+    "date": "Jul 22, 2025"
   },
   {
     "scheme_id": "16303",
@@ -6762,10 +6762,10 @@
   {
     "scheme_id": "42088",
     "scheme_name": "Bandhan US Equity FoFInternational",
-    "duration": "2 yrs 6 m",
-    "nav": "\u20b917.21",
-    "change": "0.36%",
-    "date": "Jul 21, 2025"
+    "duration": "2 yrs 9 m",
+    "nav": "\u20b916.99",
+    "change": "-1.24%",
+    "date": "Jul 22, 2025"
   },
   {
     "scheme_id": "42084",
@@ -9283,9 +9283,9 @@
     "scheme_id": "44395",
     "scheme_name": "Bandhan Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b912.78",
-    "change": "0.23%",
-    "date": "Jul 21, 2025"
+    "nav": "\u20b912.79",
+    "change": "0.05%",
+    "date": "Jul 22, 2025"
   },
   {
     "scheme_id": "44391",
