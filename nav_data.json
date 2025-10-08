@@ -60,8 +60,8 @@
     "scheme_name": "Edelweiss Money Market FundMoney Market",
     "duration": "10 yrs",
     "nav": "\u20b931.94",
-    "change": "0.06%",
-    "date": "Oct 06, 2025"
+    "change": "0.01%",
+    "date": "Oct 07, 2025"
   },
   {
     "scheme_id": "15264",
@@ -939,9 +939,9 @@
     "scheme_id": "40652",
     "scheme_name": "Edelweiss Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,359.04",
+    "nav": "\u20b91,359.23",
     "change": "0.01%",
-    "date": "Oct 06, 2025"
+    "date": "Oct 07, 2025"
   },
   {
     "scheme_id": "30855",
@@ -1291,9 +1291,9 @@
     "scheme_id": "20548",
     "scheme_name": "Edelweiss Banking and PSU Debt FundBanking and PSU",
     "duration": "9 yrs 2 m",
-    "nav": "\u20b925.97",
-    "change": "0.08%",
-    "date": "Oct 06, 2025"
+    "nav": "\u20b925.98",
+    "change": "0.04%",
+    "date": "Oct 07, 2025"
   },
   {
     "scheme_id": "3196",
@@ -1371,9 +1371,9 @@
     "scheme_id": "16913",
     "scheme_name": "Edelweiss Aggressive Hybrid FundAggressive Hybrid",
     "duration": "4 yrs 3 m",
-    "nav": "\u20b973.92",
-    "change": "0.35%",
-    "date": "Oct 06, 2025"
+    "nav": "\u20b973.99",
+    "change": "0.09%",
+    "date": "Oct 07, 2025"
   },
   {
     "scheme_id": "19589",
@@ -2507,9 +2507,9 @@
     "scheme_id": "16149",
     "scheme_name": "Edelweiss Mid Cap FundMid Cap",
     "duration": "2 yrs 5 m",
-    "nav": "\u20b9118.37",
-    "change": "0.89%",
-    "date": "Oct 06, 2025"
+    "nav": "\u20b9118.8",
+    "change": "0.36%",
+    "date": "Oct 07, 2025"
   },
   {
     "scheme_id": "9789",
@@ -2988,8 +2988,8 @@
     "scheme_name": "Edelweiss Government Securities FundGilt",
     "duration": "9 yrs 2 m",
     "nav": "\u20b926.26",
-    "change": "0.16%",
-    "date": "Oct 06, 2025"
+    "change": "-0.02%",
+    "date": "Oct 07, 2025"
   },
   {
     "scheme_id": "16298",
@@ -3539,9 +3539,9 @@
     "scheme_id": "16139",
     "scheme_name": "Edelweiss Liquid FundLiquid",
     "duration": "11 yrs 1 m",
-    "nav": "\u20b93,461.41",
+    "nav": "\u20b93,461.96",
     "change": "0.02%",
-    "date": "Oct 06, 2025"
+    "date": "Oct 07, 2025"
   },
   {
     "scheme_id": "15520",
@@ -3843,9 +3843,9 @@
     "scheme_id": "27749",
     "scheme_name": "Edelweiss Equity Savings FundEquity Savings",
     "duration": "5 yrs 6 m",
-    "nav": "\u20b928.39",
-    "change": "0.11%",
-    "date": "Oct 06, 2025"
+    "nav": "\u20b928.41",
+    "change": "0.08%",
+    "date": "Oct 07, 2025"
   },
   {
     "scheme_id": "16512",
@@ -6524,8 +6524,8 @@
     "scheme_name": "Edelweiss NIFTY PSU Bond Plus SDL Apr 2026 50:50 Index FundTarget Maturity",
     "duration": "-",
     "nav": "\u20b913.29",
-    "change": "0.06%",
-    "date": "Oct 06, 2025"
+    "change": "0.02%",
+    "date": "Oct 07, 2025"
   },
   {
     "scheme_id": "41840",
@@ -6931,9 +6931,9 @@
     "scheme_id": "42237",
     "scheme_name": "Edelweiss NIFTY PSU Bond Plus SDL Apr 2027 50:50 IndexTarget Maturity",
     "duration": "-",
-    "nav": "\u20b912.71",
-    "change": "0.09%",
-    "date": "Oct 06, 2025"
+    "nav": "\u20b912.72",
+    "change": "0.06%",
+    "date": "Oct 07, 2025"
   },
   {
     "scheme_id": "42243",
@@ -7364,8 +7364,8 @@
     "scheme_name": "Edelweiss CRISIL PSU Plus SDL 50:50 Oct 2025 Index FundTarget Maturity",
     "duration": "-",
     "nav": "\u20b912.34",
-    "change": "0.05%",
-    "date": "Oct 06, 2025"
+    "change": "0.01%",
+    "date": "Oct 07, 2025"
   },
   {
     "scheme_id": "42610",
@@ -7779,9 +7779,9 @@
     "scheme_id": "43033",
     "scheme_name": "Edelweiss CRISIL IBX 50:50 Gilt Plus SDL April 2037 Index FundTarget Maturity",
     "duration": "-",
-    "nav": "\u20b912.96",
-    "change": "0.16%",
-    "date": "Oct 06, 2025"
+    "nav": "\u20b912.97",
+    "change": "0.12%",
+    "date": "Oct 07, 2025"
   },
   {
     "scheme_id": "43029",
@@ -7891,9 +7891,9 @@
     "scheme_id": "43081",
     "scheme_name": "Edelweiss CRISIL IBX 50:50 Gilt Plus SDL June 2027 Index FundTarget Maturity",
     "duration": "-",
-    "nav": "\u20b912.59",
-    "change": "0.05%",
-    "date": "Oct 06, 2025"
+    "nav": "\u20b912.6",
+    "change": "0.09%",
+    "date": "Oct 07, 2025"
   },
   {
     "scheme_id": "43087",
@@ -7987,9 +7987,9 @@
     "scheme_id": "43153",
     "scheme_name": "Edelweiss CRISIL IBX 50:50 Gilt Plus SDL Sep 2028 Index FundTarget Maturity",
     "duration": "-",
-    "nav": "\u20b912.67",
-    "change": "0.07%",
-    "date": "Oct 06, 2025"
+    "nav": "\u20b912.69",
+    "change": "0.1%",
+    "date": "Oct 07, 2025"
   },
   {
     "scheme_id": "43157",
@@ -8356,8 +8356,8 @@
     "scheme_name": "Edelweiss CRISIL IBX 50:50 Gilt Plus SDL Short Duration Index FundShort Duration",
     "duration": "-",
     "nav": "\u20b912.32",
-    "change": "0.06%",
-    "date": "Oct 06, 2025"
+    "change": "0.05%",
+    "date": "Oct 07, 2025"
   },
   {
     "scheme_id": "43546",
@@ -9003,9 +9003,9 @@
     "scheme_id": "44163",
     "scheme_name": "Edelweiss Multi Cap FundMulti Cap",
     "duration": "-",
-    "nav": "\u20b915.36",
-    "change": "0.71%",
-    "date": "Oct 06, 2025"
+    "nav": "\u20b915.4",
+    "change": "0.23%",
+    "date": "Oct 07, 2025"
   },
   {
     "scheme_id": "44167",
@@ -9787,9 +9787,9 @@
     "scheme_id": "44754",
     "scheme_name": "Edelweiss Business Cycle FundStrategy",
     "duration": "-",
-    "nav": "\u20b99.03",
-    "change": "0.97%",
-    "date": "Oct 06, 2025"
+    "nav": "\u20b99.05",
+    "change": "0.21%",
+    "date": "Oct 07, 2025"
   },
   {
     "scheme_id": "44757",
@@ -10523,9 +10523,9 @@
     "scheme_id": "45107",
     "scheme_name": "Edelweiss CRISIL IBX AAA Financial Services Bond - Jan 2028 Index FundTarget Maturity",
     "duration": "-",
-    "nav": "\u20b910.79",
-    "change": "0.04%",
-    "date": "Oct 06, 2025"
+    "nav": "\u20b910.8",
+    "change": "0.06%",
+    "date": "Oct 07, 2025"
   },
   {
     "scheme_id": "45111",
@@ -10931,9 +10931,9 @@
     "scheme_id": "45331",
     "scheme_name": "Edelweiss CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index FundTarget Maturity",
     "duration": "-",
-    "nav": "\u20b910.6",
-    "change": "0.07%",
-    "date": "Oct 06, 2025"
+    "nav": "\u20b910.61",
+    "change": "0.05%",
+    "date": "Oct 07, 2025"
   },
   {
     "scheme_id": "45336",
@@ -11067,9 +11067,9 @@
     "scheme_id": "45407",
     "scheme_name": "Edelweiss Low Duration FundLow Duration",
     "duration": "-",
-    "nav": "\u20b91,044.69",
-    "change": "0.06%",
-    "date": "Oct 06, 2025"
+    "nav": "\u20b91,044.75",
+    "change": "0.01%",
+    "date": "Oct 07, 2025"
   },
   {
     "scheme_id": "45412",
