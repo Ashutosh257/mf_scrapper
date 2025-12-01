@@ -43,17 +43,17 @@
     "scheme_id": "2116",
     "scheme_name": "SBI Credit Risk FundCredit Risk",
     "duration": "9 yrs 9 m",
-    "nav": "\u20b946.96",
-    "change": "-0.08%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b946.97",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "25378",
     "scheme_name": "HSBC Aggressive Hybrid Active FoFAggressive Hybrid",
     "duration": "4 yrs 11 m",
-    "nav": "\u20b940.97",
+    "nav": "\u20b940.93",
     "change": "-0.11%",
-    "date": "Nov 27, 2025"
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "7731",
@@ -100,8 +100,8 @@
     "scheme_name": "Bandhan Corporate Bond FundCorporate Bond",
     "duration": "-",
     "nav": "\u20b919.72",
-    "change": "-0.02%",
-    "date": "Nov 28, 2025"
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "2829",
@@ -123,9 +123,9 @@
     "scheme_id": "32503",
     "scheme_name": "Tata Equity Savings FundEquity Savings",
     "duration": "9 yrs 4 m",
-    "nav": "\u20b956.51",
-    "change": "0.04%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b956.49",
+    "change": "-0.04%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "31882",
@@ -138,18 +138,18 @@
   {
     "scheme_id": "39840",
     "scheme_name": "SBI Equity Minimum Variance FundLarge Cap",
-    "duration": "4 yrs 9 m",
+    "duration": "4 yrs 10 m",
     "nav": "\u20b924.94",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "2681",
     "scheme_name": "Franklin India Liquid FundLiquid",
     "duration": "11 yrs 1 m",
-    "nav": "\u20b94,024.73",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b94,026.01",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "32360",
@@ -162,10 +162,10 @@
   {
     "scheme_id": "32263",
     "scheme_name": "SBI Magnum Income FundMedium to Long Duration",
-    "duration": "9 yrs 7 m",
-    "nav": "\u20b971.7",
-    "change": "-0.1%",
-    "date": "Nov 28, 2025"
+    "duration": "9 yrs 8 m",
+    "nav": "\u20b971.72",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "32394",
@@ -195,9 +195,9 @@
     "scheme_id": "39224",
     "scheme_name": "DSP Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,410.15",
+    "nav": "\u20b91,410.57",
     "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "32378",
@@ -218,7 +218,7 @@
   {
     "scheme_id": "31997",
     "scheme_name": "HDFC Value FundStrategy",
-    "duration": "3 yrs 4 m",
+    "duration": "3 yrs 5 m",
     "nav": "\u20b9773.39",
     "change": "-0.22%",
     "date": "Nov 28, 2025"
@@ -243,9 +243,9 @@
     "scheme_id": "2233",
     "scheme_name": "SBI Focused FundStrategy",
     "duration": "4 yrs 7 m",
-    "nav": "\u20b9379.46",
-    "change": "0.08%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b9380.18",
+    "change": "0.2%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "32785",
@@ -275,9 +275,9 @@
     "scheme_id": "3321",
     "scheme_name": "Aditya Birla Sun Life Multi-Asset Omni FoFMulti Asset Allocation",
     "duration": "4 yrs 10 m",
-    "nav": "\u20b971.78",
-    "change": "0.06%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b971.86",
+    "change": "0.1%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "39700",
@@ -300,16 +300,16 @@
     "scheme_name": "HSBC Income Plus Arbitrage Active FoFTax Efficient Income",
     "duration": "11 yrs",
     "nav": "\u20b921.92",
-    "change": "-0.02%",
-    "date": "Nov 27, 2025"
+    "change": "-0.04%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "1853",
     "scheme_name": "SBI Dynamic Bond FundDynamic Bond",
-    "duration": "9 yrs 7 m",
-    "nav": "\u20b936.22",
-    "change": "-0.14%",
-    "date": "Nov 28, 2025"
+    "duration": "9 yrs 8 m",
+    "nav": "\u20b936.23",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "1825",
@@ -323,9 +323,9 @@
     "scheme_id": "21875",
     "scheme_name": "360 ONE Liquid FundLiquid",
     "duration": "11 yrs 8 m",
-    "nav": "\u20b92,056.56",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b92,057.19",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "31865",
@@ -379,9 +379,9 @@
     "scheme_id": "40679",
     "scheme_name": "Mahindra Manulife Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,361.56",
+    "nav": "\u20b91,361.95",
     "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "1768",
@@ -394,18 +394,18 @@
   {
     "scheme_id": "38059",
     "scheme_name": "Sundaram Services FundThematic",
-    "duration": "3 yrs 5 m",
-    "nav": "\u20b936.43",
-    "change": "-0.11%",
-    "date": "Nov 27, 2025"
+    "duration": "4 yrs 4 m",
+    "nav": "\u20b936.3",
+    "change": "-0.35%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "11656",
     "scheme_name": "Axis Midcap FundMid Cap",
     "duration": "4 yrs 6 m",
     "nav": "\u20b9115.02",
-    "change": "-0.06%",
-    "date": "Nov 28, 2025"
+    "change": "0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "4087",
@@ -452,8 +452,8 @@
     "scheme_name": "Bandhan Arbitrage FundArbitrage",
     "duration": "11 yrs 10 m",
     "nav": "\u20b933.16",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "change": "0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "1019",
@@ -499,9 +499,9 @@
     "scheme_id": "10502",
     "scheme_name": "Bandhan Asset Allocation ModerateBalanced Hybrid",
     "duration": "5 yrs 7 m",
-    "nav": "\u20b941.68",
-    "change": "0.04%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b941.69",
+    "change": "0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "5343",
@@ -523,9 +523,9 @@
     "scheme_id": "39768",
     "scheme_name": "Axis Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,396.13",
+    "nav": "\u20b91,396.55",
     "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "4874",
@@ -547,9 +547,9 @@
     "scheme_id": "40311",
     "scheme_name": "ITI Liquid FundLiquid",
     "duration": "-",
-    "nav": "\u20b91,392.24",
+    "nav": "\u20b91,392.66",
     "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "39611",
@@ -611,9 +611,9 @@
     "scheme_id": "9725",
     "scheme_name": "Bandhan Dynamic Bond FundDynamic Bond",
     "duration": "10 yrs 3 m",
-    "nav": "\u20b934.02",
-    "change": "-0.06%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b934.03",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "7970",
@@ -659,9 +659,9 @@
     "scheme_id": "33119",
     "scheme_name": "Mahindra Manulife Liquid FundLiquid",
     "duration": "-",
-    "nav": "\u20b91,739.57",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b91,740.11",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "39306",
@@ -683,9 +683,9 @@
     "scheme_id": "10511",
     "scheme_name": "Axis Short Duration FundShort Duration",
     "duration": "9 yrs 11 m",
-    "nav": "\u20b931.83",
-    "change": "0%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b931.84",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "25789",
@@ -706,7 +706,7 @@
   {
     "scheme_id": "32787",
     "scheme_name": "LIC MF Children's FundChildren Solutions",
-    "duration": "5 yrs 4 m",
+    "duration": "5 yrs 5 m",
     "nav": "\u20b933.07",
     "change": "0.04%",
     "date": "Nov 28, 2025"
@@ -746,7 +746,7 @@
   {
     "scheme_id": "40716",
     "scheme_name": "Motilal Oswal Nifty 500 Index FundMulti Cap Index",
-    "duration": "4 yrs 9 m",
+    "duration": "4 yrs 10 m",
     "nav": "\u20b926.66",
     "change": "-0.06%",
     "date": "Nov 28, 2025"
@@ -811,9 +811,9 @@
     "scheme_id": "17056",
     "scheme_name": "SBI Technology Opportunities FundSectoral-Technology",
     "duration": "4 yrs 6 m",
-    "nav": "\u20b9229.87",
-    "change": "0.26%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b9229.57",
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "34956",
@@ -821,15 +821,15 @@
     "duration": "5 yrs 5 m",
     "nav": "\u20b921.69",
     "change": "0%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "38015",
     "scheme_name": "Axis Ultra Short Duration FundUltra Short Duration",
     "duration": "-",
     "nav": "\u20b915.09",
-    "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "7010",
@@ -851,9 +851,9 @@
     "scheme_id": "39120",
     "scheme_name": "WhiteOak Capital Liquid FundLiquid",
     "duration": "-",
-    "nav": "\u20b91,437.08",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b91,437.51",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "32674",
@@ -867,9 +867,9 @@
     "scheme_id": "2128",
     "scheme_name": "ICICI Prudential Value FundStrategy",
     "duration": "3 yrs 4 m",
-    "nav": "\u20b9498.56",
-    "change": "0.06%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b9497.96",
+    "change": "-0.12%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "13091",
@@ -883,17 +883,17 @@
     "scheme_id": "10392",
     "scheme_name": "Axis Treasury Advantage FundLow Duration",
     "duration": "10 yrs 4 m",
-    "nav": "\u20b93,181.75",
-    "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b93,182.77",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "1290",
     "scheme_name": "SBI Overnight FundOvernight",
     "duration": "12 yrs",
-    "nav": "\u20b94,248.54",
+    "nav": "\u20b94,249.79",
     "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "2151",
@@ -907,9 +907,9 @@
     "scheme_id": "40646",
     "scheme_name": "Edelweiss Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,364.78",
+    "nav": "\u20b91,365.18",
     "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "30853",
@@ -922,7 +922,7 @@
   {
     "scheme_id": "7476",
     "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt FundBanking and PSU",
-    "duration": "9 yrs 7 m",
+    "duration": "9 yrs 8 m",
     "nav": "\u20b9376.56",
     "change": "-0.01%",
     "date": "Nov 28, 2025"
@@ -931,9 +931,9 @@
     "scheme_id": "40293",
     "scheme_name": "Baroda BNP Paribas Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,384.4",
+    "nav": "\u20b91,384.82",
     "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "34573",
@@ -956,8 +956,8 @@
     "scheme_name": "SBI Gold FundGold/ Precious Metal Funds",
     "duration": "1 yrs 11 m",
     "nav": "\u20b936.85",
-    "change": "0.42%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "1386",
@@ -988,16 +988,16 @@
     "scheme_name": "Bandhan Banking and PSU FundBanking and PSU",
     "duration": "10 yrs",
     "nav": "\u20b925.22",
-    "change": "-0.01%",
-    "date": "Nov 28, 2025"
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "35196",
     "scheme_name": "Axis Flexi Cap FundFlexi Cap",
     "duration": "5 yrs",
     "nav": "\u20b927.18",
-    "change": "0.04%",
-    "date": "Nov 28, 2025"
+    "change": "0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "31270",
@@ -1059,9 +1059,9 @@
     "scheme_id": "40395",
     "scheme_name": "HSBC Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,373.95",
+    "nav": "\u20b91,374.35",
     "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "39062",
@@ -1083,9 +1083,9 @@
     "scheme_id": "12253",
     "scheme_name": "Aditya Birla Sun Life Dynamic Asset Allocation Omni FoFMulti Asset Allocation",
     "duration": "4 yrs 10 m",
-    "nav": "\u20b955.37",
-    "change": "-0.07%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b955.3",
+    "change": "-0.12%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "2288",
@@ -1099,9 +1099,9 @@
     "scheme_id": "38316",
     "scheme_name": "Axis Large & Mid Cap FundLarge & MidCap",
     "duration": "4 yrs 6 m",
-    "nav": "\u20b933.69",
-    "change": "-0.06%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b933.68",
+    "change": "0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "31919",
@@ -1203,9 +1203,9 @@
     "scheme_id": "3825",
     "scheme_name": "Aditya Birla Sun Life Income plus Arbitrage Active FoFMedium to Long Duration",
     "duration": "10 yrs 3 m",
-    "nav": "\u20b938.39",
-    "change": "-0.01%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b938.38",
+    "change": "-0.03%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "11662",
@@ -1227,14 +1227,14 @@
     "scheme_id": "28968",
     "scheme_name": "SBI Banking & Financial Services FundSectoral-Banking",
     "duration": "3 yrs 4 m",
-    "nav": "\u20b945.76",
-    "change": "-0.26%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b945.75",
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "33825",
     "scheme_name": "LIC MF Midcap FundMid Cap",
-    "duration": "3 yrs 4 m",
+    "duration": "3 yrs 5 m",
     "nav": "\u20b929.59",
     "change": "0.01%",
     "date": "Nov 28, 2025"
@@ -1251,9 +1251,9 @@
     "scheme_id": "40138",
     "scheme_name": "Union Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,384.37",
+    "nav": "\u20b91,384.78",
     "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "20542",
@@ -1267,25 +1267,25 @@
     "scheme_id": "34459",
     "scheme_name": "Quantum Liquid FundLiquid",
     "duration": "-",
-    "nav": "\u20b935.77",
+    "nav": "\u20b935.78",
     "change": "0.02%",
-    "date": "Nov 29, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "3087",
     "scheme_name": "Franklin India Dividend Yield FundStrategy",
     "duration": "4 yrs 5 m",
-    "nav": "\u20b9139.48",
-    "change": "0.09%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b9139.08",
+    "change": "-0.28%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "5296",
     "scheme_name": "SBI Short Term Debt FundShort Duration",
     "duration": "10 yrs 2 m",
-    "nav": "\u20b933.05",
-    "change": "-0.02%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b933.06",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "32231",
@@ -1315,9 +1315,9 @@
     "scheme_id": "32552",
     "scheme_name": "SBI Magnum Constant Maturity FundGilt with 10 year Constant Duration",
     "duration": "9 yrs 3 m",
-    "nav": "\u20b964.73",
-    "change": "-0.24%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b964.75",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "38506",
@@ -1373,31 +1373,31 @@
     "duration": "5 yrs 8 m",
     "nav": "\u20b922.77",
     "change": "0%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "1992",
     "scheme_name": "Aditya Birla Sun Life Liquid FundLiquid",
     "duration": "11 yrs 1 m",
-    "nav": "\u20b9430.73",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b9430.87",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "27185",
     "scheme_name": "DSP Income Plus Arbitrage Omni FoFTax Efficient Income",
     "duration": "8 yrs 7 m",
     "nav": "\u20b921.73",
-    "change": "-0.01%",
-    "date": "Nov 27, 2025"
+    "change": "-0.02%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "17055",
     "scheme_name": "SBI Consumption Opportunities FundThematic-Consumption",
     "duration": "4 yrs 5 m",
-    "nav": "\u20b9308.76",
-    "change": "0.07%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b9308.73",
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "31894",
@@ -1418,7 +1418,7 @@
   {
     "scheme_id": "35254",
     "scheme_name": "HDFC Housing Opportunities FundThematic",
-    "duration": "3 yrs 4 m",
+    "duration": "3 yrs 5 m",
     "nav": "\u20b922.52",
     "change": "-0.18%",
     "date": "Nov 28, 2025"
@@ -1426,7 +1426,7 @@
   {
     "scheme_id": "1284",
     "scheme_name": "DSP Short-term FundShort Duration",
-    "duration": "10 yrs 7 m",
+    "duration": "10 yrs 8 m",
     "nav": "\u20b947.79",
     "change": "-0.04%",
     "date": "Nov 28, 2025"
@@ -1434,7 +1434,7 @@
   {
     "scheme_id": "30664",
     "scheme_name": "PGIM India ELSS Tax Saver FundELSS",
-    "duration": "4 yrs 9 m",
+    "duration": "4 yrs 10 m",
     "nav": "\u20b935.61",
     "change": "-0.06%",
     "date": "Nov 28, 2025"
@@ -1483,17 +1483,17 @@
     "scheme_id": "33980",
     "scheme_name": "Bandhan Credit Risk FundCredit Risk",
     "duration": "-",
-    "nav": "\u20b916.74",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b916.75",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "25382",
     "scheme_name": "HSBC Multi Asset Active FoFMulti Asset Allocation",
     "duration": "5 yrs",
-    "nav": "\u20b938.38",
-    "change": "0.16%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b938.37",
+    "change": "-0.03%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "2677",
@@ -1586,10 +1586,10 @@
   {
     "scheme_id": "32556",
     "scheme_name": "Bandhan Bond Fund Short Term PlanShort Duration",
-    "duration": "10 yrs 3 m",
-    "nav": "\u20b958.57",
-    "change": "-0.02%",
-    "date": "Nov 28, 2025"
+    "duration": "10 yrs 4 m",
+    "nav": "\u20b958.58",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "32225",
@@ -1611,14 +1611,14 @@
     "scheme_id": "2836",
     "scheme_name": "ICICI Prudential Liquid FundLiquid",
     "duration": "11 yrs 2 m",
-    "nav": "\u20b9395.66",
+    "nav": "\u20b9395.78",
     "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "32185",
     "scheme_name": "Nippon India Medium to Long Duration FundMedium to Long Duration",
-    "duration": "10 yrs 4 m",
+    "duration": "10 yrs 5 m",
     "nav": "\u20b990.18",
     "change": "-0.14%",
     "date": "Nov 28, 2025"
@@ -1667,17 +1667,17 @@
     "scheme_id": "12251",
     "scheme_name": "Aditya Birla Sun Life Aggressive Hybrid Omni FoFMulti Asset Allocation",
     "duration": "5 yrs 1 m",
-    "nav": "\u20b943.83",
-    "change": "-0.08%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b943.78",
+    "change": "-0.11%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "40628",
     "scheme_name": "Canara Robeco Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,365.59",
+    "nav": "\u20b91,366.01",
     "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "39294",
@@ -1690,10 +1690,10 @@
   {
     "scheme_id": "32501",
     "scheme_name": "Bandhan Bond Fund Income PlanMedium to Long Duration",
-    "duration": "10 yrs 11 m",
-    "nav": "\u20b965.26",
-    "change": "-0.07%",
-    "date": "Nov 28, 2025"
+    "duration": "11 yrs",
+    "nav": "\u20b965.28",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "2969",
@@ -1706,7 +1706,7 @@
   {
     "scheme_id": "2922",
     "scheme_name": "HSBC ELSS Tax saver FundELSS",
-    "duration": "3 yrs 4 m",
+    "duration": "3 yrs 5 m",
     "nav": "\u20b9138.03",
     "change": "-0.17%",
     "date": "Nov 28, 2025"
@@ -1747,17 +1747,17 @@
     "scheme_id": "31977",
     "scheme_name": "SBI ELSS Tax Saver FundELSS",
     "duration": "3 yrs 1 m",
-    "nav": "\u20b9451.63",
-    "change": "-0%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b9451.6",
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "19230",
     "scheme_name": "Parag Parikh Flexi Cap FundFlexi Cap",
     "duration": "3 yrs 5 m",
-    "nav": "\u20b986.84",
-    "change": "-0.15%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b986.97",
+    "change": "0.15%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "34464",
@@ -1765,12 +1765,12 @@
     "duration": "5 yrs 7 m",
     "nav": "\u20b936.04",
     "change": "-0%",
-    "date": "Nov 27, 2025"
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "32210",
     "scheme_name": "Tata Large Cap FundLarge Cap",
-    "duration": "4 yrs 9 m",
+    "duration": "4 yrs 10 m",
     "nav": "\u20b9525.56",
     "change": "0.08%",
     "date": "Nov 28, 2025"
@@ -1780,8 +1780,8 @@
     "scheme_name": "Bandhan Infrastructure FundSectoral-Infrastructure",
     "duration": "2 yrs 8 m",
     "nav": "\u20b948.93",
-    "change": "-0.26%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "37164",
@@ -1795,17 +1795,17 @@
     "scheme_id": "2182",
     "scheme_name": "Bandhan Income Plus Arbitrage Active FoFTax Efficient Income",
     "duration": "10 yrs 2 m",
-    "nav": "\u20b944.79",
-    "change": "-0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b944.8",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "2249",
     "scheme_name": "Sundaram Liquid FundLiquid",
     "duration": "11 yrs 3 m",
-    "nav": "\u20b92,356.76",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b92,357.48",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "1292",
@@ -1858,10 +1858,10 @@
   {
     "scheme_id": "26746",
     "scheme_name": "Axis Credit Risk FundCredit Risk",
-    "duration": "10 yrs 3 m",
-    "nav": "\u20b922.17",
-    "change": "0.05%",
-    "date": "Nov 28, 2025"
+    "duration": "10 yrs 4 m",
+    "nav": "\u20b922.18",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "6465",
@@ -1882,7 +1882,7 @@
   {
     "scheme_id": "34477",
     "scheme_name": "Mahindra Manulife Multi Cap FundMulti Cap",
-    "duration": "3 yrs 4 m",
+    "duration": "3 yrs 5 m",
     "nav": "\u20b936.3",
     "change": "-0.06%",
     "date": "Nov 28, 2025"
@@ -1891,9 +1891,9 @@
     "scheme_id": "32554",
     "scheme_name": "SBI Magnum Gilt FundGilt",
     "duration": "9 yrs 4 m",
-    "nav": "\u20b966.4",
-    "change": "-0.25%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b966.42",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "32611",
@@ -1931,9 +1931,9 @@
     "scheme_id": "3699",
     "scheme_name": "Invesco India Liquid FundLiquid",
     "duration": "11 yrs 2 m",
-    "nav": "\u20b93,674.06",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b93,675.21",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "5453",
@@ -1979,9 +1979,9 @@
     "scheme_id": "2626",
     "scheme_name": "SBI Comma FundThematic",
     "duration": "4 yrs 8 m",
-    "nav": "\u20b9106.08",
-    "change": "-0.47%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b9106.06",
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "9806",
@@ -2003,9 +2003,9 @@
     "scheme_id": "1769",
     "scheme_name": "ICICI Prudential Dynamic Asset Allocation Active FoFMulti Asset Allocation",
     "duration": "5 yrs",
-    "nav": "\u20b9124.45",
-    "change": "-0.01%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b9124.34",
+    "change": "-0.09%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "10232",
@@ -2034,7 +2034,7 @@
   {
     "scheme_id": "7626",
     "scheme_name": "Kotak Dynamic Bond FundDynamic Bond",
-    "duration": "9 yrs 7 m",
+    "duration": "9 yrs 8 m",
     "nav": "\u20b937.86",
     "change": "-0.15%",
     "date": "Nov 28, 2025"
@@ -2042,7 +2042,7 @@
   {
     "scheme_id": "4085",
     "scheme_name": "Invesco India Contra FundStrategy",
-    "duration": "3 yrs 4 m",
+    "duration": "3 yrs 5 m",
     "nav": "\u20b9139.01",
     "change": "-0.04%",
     "date": "Nov 28, 2025"
@@ -2052,8 +2052,8 @@
     "scheme_name": "Motilal Oswal Liquid FundLiquid",
     "duration": "-",
     "nav": "\u20b914.11",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "1761",
@@ -2067,9 +2067,9 @@
     "scheme_id": "13899",
     "scheme_name": "Axis Strategic Bond FundMedium Duration",
     "duration": "9 yrs 5 m",
-    "nav": "\u20b928.85",
-    "change": "-0.02%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b928.86",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "6469",
@@ -2099,25 +2099,25 @@
     "scheme_id": "31805",
     "scheme_name": "Aditya Birla Sun Life MNC FundThematic-MNC",
     "duration": "5 yrs 6 m",
-    "nav": "\u20b91,346.37",
-    "change": "-0.41%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b91,348.35",
+    "change": "0.15%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "5608",
     "scheme_name": "PGIM India Liquid FundLiquid",
-    "duration": "11 yrs 1 m",
-    "nav": "\u20b9348",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "duration": "11 yrs 2 m",
+    "nav": "\u20b9348.11",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "12963",
     "scheme_name": "Axis Gold FundGold/ Precious Metal Funds",
     "duration": "2 yrs",
     "nav": "\u20b936.6",
-    "change": "0.51%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "2178",
@@ -2131,9 +2131,9 @@
     "scheme_id": "32321",
     "scheme_name": "SBI Contra FundStrategy",
     "duration": "3 yrs 4 m",
-    "nav": "\u20b9397.19",
-    "change": "-0.08%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b9396.85",
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "13306",
@@ -2163,14 +2163,14 @@
     "scheme_id": "2960",
     "scheme_name": "Bandhan Focused FundStrategy",
     "duration": "4 yrs 7 m",
-    "nav": "\u20b989.6",
-    "change": "0.08%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b989.59",
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "32132",
     "scheme_name": "HDFC Dynamic Debt FundDynamic Bond",
-    "duration": "11 yrs",
+    "duration": "11 yrs 1 m",
     "nav": "\u20b989.93",
     "change": "-0.17%",
     "date": "Nov 28, 2025"
@@ -2178,7 +2178,7 @@
   {
     "scheme_id": "34462",
     "scheme_name": "Quantum Value FundStrategy",
-    "duration": "4 yrs 9 m",
+    "duration": "4 yrs 10 m",
     "nav": "\u20b9127.42",
     "change": "-0.17%",
     "date": "Nov 28, 2025"
@@ -2195,9 +2195,9 @@
     "scheme_id": "2420",
     "scheme_name": "Franklin India Large & Mid Cap FundLarge & MidCap",
     "duration": "4 yrs 6 m",
-    "nav": "\u20b9197.56",
-    "change": "-0.18%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b9197.59",
+    "change": "0.01%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "33990",
@@ -2268,16 +2268,16 @@
     "scheme_name": "SBI Arbitrage Opportunities FundArbitrage",
     "duration": "11 yrs 9 m",
     "nav": "\u20b934.6",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "change": "0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "1377",
     "scheme_name": "Aditya Birla Sun Life Dividend Yield FundStrategy",
     "duration": "3 yrs 4 m",
-    "nav": "\u20b9457.05",
-    "change": "-0.03%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b9456.05",
+    "change": "-0.22%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "6399",
@@ -2299,9 +2299,9 @@
     "scheme_id": "38676",
     "scheme_name": "DSP Healthcare FundSectoral-Pharma",
     "duration": "3 yrs 4 m",
-    "nav": "\u20b939.87",
-    "change": "0.63%",
-    "date": "Nov 26, 2025"
+    "nav": "\u20b940.02",
+    "change": "0.38%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "1370",
@@ -2315,9 +2315,9 @@
     "scheme_id": "2260",
     "scheme_name": "Tata Liquid FundLiquid",
     "duration": "11 yrs 2 m",
-    "nav": "\u20b94,210.02",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b94,211.34",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "13469",
@@ -2339,9 +2339,9 @@
     "scheme_id": "1808",
     "scheme_name": "UTI Overnight FundOvernight",
     "duration": "11 yrs 10 m",
-    "nav": "\u20b93,584.07",
+    "nav": "\u20b93,585.13",
     "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "10234",
@@ -2363,9 +2363,9 @@
     "scheme_id": "2118",
     "scheme_name": "SBI Savings FundMoney Market",
     "duration": "10 yrs 10 m",
-    "nav": "\u20b942.53",
-    "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b942.55",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "2463",
@@ -2396,8 +2396,8 @@
     "scheme_name": "SBI Long Term Advantage Fund Series IIIELSS",
     "duration": "4 yrs 5 m",
     "nav": "\u20b943.21",
-    "change": "-0.33%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "6034",
@@ -2410,7 +2410,7 @@
   {
     "scheme_id": "34465",
     "scheme_name": "Quantum ELSS Tax Saver FundELSS",
-    "duration": "4 yrs 9 m",
+    "duration": "4 yrs 10 m",
     "nav": "\u20b9126.47",
     "change": "-0.17%",
     "date": "Nov 28, 2025"
@@ -2435,30 +2435,30 @@
     "scheme_id": "8134",
     "scheme_name": "Bank of India Liquid FundLiquid",
     "duration": "11 yrs 2 m",
-    "nav": "\u20b93,078.9",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b93,079.91",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "10833",
     "scheme_name": "Axis Conservative Hybrid FundConservative Hybrid",
     "duration": "10 yrs 5 m",
     "nav": "\u20b930.6",
-    "change": "-0.04%",
-    "date": "Nov 28, 2025"
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "32245",
     "scheme_name": "Franklin India Technology FundSectoral-Technology",
-    "duration": "4 yrs 10 m",
-    "nav": "\u20b9529.79",
-    "change": "-0.08%",
-    "date": "Nov 27, 2025"
+    "duration": "4 yrs 11 m",
+    "nav": "\u20b9529.65",
+    "change": "-0.03%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "33424",
     "scheme_name": "Motilal Oswal Balanced Advantage FundDynamic Asset Allocation",
-    "duration": "8 yrs 9 m",
+    "duration": "8 yrs 10 m",
     "nav": "\u20b920.23",
     "change": "0.07%",
     "date": "Nov 28, 2025"
@@ -2474,7 +2474,7 @@
   {
     "scheme_id": "5077",
     "scheme_name": "Nippon India Large Cap FundLarge Cap",
-    "duration": "3 yrs 4 m",
+    "duration": "3 yrs 5 m",
     "nav": "\u20b994.45",
     "change": "-0%",
     "date": "Nov 28, 2025"
@@ -2482,7 +2482,7 @@
   {
     "scheme_id": "31881",
     "scheme_name": "Tata Large & Mid Cap FundLarge & MidCap",
-    "duration": "4 yrs 9 m",
+    "duration": "4 yrs 10 m",
     "nav": "\u20b9526.41",
     "change": "0.05%",
     "date": "Nov 28, 2025"
@@ -2507,9 +2507,9 @@
     "scheme_id": "2126",
     "scheme_name": "Kotak Multi Asset Omni FoFMulti Asset Allocation",
     "duration": "3 yrs 5 m",
-    "nav": "\u20b9253.4",
-    "change": "-0.07%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b9253.18",
+    "change": "-0.08%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "12983",
@@ -2523,9 +2523,9 @@
     "scheme_id": "40453",
     "scheme_name": "ICICI Prudential MNC FundThematic-MNC",
     "duration": "4 yrs 8 m",
-    "nav": "\u20b929.31",
-    "change": "-0.03%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b929.43",
+    "change": "0.41%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "36421",
@@ -2538,7 +2538,7 @@
   {
     "scheme_id": "5050",
     "scheme_name": "DSP Flexi Cap FundFlexi Cap",
-    "duration": "4 yrs 9 m",
+    "duration": "4 yrs 10 m",
     "nav": "\u20b9105.39",
     "change": "-0.18%",
     "date": "Nov 28, 2025"
@@ -2547,17 +2547,17 @@
     "scheme_id": "1801",
     "scheme_name": "UTI Liquid FundLiquid",
     "duration": "11 yrs 2 m",
-    "nav": "\u20b94,385.4",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b94,386.78",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "32298",
     "scheme_name": "SBI Magnum Ultra Short Duration FundUltra Short Duration",
     "duration": "10 yrs 9 m",
-    "nav": "\u20b96,129.77",
-    "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b96,131.69",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "31809",
@@ -2603,9 +2603,9 @@
     "scheme_id": "6915",
     "scheme_name": "DSP Natural Resources and New Energy FundEnergy",
     "duration": "3 yrs 4 m",
-    "nav": "\u20b995.6",
-    "change": "-0.27%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b995.31",
+    "change": "-0.3%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "40489",
@@ -2643,9 +2643,9 @@
     "scheme_id": "9741",
     "scheme_name": "Bandhan ELSS Tax Saver FundELSS",
     "duration": "4 yrs 6 m",
-    "nav": "\u20b9158.65",
-    "change": "0.1%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b9158.64",
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "32142",
@@ -2667,17 +2667,17 @@
     "scheme_id": "3207",
     "scheme_name": "Bandhan Large Cap FundLarge Cap",
     "duration": "4 yrs 7 m",
-    "nav": "\u20b980.78",
-    "change": "0.1%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b980.77",
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "2477",
     "scheme_name": "SBI Midcap FundMid Cap",
     "duration": "4 yrs 5 m",
-    "nav": "\u20b9236.25",
-    "change": "-0.02%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b9236.24",
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "2460",
@@ -2691,17 +2691,17 @@
     "scheme_id": "28234",
     "scheme_name": "Franklin India Income Plus Arbitrage Active FoFMulti Asset Allocation",
     "duration": "5 yrs",
-    "nav": "\u20b921.48",
-    "change": "-0.01%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b921.47",
+    "change": "-0.05%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "38732",
     "scheme_name": "ICICI Prudential Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,418.13",
+    "nav": "\u20b91,418.54",
     "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "39539",
@@ -2746,10 +2746,10 @@
   {
     "scheme_id": "34456",
     "scheme_name": "Quantum Diversified Equity All Cap Active FoFStrategy",
-    "duration": "4 yrs 9 m",
-    "nav": "\u20b986.65",
-    "change": "-0.02%",
-    "date": "Nov 27, 2025"
+    "duration": "4 yrs 10 m",
+    "nav": "\u20b986.59",
+    "change": "-0.07%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "4948",
@@ -2787,25 +2787,25 @@
     "scheme_id": "4471",
     "scheme_name": "SBI Liquid FundLiquid",
     "duration": "11 yrs 3 m",
-    "nav": "\u20b94,177.04",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b94,178.33",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "10498",
     "scheme_name": "Bandhan Asset Allocation ConservativeConservative Hybrid",
     "duration": "9 yrs 5 m",
-    "nav": "\u20b934.38",
+    "nav": "\u20b934.39",
     "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "40620",
     "scheme_name": "LIC MF Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,361.31",
+    "nav": "\u20b91,361.71",
     "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "1898",
@@ -2818,7 +2818,7 @@
   {
     "scheme_id": "5428",
     "scheme_name": "Quant Infrastructure FundSectoral-Infrastructure",
-    "duration": "3 yrs 4 m",
+    "duration": "3 yrs 5 m",
     "nav": "\u20b938.29",
     "change": "-0.1%",
     "date": "Nov 28, 2025"
@@ -2851,14 +2851,14 @@
     "scheme_id": "32285",
     "scheme_name": "ICICI Prudential FMCG FundThematic",
     "duration": "5 yrs",
-    "nav": "\u20b9475.36",
-    "change": "0.16%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b9475.52",
+    "change": "0.03%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "2605",
     "scheme_name": "Nippon India Aggressive Hybrid FundAggressive Hybrid",
-    "duration": "4 yrs 9 m",
+    "duration": "4 yrs 10 m",
     "nav": "\u20b9108.27",
     "change": "-0%",
     "date": "Nov 28, 2025"
@@ -2891,9 +2891,9 @@
     "scheme_id": "2937",
     "scheme_name": "Bandhan Low Duration FundLow Duration",
     "duration": "10 yrs 6 m",
-    "nav": "\u20b939.6",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b939.62",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "15020",
@@ -2907,9 +2907,9 @@
     "scheme_id": "40359",
     "scheme_name": "Franklin India Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,375.98",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b91,376.39",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "32511",
@@ -2955,25 +2955,25 @@
     "scheme_id": "31976",
     "scheme_name": "SBI Large & Midcap FundLarge & MidCap",
     "duration": "3 yrs 5 m",
-    "nav": "\u20b9650.88",
-    "change": "0.24%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b9650.52",
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "1394",
     "scheme_name": "Bandhan Money Market FundMoney Market",
     "duration": "11 yrs 4 m",
-    "nav": "\u20b941.4",
-    "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b941.42",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "12508",
     "scheme_name": "Union Liquid FundLiquid",
     "duration": "11 yrs 7 m",
-    "nav": "\u20b92,572.28",
+    "nav": "\u20b92,573.09",
     "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "5703",
@@ -2995,9 +2995,9 @@
     "scheme_id": "1593",
     "scheme_name": "Bandhan Bond Fund Medium Term PlanMedium Duration",
     "duration": "10 yrs 9 m",
-    "nav": "\u20b946.59",
-    "change": "-0.18%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b946.61",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "11934",
@@ -3034,10 +3034,10 @@
   {
     "scheme_id": "2893",
     "scheme_name": "SBI Large Cap FundLarge Cap",
-    "duration": "4 yrs 9 m",
+    "duration": "4 yrs 10 m",
     "nav": "\u20b996.07",
-    "change": "-0.05%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "32241",
@@ -3068,8 +3068,8 @@
     "scheme_name": "SBI Infrastructure FundSectoral-Infrastructure",
     "duration": "3 yrs 4 m",
     "nav": "\u20b949.72",
-    "change": "-0.38%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "5689",
@@ -3083,33 +3083,33 @@
     "scheme_id": "32420",
     "scheme_name": "ICICI Prudential Technology FundSectoral-Technology",
     "duration": "4 yrs 9 m",
-    "nav": "\u20b9206.05",
-    "change": "0.07%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b9205.8",
+    "change": "-0.12%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "2671",
     "scheme_name": "SBI Flexicap FundFlexi Cap",
     "duration": "4 yrs 11 m",
-    "nav": "\u20b9113.26",
-    "change": "0.22%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b9113.11",
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "36493",
     "scheme_name": "Parag Parikh Liquid FundLiquid",
     "duration": "-",
-    "nav": "\u20b91,482.18",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b91,482.63",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "34867",
     "scheme_name": "Axis Corporate Bond FundCorporate Bond",
     "duration": "-",
     "nav": "\u20b917.58",
-    "change": "0%",
-    "date": "Nov 28, 2025"
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "1036",
@@ -3164,13 +3164,13 @@
     "scheme_name": "UTI Aggressive Hybrid FundAggressive Hybrid",
     "duration": "4 yrs 6 m",
     "nav": "\u20b9418.13",
-    "change": "0.03%",
-    "date": "Nov 27, 2025"
+    "change": "-0%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "1603",
     "scheme_name": "JM Dynamic Bond FundDynamic Bond",
-    "duration": "10 yrs 7 m",
+    "duration": "10 yrs 8 m",
     "nav": "\u20b942.47",
     "change": "-0.04%",
     "date": "Nov 28, 2025"
@@ -3186,7 +3186,7 @@
   {
     "scheme_id": "39641",
     "scheme_name": "DSP Nifty Next 50 Index FundLarge Cap Index",
-    "duration": "4 yrs 6 m",
+    "duration": "4 yrs 7 m",
     "nav": "\u20b926.71",
     "change": "0.1%",
     "date": "Nov 28, 2025"
@@ -3203,9 +3203,9 @@
     "scheme_id": "12249",
     "scheme_name": "Aditya Birla Sun Life Conservative Hybrid Active FoFMulti Asset Allocation",
     "duration": "5 yrs 8 m",
-    "nav": "\u20b934.86",
-    "change": "-0.04%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b934.82",
+    "change": "-0.1%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "11152",
@@ -3218,7 +3218,7 @@
   {
     "scheme_id": "32762",
     "scheme_name": "ICICI Prudential Short Term FundShort Duration",
-    "duration": "9 yrs 7 m",
+    "duration": "9 yrs 8 m",
     "nav": "\u20b961.96",
     "change": "0.01%",
     "date": "Nov 28, 2025"
@@ -3235,9 +3235,9 @@
     "scheme_id": "1016",
     "scheme_name": "SBI Nifty Index FundLarge Cap Index",
     "duration": "4 yrs 11 m",
-    "nav": "\u20b9231.87",
-    "change": "-0.05%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b9231.86",
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "32350",
@@ -3266,7 +3266,7 @@
   {
     "scheme_id": "28150",
     "scheme_name": "Kotak Aggressive Hybrid FundAggressive Hybrid",
-    "duration": "4 yrs 9 m",
+    "duration": "4 yrs 10 m",
     "nav": "\u20b963.66",
     "change": "-0.08%",
     "date": "Nov 28, 2025"
@@ -3275,9 +3275,9 @@
     "scheme_id": "32613",
     "scheme_name": "SBI Conservative Hybrid FundConservative Hybrid",
     "duration": "5 yrs 8 m",
-    "nav": "\u20b974.63",
-    "change": "-0.1%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b974.65",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "10816",
@@ -3298,7 +3298,7 @@
   {
     "scheme_id": "1555",
     "scheme_name": "Sundaram Short Duration FundShort Duration",
-    "duration": "11 yrs",
+    "duration": "11 yrs 1 m",
     "nav": "\u20b945.43",
     "change": "-0.03%",
     "date": "Nov 28, 2025"
@@ -3322,7 +3322,7 @@
   {
     "scheme_id": "32396",
     "scheme_name": "LIC MF Gilt FundGilt",
-    "duration": "10 yrs 11 m",
+    "duration": "11 yrs",
     "nav": "\u20b958.78",
     "change": "-0.44%",
     "date": "Nov 28, 2025"
@@ -3355,9 +3355,9 @@
     "scheme_id": "39322",
     "scheme_name": "Kotak Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,403.49",
+    "nav": "\u20b91,403.91",
     "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "39932",
@@ -3387,9 +3387,9 @@
     "scheme_id": "10388",
     "scheme_name": "Axis Liquid FundLiquid",
     "duration": "11 yrs 1 m",
-    "nav": "\u20b92,976.58",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b92,977.51",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "19310",
@@ -3411,9 +3411,9 @@
     "scheme_id": "31893",
     "scheme_name": "Franklin India Large Cap FundLarge Cap",
     "duration": "4 yrs 11 m",
-    "nav": "\u20b91,069.59",
-    "change": "-0.04%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b91,070.22",
+    "change": "0.06%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "1325",
@@ -3427,9 +3427,9 @@
     "scheme_id": "5709",
     "scheme_name": "Edelweiss Liquid FundLiquid",
     "duration": "11 yrs 4 m",
-    "nav": "\u20b93,418.86",
+    "nav": "\u20b93,419.93",
     "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "32331",
@@ -3492,16 +3492,16 @@
     "scheme_name": "Bandhan Asset Allocation AggressiveAggressive Hybrid",
     "duration": "5 yrs",
     "nav": "\u20b947.24",
-    "change": "0.07%",
-    "date": "Nov 28, 2025"
+    "change": "0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "10495",
     "scheme_name": "Bandhan Conservative Hybrid FundConservative Hybrid",
     "duration": "10 yrs 6 m",
-    "nav": "\u20b932.65",
+    "nav": "\u20b932.66",
     "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "1424",
@@ -3539,9 +3539,9 @@
     "scheme_id": "12191",
     "scheme_name": "Axis Dynamic Bond FundDynamic Bond",
     "duration": "9 yrs 8 m",
-    "nav": "\u20b930.21",
-    "change": "-0.12%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b930.22",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "28978",
@@ -3555,9 +3555,9 @@
     "scheme_id": "8076",
     "scheme_name": "Canara Robeco Liquid FundLiquid",
     "duration": "11 yrs 3 m",
-    "nav": "\u20b93,217.43",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b93,218.42",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "37746",
@@ -3570,26 +3570,26 @@
   {
     "scheme_id": "9932",
     "scheme_name": "Baroda BNP Paribas Liquid FundLiquid",
-    "duration": "11 yrs 1 m",
-    "nav": "\u20b93,072.51",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "duration": "11 yrs 2 m",
+    "nav": "\u20b93,073.47",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "32544",
     "scheme_name": "HDFC Liquid FundLiquid",
     "duration": "11 yrs 3 m",
-    "nav": "\u20b95,244.17",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b95,245.81",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "1771",
     "scheme_name": "ICICI Prudential Thematic Advantage Fund (FOF)Strategy",
     "duration": "3 yrs 5 m",
-    "nav": "\u20b9233.02",
-    "change": "-0.09%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b9232.63",
+    "change": "-0.17%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "36872",
@@ -3603,9 +3603,9 @@
     "scheme_id": "1745",
     "scheme_name": "Kotak Liquid FundLiquid",
     "duration": "11 yrs 2 m",
-    "nav": "\u20b95,402.58",
+    "nav": "\u20b95,404.24",
     "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "1663",
@@ -3659,9 +3659,9 @@
     "scheme_id": "29776",
     "scheme_name": "SBI Equity Savings FundEquity Savings",
     "duration": "5 yrs 6 m",
-    "nav": "\u20b924.51",
-    "change": "-0.08%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b924.5",
+    "change": "0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "10960",
@@ -3738,7 +3738,7 @@
   {
     "scheme_id": "3066",
     "scheme_name": "Baroda BNP Paribas Midcap FundMid Cap",
-    "duration": "3 yrs 4 m",
+    "duration": "3 yrs 5 m",
     "nav": "\u20b9105.25",
     "change": "0.09%",
     "date": "Nov 28, 2025"
@@ -3747,9 +3747,9 @@
     "scheme_id": "31980",
     "scheme_name": "SBI MNC FundThematic-MNC",
     "duration": "5 yrs 2 m",
-    "nav": "\u20b9361.15",
-    "change": "0.12%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b9361.12",
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "3532",
@@ -3771,22 +3771,22 @@
     "scheme_id": "31969",
     "scheme_name": "SBI ESG Exclusionary Strategy FundThematic-ESG",
     "duration": "4 yrs 11 m",
-    "nav": "\u20b9247.96",
-    "change": "-0.1%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b9247.94",
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "10265",
     "scheme_name": "SBI Small Cap FundSmall Cap",
     "duration": "4 yrs 6 m",
     "nav": "\u20b9169.87",
-    "change": "-0.09%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "1251",
     "scheme_name": "Canara Robeco Income FundMedium to Long Duration",
-    "duration": "11 yrs",
+    "duration": "11 yrs 1 m",
     "nav": "\u20b955.75",
     "change": "-0.21%",
     "date": "Nov 28, 2025"
@@ -3803,9 +3803,9 @@
     "scheme_id": "37434",
     "scheme_name": "Bandhan Ultra Short Duration FundUltra Short Duration",
     "duration": "-",
-    "nav": "\u20b915.61",
-    "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b915.62",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "14514",
@@ -3819,9 +3819,9 @@
     "scheme_id": "31983",
     "scheme_name": "SBI Equity Hybrid FundAggressive Hybrid",
     "duration": "5 yrs",
-    "nav": "\u20b9311.81",
-    "change": "-0.13%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b9312.14",
+    "change": "0.11%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "28921",
@@ -3877,7 +3877,7 @@
     "duration": "5 yrs 6 m",
     "nav": "\u20b924.92",
     "change": "-0%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "27390",
@@ -3899,9 +3899,9 @@
     "scheme_id": "1054",
     "scheme_name": "HDFC Overnight FundOvernight",
     "duration": "12 yrs 2 m",
-    "nav": "\u20b93,885.87",
+    "nav": "\u20b93,886.97",
     "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "32500",
@@ -4011,25 +4011,25 @@
     "scheme_id": "2611",
     "scheme_name": "Bandhan Large & Mid Cap FundLarge & MidCap",
     "duration": "2 yrs 8 m",
-    "nav": "\u20b9140.7",
-    "change": "0.06%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b9140.69",
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "10970",
     "scheme_name": "Axis Multi Asset Allocation FundMulti Asset Allocation",
-    "duration": "5 yrs 1 m",
+    "duration": "5 yrs 2 m",
     "nav": "\u20b943.46",
-    "change": "0.14%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "31895",
     "scheme_name": "Franklin India Flexi Cap FundFlexi Cap",
     "duration": "3 yrs 5 m",
-    "nav": "\u20b91,683.24",
-    "change": "-0.03%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b91,681.43",
+    "change": "-0.11%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "35222",
@@ -4139,9 +4139,9 @@
     "scheme_id": "39017",
     "scheme_name": "Nippon India Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b9141.29",
+    "nav": "\u20b9141.33",
     "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "27070",
@@ -4195,9 +4195,9 @@
     "scheme_id": "32410",
     "scheme_name": "Aditya Birla Sun Life Digital India FundSectoral-Technology",
     "duration": "4 yrs 10 m",
-    "nav": "\u20b9177.16",
-    "change": "-0.1%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b9176.88",
+    "change": "-0.16%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "2594",
@@ -4219,25 +4219,25 @@
     "scheme_id": "13478",
     "scheme_name": "Axis Gilt FundGilt",
     "duration": "9 yrs 9 m",
-    "nav": "\u20b925.71",
-    "change": "-0.32%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b925.72",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "1318",
     "scheme_name": "ICICI Prudential Multi Asset FundMulti Asset Allocation",
     "duration": "3 yrs 11 m",
-    "nav": "\u20b9810.37",
-    "change": "0.07%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b9810.71",
+    "change": "0.04%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "14458",
     "scheme_name": "Axis Banking & PSU Debt FundBanking and PSU",
     "duration": "9 yrs 11 m",
-    "nav": "\u20b92,708.16",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b92,709.02",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "32438",
@@ -4259,9 +4259,9 @@
     "scheme_id": "9859",
     "scheme_name": "Mirae Asset Liquid FundLiquid",
     "duration": "11 yrs 3 m",
-    "nav": "\u20b92,802.88",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b92,803.74",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "29210",
@@ -4332,8 +4332,8 @@
     "scheme_name": "Bandhan Nifty 50 Index FundLarge Cap Index",
     "duration": "4 yrs 11 m",
     "nav": "\u20b956.46",
-    "change": "-0.05%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "32140",
@@ -4386,7 +4386,7 @@
   {
     "scheme_id": "32271",
     "scheme_name": "Kotak Banking and PSU Debt FundBanking and PSU",
-    "duration": "9 yrs 7 m",
+    "duration": "9 yrs 8 m",
     "nav": "\u20b967.34",
     "change": "0.03%",
     "date": "Nov 28, 2025"
@@ -4427,17 +4427,17 @@
     "scheme_id": "38610",
     "scheme_name": "Aditya Birla Sun Life Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,420.25",
+    "nav": "\u20b91,420.67",
     "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "7531",
     "scheme_name": "Bandhan Equity Savings FundEquity Savings",
     "duration": "10 yrs 10 m",
     "nav": "\u20b931.82",
-    "change": "-0.01%",
-    "date": "Nov 28, 2025"
+    "change": "0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "2455",
@@ -4474,10 +4474,10 @@
   {
     "scheme_id": "5300",
     "scheme_name": "SBI Magnum Low Duration FundLow Duration",
-    "duration": "10 yrs 7 m",
-    "nav": "\u20b93,584.97",
-    "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "duration": "10 yrs 8 m",
+    "nav": "\u20b93,586.02",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "12984",
@@ -4523,17 +4523,17 @@
     "scheme_id": "32194",
     "scheme_name": "JM Liquid FundLiquid",
     "duration": "11 yrs 2 m",
-    "nav": "\u20b972.91",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b972.93",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "10358",
     "scheme_name": "SBI Banking and PSU FundBanking and PSU",
     "duration": "10 yrs 2 m",
-    "nav": "\u20b93,201.26",
-    "change": "-0%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b93,202.27",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "37000",
@@ -4547,9 +4547,9 @@
     "scheme_id": "2016",
     "scheme_name": "Bandhan Liquid FundLiquid",
     "duration": "11 yrs 3 m",
-    "nav": "\u20b93,227.9",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b93,228.9",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "27472",
@@ -4579,9 +4579,9 @@
     "scheme_id": "1095",
     "scheme_name": "Bandhan Government Securities Fund Constant Maturity PlanGilt with 10 year Constant Duration",
     "duration": "9 yrs",
-    "nav": "\u20b946.71",
-    "change": "0.07%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b946.73",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "9897",
@@ -4596,16 +4596,16 @@
     "scheme_name": "Bandhan GSF ment FundGilt",
     "duration": "9 yrs 6 m",
     "nav": "\u20b935.38",
-    "change": "-0.08%",
-    "date": "Nov 28, 2025"
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "39312",
     "scheme_name": "Bandhan Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,401.46",
+    "nav": "\u20b91,401.86",
     "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "2203",
@@ -4636,8 +4636,8 @@
     "scheme_name": "Axis Aggressive Hybrid FundAggressive Hybrid",
     "duration": "5 yrs 2 m",
     "nav": "\u20b921.1",
-    "change": "-0.09%",
-    "date": "Nov 28, 2025"
+    "change": "0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "32605",
@@ -4651,9 +4651,9 @@
     "scheme_id": "40710",
     "scheme_name": "PGIM India Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,359.56",
+    "nav": "\u20b91,359.95",
     "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "36562",
@@ -4683,9 +4683,9 @@
     "scheme_id": "2825",
     "scheme_name": "SBI Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "4 yrs 11 m",
-    "nav": "\u20b964.02",
-    "change": "0.1%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b964.03",
+    "change": "0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "2721",
@@ -4699,9 +4699,9 @@
     "scheme_id": "2751",
     "scheme_name": "Quant Liquid FundLiquid",
     "duration": "10 yrs 11 m",
-    "nav": "\u20b942.23",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b942.24",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "1546",
@@ -4723,9 +4723,9 @@
     "scheme_id": "10480",
     "scheme_name": "Axis ELSS Tax Saver FundELSS",
     "duration": "5 yrs",
-    "nav": "\u20b998.77",
-    "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b998.76",
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "1218",
@@ -4738,10 +4738,10 @@
   {
     "scheme_id": "2698",
     "scheme_name": "Bandhan Flexi Cap FundFlexi Cap",
-    "duration": "4 yrs 9 m",
-    "nav": "\u20b9216.48",
-    "change": "0.06%",
-    "date": "Nov 28, 2025"
+    "duration": "4 yrs 10 m",
+    "nav": "\u20b9216.46",
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "12050",
@@ -4819,9 +4819,9 @@
     "scheme_id": "40669",
     "scheme_name": "Axis Money Market FundMoney Market",
     "duration": "-",
-    "nav": "\u20b91,470.66",
-    "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b91,471.12",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "5244",
@@ -4834,7 +4834,7 @@
   {
     "scheme_id": "37012",
     "scheme_name": "ICICI Prudential Pharma Healthcare And Diagnostics (P.H.D) FundSectoral-Pharma",
-    "duration": "2 yrs 5 m",
+    "duration": "2 yrs 6 m",
     "nav": "\u20b940.53",
     "change": "0.2%",
     "date": "Nov 28, 2025"
@@ -4842,7 +4842,7 @@
   {
     "scheme_id": "32478",
     "scheme_name": "HSBC Gilt FundGilt",
-    "duration": "10 yrs 11 m",
+    "duration": "11 yrs",
     "nav": "\u20b965.74",
     "change": "-0.34%",
     "date": "Nov 28, 2025"
@@ -4850,7 +4850,7 @@
   {
     "scheme_id": "35716",
     "scheme_name": "Edelweiss Recently Listed IPO FundThematic",
-    "duration": "4 yrs 9 m",
+    "duration": "4 yrs 10 m",
     "nav": "\u20b927.12",
     "change": "0.28%",
     "date": "Nov 28, 2025"
@@ -4891,17 +4891,17 @@
     "scheme_id": "40114",
     "scheme_name": "Tata Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,386.87",
+    "nav": "\u20b91,387.28",
     "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "10831",
     "scheme_name": "SBI PSU FundThematic-PSU",
-    "duration": "2 yrs 4 m",
-    "nav": "\u20b933.57",
-    "change": "-0.6%",
-    "date": "Nov 28, 2025"
+    "duration": "2 yrs 5 m",
+    "nav": "\u20b933.56",
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "39447",
@@ -4923,9 +4923,9 @@
     "scheme_id": "10572",
     "scheme_name": "Navi Liquid FundLiquid",
     "duration": "11 yrs 3 m",
-    "nav": "\u20b929.03",
+    "nav": "\u20b929.04",
     "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "20722",
@@ -4940,16 +4940,16 @@
     "scheme_name": "Axis Small Cap FundSmall Cap",
     "duration": "4 yrs 4 m",
     "nav": "\u20b9106.17",
-    "change": "-0.28%",
-    "date": "Nov 28, 2025"
+    "change": "0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "39412",
     "scheme_name": "SBI Corporate Bond FundCorporate Bond",
     "duration": "-",
     "nav": "\u20b915.95",
-    "change": "-0.01%",
-    "date": "Nov 28, 2025"
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "29116",
@@ -5003,14 +5003,14 @@
     "scheme_id": "2069",
     "scheme_name": "HSBC Liquid FundLiquid",
     "duration": "11 yrs 2 m",
-    "nav": "\u20b92,665.08",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b92,665.91",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "28262",
     "scheme_name": "ICICI Prudential Equity Savings FundEquity Savings",
-    "duration": "8 yrs 10 m",
+    "duration": "8 yrs 11 m",
     "nav": "\u20b923.23",
     "change": "0%",
     "date": "Nov 28, 2025"
@@ -5090,10 +5090,10 @@
   {
     "scheme_id": "10434",
     "scheme_name": "Axis Large Cap FundLarge Cap",
-    "duration": "5 yrs 1 m",
-    "nav": "\u20b962.57",
-    "change": "0.03%",
-    "date": "Nov 28, 2025"
+    "duration": "5 yrs 2 m",
+    "nav": "\u20b962.56",
+    "change": "-0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "31951",
@@ -5130,10 +5130,10 @@
   {
     "scheme_id": "6483",
     "scheme_name": "Bandhan Value FundStrategy",
-    "duration": "4 yrs 4 m",
-    "nav": "\u20b9152.6",
-    "change": "0.05%",
-    "date": "Nov 28, 2025"
+    "duration": "4 yrs 5 m",
+    "nav": "\u20b9152.59",
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "6459",
@@ -5146,7 +5146,7 @@
   {
     "scheme_id": "40421",
     "scheme_name": "DSP Quant FundStrategy",
-    "duration": "5 yrs 1 m",
+    "duration": "5 yrs 2 m",
     "nav": "\u20b922.51",
     "change": "0.11%",
     "date": "Nov 28, 2025"
@@ -5155,9 +5155,9 @@
     "scheme_id": "1111",
     "scheme_name": "LIC MF Liquid FundLiquid",
     "duration": "11 yrs 2 m",
-    "nav": "\u20b94,831",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b94,832.52",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "32157",
@@ -5188,8 +5188,8 @@
     "scheme_name": "Axis Arbitrage FundArbitrage",
     "duration": "-",
     "nav": "\u20b919.11",
-    "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "31854",
@@ -5243,9 +5243,9 @@
     "scheme_id": "2849",
     "scheme_name": "DSP Liquidity FundLiquid",
     "duration": "11 yrs 2 m",
-    "nav": "\u20b93,816.34",
+    "nav": "\u20b93,817.55",
     "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "1765",
@@ -5306,10 +5306,10 @@
   {
     "scheme_id": "32434",
     "scheme_name": "Franklin India Opportunities FundStrategy",
-    "duration": "2 yrs 5 m",
-    "nav": "\u20b9261.03",
-    "change": "-0.49%",
-    "date": "Nov 27, 2025"
+    "duration": "2 yrs 6 m",
+    "nav": "\u20b9261.39",
+    "change": "0.14%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "3707",
@@ -5363,17 +5363,17 @@
     "scheme_id": "1883",
     "scheme_name": "PGIM India Aggressive Hybrid Equity FundAggressive Hybrid",
     "duration": "5 yrs 2 m",
-    "nav": "\u20b9133.07",
-    "change": "-0.04%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b9133.16",
+    "change": "0.07%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "1750",
     "scheme_name": "Franklin India Dynamic Asset Allocation Active FoFDynamic Asset Allocation",
-    "duration": "4 yrs 9 m",
-    "nav": "\u20b9168.64",
-    "change": "-0.01%",
-    "date": "Nov 27, 2025"
+    "duration": "4 yrs 10 m",
+    "nav": "\u20b9168.54",
+    "change": "-0.06%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "37919",
@@ -5395,14 +5395,14 @@
     "scheme_id": "40038",
     "scheme_name": "Sundaram Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,397.14",
+    "nav": "\u20b91,397.55",
     "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "3253",
     "scheme_name": "JM Arbitrage FundArbitrage",
-    "duration": "12 yrs 4 m",
+    "duration": "12 yrs 5 m",
     "nav": "\u20b933.3",
     "change": "0.01%",
     "date": "Nov 28, 2025"
@@ -5411,9 +5411,9 @@
     "scheme_id": "32320",
     "scheme_name": "SBI Healthcare Opportunities FundSectoral-Pharma",
     "duration": "2 yrs 7 m",
-    "nav": "\u20b9434.59",
-    "change": "-0.15%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b9436.94",
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "37176",
@@ -5427,14 +5427,14 @@
     "scheme_id": "1805",
     "scheme_name": "Nippon India Liquid FundLiquid",
     "duration": "11 yrs 2 m",
-    "nav": "\u20b96,523.12",
+    "nav": "\u20b96,525.14",
     "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "1305",
     "scheme_name": "ICICI Prudential Savings FundLow Duration",
-    "duration": "9 yrs 10 m",
+    "duration": "9 yrs 11 m",
     "nav": "\u20b9559.85",
     "change": "0.02%",
     "date": "Nov 28, 2025"
@@ -5443,9 +5443,9 @@
     "scheme_id": "1719",
     "scheme_name": "SBI Magnum Medium Duration FundMedium Duration",
     "duration": "9 yrs 3 m",
-    "nav": "\u20b952.5",
-    "change": "-0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b952.52",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "32273",
@@ -5474,7 +5474,7 @@
   {
     "scheme_id": "9444",
     "scheme_name": "Baroda BNP Paribas Corporate Bond FundCorporate Bond",
-    "duration": "11 yrs 1 m",
+    "duration": "11 yrs 2 m",
     "nav": "\u20b928.34",
     "change": "-0.03%",
     "date": "Nov 28, 2025"
@@ -5508,8 +5508,8 @@
     "scheme_name": "Axis Focused FundStrategy",
     "duration": "5 yrs 2 m",
     "nav": "\u20b955.97",
-    "change": "0.04%",
-    "date": "Nov 28, 2025"
+    "change": "0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "29689",
@@ -5578,7 +5578,7 @@
   {
     "scheme_id": "28986",
     "scheme_name": "Bank of India Credit Risk FundCredit Risk",
-    "duration": "3 yrs 7 m",
+    "duration": "3 yrs 8 m",
     "nav": "\u20b912.52",
     "change": "0.01%",
     "date": "Nov 28, 2025"
@@ -5604,16 +5604,16 @@
     "scheme_name": "Axis Nifty 100 Index FundLarge Cap Index",
     "duration": "4 yrs 11 m",
     "nav": "\u20b922.73",
-    "change": "-0.03%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "40777",
     "scheme_name": "ICICI Prudential Commodities FundThematic",
-    "duration": "3 yrs 4 m",
-    "nav": "\u20b943.26",
-    "change": "0.05%",
-    "date": "Nov 27, 2025"
+    "duration": "3 yrs 5 m",
+    "nav": "\u20b943.36",
+    "change": "0.23%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "40809",
@@ -5635,17 +5635,17 @@
     "scheme_id": "40823",
     "scheme_name": "ITI Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,332.9",
+    "nav": "\u20b91,333.28",
     "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "40835",
     "scheme_name": "Mirae Asset Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,350.08",
+    "nav": "\u20b91,350.48",
     "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "40847",
@@ -5700,24 +5700,24 @@
     "scheme_name": "Axis Retirement Fund - Conservative PlanRetirement Solutions",
     "duration": "-",
     "nav": "\u20b916.29",
-    "change": "-0.12%",
-    "date": "Nov 28, 2025"
+    "change": "0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "40900",
     "scheme_name": "Axis Retirement Fund - Aggressive PlanRetirement Solutions",
     "duration": "5 yrs 2 m",
     "nav": "\u20b918.86",
-    "change": "-0.11%",
-    "date": "Nov 28, 2025"
+    "change": "0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "40904",
     "scheme_name": "Axis Retirement Fund - Dynamic PlanRetirement Solutions",
     "duration": "5 yrs 1 m",
-    "nav": "\u20b920.08",
-    "change": "-0.15%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b920.07",
+    "change": "-0.05%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "40941",
@@ -5739,9 +5739,9 @@
     "scheme_id": "40951",
     "scheme_name": "BHARAT Bond FOF - April 2030Target Maturity",
     "duration": "-",
-    "nav": "\u20b915.56",
-    "change": "0.12%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b915.58",
+    "change": "0.13%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "40969",
@@ -5756,16 +5756,16 @@
     "scheme_name": "Axis Income Plus Arbitrage Active FoFTax Efficient Income",
     "duration": "-",
     "nav": "\u20b914.79",
-    "change": "-0.01%",
-    "date": "Nov 27, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "40989",
     "scheme_name": "Invesco India Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,333.09",
+    "nav": "\u20b91,333.49",
     "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "40997",
@@ -5781,15 +5781,15 @@
     "duration": "5 yrs 1 m",
     "nav": "\u20b922.03",
     "change": "0%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "41005",
     "scheme_name": "JM Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,337",
+    "nav": "\u20b91,337.38",
     "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "41012",
@@ -5804,32 +5804,32 @@
     "scheme_name": "Bandhan Small Cap FundSmall Cap",
     "duration": "2 yrs 5 m",
     "nav": "\u20b947.05",
-    "change": "-0.14%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "41043",
     "scheme_name": "Bank of India Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,340.37",
+    "nav": "\u20b91,340.77",
     "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "41132",
     "scheme_name": "ICICI Prudential Diversified Equity All Cap Omni FoFStrategy",
     "duration": "3 yrs 4 m",
     "nav": "\u20b931.92",
-    "change": "-0.03%",
-    "date": "Nov 27, 2025"
+    "change": "-0.01%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "41156",
     "scheme_name": "Tata Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "4 yrs 10 m",
-    "nav": "\u20b925.04",
-    "change": "-0.06%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b925.1",
+    "change": "0.25%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "41239",
@@ -5899,17 +5899,17 @@
     "scheme_id": "41533",
     "scheme_name": "BHARAT Bond FOF - April 2031Target Maturity",
     "duration": "-",
-    "nav": "\u20b913.9",
-    "change": "0.03%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b913.93",
+    "change": "0.21%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "41540",
     "scheme_name": "Nippon India Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "4 yrs 6 m",
-    "nav": "\u20b923.51",
-    "change": "0.06%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b923.54",
+    "change": "0.14%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "41550",
@@ -5995,17 +5995,17 @@
     "scheme_id": "41613",
     "scheme_name": "Edelweiss MSCI India Domestic & World Healthcare 45 Index FundOther Equity Index",
     "duration": "4 yrs 8 m",
-    "nav": "\u20b921.17",
-    "change": "0.66%",
-    "date": "Nov 26, 2025"
+    "nav": "\u20b921.19",
+    "change": "0.11%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "41619",
     "scheme_name": "SBI Floating Rate Debt FundFloater",
     "duration": "-",
     "nav": "\u20b913.61",
-    "change": "-0.11%",
-    "date": "Nov 28, 2025"
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "41626",
@@ -6042,7 +6042,7 @@
   {
     "scheme_id": "41656",
     "scheme_name": "Mirae Asset Banking and Financial Services FundSectoral-Banking",
-    "duration": "3 yrs 4 m",
+    "duration": "3 yrs 5 m",
     "nav": "\u20b922.1",
     "change": "-0.12%",
     "date": "Nov 28, 2025"
@@ -6099,9 +6099,9 @@
     "scheme_id": "41691",
     "scheme_name": "Axis Innovation FundOthers",
     "duration": "-",
-    "nav": "\u20b919.22",
-    "change": "-0.21%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b919.2",
+    "change": "-0.05%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "41699",
@@ -6123,9 +6123,9 @@
     "scheme_id": "41711",
     "scheme_name": "ICICI Prudential Business Cycle FundStrategy",
     "duration": "3 yrs 4 m",
-    "nav": "\u20b925.9",
-    "change": "0%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b925.86",
+    "change": "-0.15%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "41715",
@@ -6155,33 +6155,33 @@
     "scheme_id": "41741",
     "scheme_name": "SBI Retirement Benefit Fund - Aggressive Hybrid PlanRetirement Solutions",
     "duration": "-",
-    "nav": "\u20b919.48",
-    "change": "-0.07%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b919.47",
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "41737",
     "scheme_name": "SBI Retirement Benefit Fund - Aggressive PlanRetirement Solutions",
     "duration": "4 yrs 7 m",
     "nav": "\u20b920.55",
-    "change": "-0.06%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "41745",
     "scheme_name": "SBI Retirement Benefit Fund - Conservative Hybrid PlanRetirement Solutions",
     "duration": "-",
     "nav": "\u20b915.72",
-    "change": "-0.15%",
-    "date": "Nov 28, 2025"
+    "change": "0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "41749",
     "scheme_name": "SBI Retirement Benefit Fund - Conservative PlanRetirement Solutions",
     "duration": "-",
-    "nav": "\u20b914.39",
-    "change": "-0.19%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b914.4",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "41761",
@@ -6204,8 +6204,8 @@
     "scheme_name": "Bandhan Floater FundFloater",
     "duration": "-",
     "nav": "\u20b913.24",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "41779",
@@ -6243,17 +6243,17 @@
     "scheme_id": "41801",
     "scheme_name": "Motilal Oswal Asset Allocation Passive FoF - AggressiveMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b918.98",
-    "change": "0.01%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b919.02",
+    "change": "0.18%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "41803",
     "scheme_name": "Motilal Oswal Asset Allocation Passive FoF - ConservativeMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b916.8",
-    "change": "0%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b916.84",
+    "change": "0.23%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "41805",
@@ -6284,8 +6284,8 @@
     "scheme_name": "Bandhan CRISIL IBX Gilt June 2027 Index FundTarget Maturity",
     "duration": "-",
     "nav": "\u20b913.22",
-    "change": "0.04%",
-    "date": "Nov 28, 2025"
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "41846",
@@ -6300,8 +6300,8 @@
     "scheme_name": "Bandhan CRISIL IBX Gilt April 2028 Index FundTarget Maturity",
     "duration": "-",
     "nav": "\u20b913.3",
-    "change": "-0.02%",
-    "date": "Nov 28, 2025"
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "41855",
@@ -6331,9 +6331,9 @@
     "scheme_id": "41877",
     "scheme_name": "TRUSTMF Liquid FundLiquid",
     "duration": "-",
-    "nav": "\u20b91,298.56",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b91,298.96",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "41916",
@@ -6380,8 +6380,8 @@
     "scheme_name": "SBI Nifty Next 50 Index FundLarge Cap Index",
     "duration": "-",
     "nav": "\u20b918.7",
-    "change": "0.1%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "41966",
@@ -6436,8 +6436,8 @@
     "scheme_name": "Axis Quant FundStrategy",
     "duration": "-",
     "nav": "\u20b916.16",
-    "change": "-0.06%",
-    "date": "Nov 28, 2025"
+    "change": "0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "41999",
@@ -6491,9 +6491,9 @@
     "scheme_id": "42051",
     "scheme_name": "Axis Floater FundFloater",
     "duration": "-",
-    "nav": "\u20b91,328.36",
-    "change": "-0.16%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b91,328.84",
+    "change": "0.04%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "42047",
@@ -6572,8 +6572,8 @@
     "scheme_name": "SBI Balanced Advantage FundDynamic Asset Allocation",
     "duration": "-",
     "nav": "\u20b916.01",
-    "change": "-0.08%",
-    "date": "Nov 28, 2025"
+    "change": "0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "42133",
@@ -6604,8 +6604,8 @@
     "scheme_name": "Axis Value FundStrategy",
     "duration": "3 yrs 4 m",
     "nav": "\u20b919.35",
-    "change": "-0.15%",
-    "date": "Nov 28, 2025"
+    "change": "0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "42173",
@@ -6644,8 +6644,8 @@
     "scheme_name": "Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FoFTarget Maturity",
     "duration": "-",
     "nav": "\u20b912.47",
-    "change": "-0.31%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "42235",
@@ -6707,9 +6707,9 @@
     "scheme_id": "42277",
     "scheme_name": "Aditya Birla Sun Life Business Cycle FundStrategy",
     "duration": "-",
-    "nav": "\u20b915.6",
-    "change": "-0.32%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b915.61",
+    "change": "0.06%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "42285",
@@ -6717,7 +6717,7 @@
     "duration": "-",
     "nav": "\u20b917.54",
     "change": "-0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "42293",
@@ -6780,16 +6780,16 @@
     "scheme_name": "Axis Nifty 50 Index FundLarge Cap Index",
     "duration": "-",
     "nav": "\u20b915.63",
-    "change": "-0.05%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "42348",
     "scheme_name": "Axis Multicap FundMulti Cap",
     "duration": "3 yrs 4 m",
-    "nav": "\u20b918.29",
-    "change": "-0.22%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b918.28",
+    "change": "-0.05%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "42356",
@@ -6803,9 +6803,9 @@
     "scheme_id": "42363",
     "scheme_name": "BHARAT Bond ETF FOF - April 2032Target Maturity",
     "duration": "-",
-    "nav": "\u20b913.05",
-    "change": "-0.11%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b913.13",
+    "change": "0.61%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "42384",
@@ -6819,9 +6819,9 @@
     "scheme_id": "42395",
     "scheme_name": "ICICI Prudential Passive Multi-Asset FoFMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b916.09",
-    "change": "0.76%",
-    "date": "Nov 26, 2025"
+    "nav": "\u20b916.13",
+    "change": "0.21%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "42399",
@@ -6844,16 +6844,16 @@
     "scheme_name": "Axis Nifty Next 50 Index FundLarge Cap Index",
     "duration": "-",
     "nav": "\u20b916.65",
-    "change": "0.09%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "42413",
     "scheme_name": "SBI CPSE Bond Plus SDL Sep 2026 50:50 Index FundTarget Maturity",
     "duration": "-",
     "nav": "\u20b912.56",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "42450",
@@ -6907,9 +6907,9 @@
     "scheme_id": "42499",
     "scheme_name": "TRUSTMF Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,250.22",
+    "nav": "\u20b91,250.58",
     "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "42492",
@@ -6955,17 +6955,17 @@
     "scheme_id": "42529",
     "scheme_name": "Bandhan Nifty 100 Index FundLarge Cap Index",
     "duration": "-",
-    "nav": "\u20b915.66",
-    "change": "-0.03%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b915.65",
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "42533",
     "scheme_name": "Axis Multi Factor Passive FoFStrategy",
     "duration": "-",
     "nav": "\u20b915.75",
-    "change": "0.2%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "42537",
@@ -7004,8 +7004,8 @@
     "scheme_name": "Axis CRISIL IBX SDL May 2027 Index FundTarget Maturity",
     "duration": "-",
     "nav": "\u20b912.6",
-    "change": "0.07%",
-    "date": "Nov 28, 2025"
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "42557",
@@ -7020,8 +7020,8 @@
     "scheme_name": "SBI Multicap FundMulti Cap",
     "duration": "-",
     "nav": "\u20b917.22",
-    "change": "-0.14%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "42565",
@@ -7044,8 +7044,8 @@
     "scheme_name": "Axis Nifty Smallcap 50 Index FundSmall Cap Index",
     "duration": "2 yrs 7 m",
     "nav": "\u20b917.99",
-    "change": "-0.15%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "42609",
@@ -7060,8 +7060,8 @@
     "scheme_name": "Axis Nifty Midcap 50 Index FundMid Cap Index",
     "duration": "2 yrs 7 m",
     "nav": "\u20b920.6",
-    "change": "-0.17%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "42644",
@@ -7197,7 +7197,7 @@
     "duration": "-",
     "nav": "\u20b917.75",
     "change": "-0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "42780",
@@ -7212,8 +7212,8 @@
     "scheme_name": "Quantum Nifty 50 ETF FoFLarge Cap Index",
     "duration": "-",
     "nav": "\u20b915.45",
-    "change": "0.06%",
-    "date": "Nov 27, 2025"
+    "change": "0.02%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "42795",
@@ -7364,8 +7364,8 @@
     "scheme_name": "Bandhan Nifty200 Momentum 30 Index FundLarge & MidCap Index",
     "duration": "-",
     "nav": "\u20b916.12",
-    "change": "-0.23%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "42934",
@@ -7387,17 +7387,17 @@
     "scheme_id": "42942",
     "scheme_name": "Edelweiss Gold and Silver ETF FoFGold/ Precious Metal Funds",
     "duration": "1 yrs 8 m",
-    "nav": "\u20b925.5",
-    "change": "1.34%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b925.65",
+    "change": "0.58%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "42967",
     "scheme_name": "Axis Silver FoFGold/ Precious Metal Funds",
     "duration": "1 yrs 7 m",
     "nav": "\u20b927.67",
-    "change": "0.74%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "42975",
@@ -7411,17 +7411,17 @@
     "scheme_id": "42994",
     "scheme_name": "Samco Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,202.24",
+    "nav": "\u20b91,202.55",
     "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "42986",
     "scheme_name": "Bandhan Nifty100 Low Volatility 30 Index FundLarge Cap Index",
     "duration": "-",
     "nav": "\u20b916.14",
-    "change": "-0.05%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "42990",
@@ -7442,7 +7442,7 @@
   {
     "scheme_id": "43014",
     "scheme_name": "Motilal Oswal Gold and Silver ETFs FoFGold/ Precious Metal Funds",
-    "duration": "1 yrs 8 m",
+    "duration": "1 yrs 9 m",
     "nav": "\u20b924.34",
     "change": "0.33%",
     "date": "Nov 28, 2025"
@@ -7460,24 +7460,24 @@
     "scheme_name": "SBI Nifty Midcap 150 Index FundMid Cap Index",
     "duration": "2 yrs 8 m",
     "nav": "\u20b919.15",
-    "change": "-0.11%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "43023",
     "scheme_name": "SBI Nifty Smallcap 250 Index FundSmall Cap Index",
     "duration": "-",
     "nav": "\u20b917.94",
-    "change": "-0.23%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "43035",
     "scheme_name": "SBI CRISIL IBX Gilt Index - June 2036 FundTarget Maturity",
     "duration": "-",
     "nav": "\u20b913.01",
-    "change": "0.08%",
-    "date": "Nov 28, 2025"
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "43047",
@@ -7507,9 +7507,9 @@
     "scheme_id": "43051",
     "scheme_name": "Aditya Birla Sun Life Multi - Asset Passive FoFMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b916.78",
-    "change": "0.11%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b916.8",
+    "change": "0.12%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "43063",
@@ -7524,24 +7524,24 @@
     "scheme_name": "SBI CRISIL IBX Gilt Index - April 2029 FundTarget Maturity",
     "duration": "-",
     "nav": "\u20b912.87",
-    "change": "-0.01%",
-    "date": "Nov 28, 2025"
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "43059",
     "scheme_name": "SBI CRISIL IBX SDL Index - September 2027 FundTarget Maturity",
     "duration": "-",
-    "nav": "\u20b912.65",
-    "change": "0.08%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b912.66",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "43067",
     "scheme_name": "Bandhan Transportation and Logistics FundOthers",
     "duration": "2 yrs 7 m",
     "nav": "\u20b919.8",
-    "change": "0.53%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "43071",
@@ -7619,9 +7619,9 @@
     "scheme_id": "43111",
     "scheme_name": "Bandhan Crisil IBX Gilt April 2026 Index FundTarget Maturity",
     "duration": "-",
-    "nav": "\u20b912.39",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b912.4",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "43127",
@@ -7700,8 +7700,8 @@
     "scheme_name": "Axis Nifty SDL September 2026 Debt Index FundTarget Maturity",
     "duration": "-",
     "nav": "\u20b912.44",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "43199",
@@ -7748,16 +7748,16 @@
     "scheme_name": "Bandhan CRISIL IBX 90:10 SDL Plus Gilt- November 2026 Index FundTarget Maturity",
     "duration": "-",
     "nav": "\u20b912.43",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "43233",
     "scheme_name": "Bandhan CRISIL IBX 90:10 SDL Plus Gilt- April 2032 Index FundTarget Maturity",
     "duration": "-",
-    "nav": "\u20b912.67",
-    "change": "-0.13%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b912.68",
+    "change": "0.04%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "43225",
@@ -7803,9 +7803,9 @@
     "scheme_id": "43262",
     "scheme_name": "Bandhan CRISIL IBX 90:10 SDL Plus Gilt-September 2027 Index FundTarget Maturity",
     "duration": "-",
-    "nav": "\u20b912.51",
-    "change": "0.08%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b912.52",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "43258",
@@ -7843,9 +7843,9 @@
     "scheme_id": "43338",
     "scheme_name": "BHARAT Bond ETF FOF - April 2033Target Maturity",
     "duration": "-",
-    "nav": "\u20b912.78",
-    "change": "0.41%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b912.77",
+    "change": "-0.09%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "43350",
@@ -7859,9 +7859,9 @@
     "scheme_id": "43354",
     "scheme_name": "Axis Long Duration FundLong Duration",
     "duration": "-",
-    "nav": "\u20b91,213.67",
-    "change": "-0.34%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b91,214.1",
+    "change": "0.04%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "43372",
@@ -7891,9 +7891,9 @@
     "scheme_id": "43374",
     "scheme_name": "Quant Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b912.07",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b912.08",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "43384",
@@ -7915,9 +7915,9 @@
     "scheme_id": "43388",
     "scheme_name": "SBI Long Duration FundLong Duration",
     "duration": "-",
-    "nav": "\u20b912.32",
-    "change": "-0.32%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b912.33",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "43396",
@@ -7980,8 +7980,8 @@
     "scheme_name": "Axis CRISIL IBX 50:50 Gilt Plus SDL Jun 2028 Index FundTarget Maturity",
     "duration": "-",
     "nav": "\u20b912.4",
-    "change": "-0.02%",
-    "date": "Nov 28, 2025"
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "43473",
@@ -8068,8 +8068,8 @@
     "scheme_name": "Axis Business Cycles FundStrategy",
     "duration": "-",
     "nav": "\u20b916.75",
-    "change": "-0.24%",
-    "date": "Nov 28, 2025"
+    "change": "0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "43551",
@@ -8116,16 +8116,16 @@
     "scheme_name": "Axis CRISIL IBX 50:50 Gilt Plus SDL September 2027 Index FundTarget Maturity",
     "duration": "-",
     "nav": "\u20b912.36",
-    "change": "0.07%",
-    "date": "Nov 28, 2025"
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "43581",
     "scheme_name": "Bandhan Crisil IBX Gilt April 2032 Index FundTarget Maturity",
     "duration": "-",
     "nav": "\u20b912.56",
-    "change": "-0.2%",
-    "date": "Nov 28, 2025"
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "43589",
@@ -8188,8 +8188,8 @@
     "scheme_name": "SBI Dividend Yield FundStrategy",
     "duration": "-",
     "nav": "\u20b915.54",
-    "change": "-0.2%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "43626",
@@ -8323,9 +8323,9 @@
     "scheme_id": "43849",
     "scheme_name": "ICICI Prudential Innovation FundOthers",
     "duration": "-",
-    "nav": "\u20b919.26",
-    "change": "-0.16%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b919.24",
+    "change": "-0.1%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "43856",
@@ -8387,9 +8387,9 @@
     "scheme_id": "43907",
     "scheme_name": "WhiteOak Capital Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b915.1",
-    "change": "-0.02%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b915.11",
+    "change": "0.09%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "43913",
@@ -8444,8 +8444,8 @@
     "scheme_name": "SBI BSE Sensex Index FundLarge Cap Index",
     "duration": "-",
     "nav": "\u20b913.98",
-    "change": "-0.02%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "43939",
@@ -8508,8 +8508,8 @@
     "scheme_name": "Bandhan Financial Services FundSectoral-Banking",
     "duration": "-",
     "nav": "\u20b915.5",
-    "change": "-0.19%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "43981",
@@ -8531,17 +8531,17 @@
     "scheme_id": "44005",
     "scheme_name": "Bajaj Finserv Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,159.84",
+    "nav": "\u20b91,160.4",
     "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "43995",
     "scheme_name": "Bajaj Finserv Liquid FundLiquid",
     "duration": "-",
-    "nav": "\u20b91,173.85",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b91,174.21",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44015",
@@ -8556,8 +8556,8 @@
     "scheme_name": "Axis Nifty IT Index FundOther Equity Index",
     "duration": "-",
     "nav": "\u20b912.81",
-    "change": "-0.11%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44044",
@@ -8652,8 +8652,8 @@
     "scheme_name": "Bandhan Nifty IT Index FundOther Equity Index",
     "duration": "-",
     "nav": "\u20b912.44",
-    "change": "-0.11%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44115",
@@ -8675,9 +8675,9 @@
     "scheme_id": "44124",
     "scheme_name": "DSP Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b915.06",
-    "change": "0.75%",
-    "date": "Nov 26, 2025"
+    "nav": "\u20b915.09",
+    "change": "0.21%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "44129",
@@ -8748,8 +8748,8 @@
     "scheme_name": "Bandhan Retirement FundRetirement Solutions",
     "duration": "-",
     "nav": "\u20b912.92",
-    "change": "-0.13%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44174",
@@ -8819,17 +8819,17 @@
     "scheme_id": "44214",
     "scheme_name": "Helios Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,135.07",
+    "nav": "\u20b91,135.4",
     "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44222",
     "scheme_name": "Axis India Manufacturing FundOthers",
     "duration": "-",
-    "nav": "\u20b914.26",
-    "change": "0.14%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b914.25",
+    "change": "-0.07%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44228",
@@ -8860,8 +8860,8 @@
     "scheme_name": "Bandhan Nifty Alpha 50 Index FundMulti Cap Index",
     "duration": "-",
     "nav": "\u20b913.57",
-    "change": "0.03%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44251",
@@ -8940,8 +8940,8 @@
     "scheme_name": "Bandhan Nifty Smallcap 250 Index FundSmall Cap Index",
     "duration": "-",
     "nav": "\u20b911.97",
-    "change": "-0.23%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44330",
@@ -8995,9 +8995,9 @@
     "scheme_id": "44393",
     "scheme_name": "Bandhan Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b913.22",
-    "change": "0.07%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b913.24",
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44389",
@@ -9068,8 +9068,8 @@
     "scheme_name": "SBI Nifty50 Equal Weight Index FundLarge Cap Index",
     "duration": "-",
     "nav": "\u20b912.25",
-    "change": "-0.09%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44448",
@@ -9139,9 +9139,9 @@
     "scheme_id": "44485",
     "scheme_name": "Edelweiss Technology FundSectoral-Technology",
     "duration": "-",
-    "nav": "\u20b912.34",
-    "change": "0.16%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b912.35",
+    "change": "0.06%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "44493",
@@ -9180,16 +9180,16 @@
     "scheme_name": "SBI Energy Opportunities FundEnergy",
     "duration": "-",
     "nav": "\u20b910.55",
-    "change": "-0.9%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44513",
     "scheme_name": "Axis BSE Sensex Index FundLarge Cap Index",
     "duration": "-",
     "nav": "\u20b911.85",
-    "change": "-0.02%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44517",
@@ -9211,9 +9211,9 @@
     "scheme_id": "44527",
     "scheme_name": "Kotak Technology FundSectoral-Technology",
     "duration": "-",
-    "nav": "\u20b911.83",
-    "change": "-0.32%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b911.78",
+    "change": "-0.36%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "44540",
@@ -9235,9 +9235,9 @@
     "scheme_id": "44547",
     "scheme_name": "Bandhan Long Duration FundLong Duration",
     "duration": "-",
-    "nav": "\u20b910.96",
-    "change": "-0.31%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b910.97",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44555",
@@ -9260,8 +9260,8 @@
     "scheme_name": "Axis CRISIL IBX SDL June 2034 Debt Index FundTarget Maturity",
     "duration": "-",
     "nav": "\u20b911.37",
-    "change": "-0.2%",
-    "date": "Nov 28, 2025"
+    "change": "0.04%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44575",
@@ -9396,8 +9396,8 @@
     "scheme_name": "Axis Nifty Bank Index FundOther Equity Index",
     "duration": "-",
     "nav": "\u20b912.15",
-    "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44688",
@@ -9444,8 +9444,8 @@
     "scheme_name": "SBI Automotive Opportunities FundOthers",
     "duration": "-",
     "nav": "\u20b911.13",
-    "change": "0.44%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44709",
@@ -9556,8 +9556,8 @@
     "scheme_name": "Bandhan Nifty Total Market Index FundMulti Cap Index",
     "duration": "-",
     "nav": "\u20b910.37",
-    "change": "-0.07%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44768",
@@ -9572,24 +9572,24 @@
     "scheme_name": "Axis Nifty 500 Index FundMulti Cap Index",
     "duration": "-",
     "nav": "\u20b910.35",
-    "change": "-0.06%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44776",
     "scheme_name": "ICICI Prudential Energy Opportunities FundEnergy",
     "duration": "-",
-    "nav": "\u20b910.51",
-    "change": "-0.38%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b910.46",
+    "change": "-0.48%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "44780",
     "scheme_name": "SBI Silver ETF FoFGold/ Precious Metal Funds",
     "duration": "1 yrs 3 m",
     "nav": "\u20b917.36",
-    "change": "0.65%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44784",
@@ -9652,8 +9652,8 @@
     "scheme_name": "SBI Innovative Opportunities FundOthers",
     "duration": "-",
     "nav": "\u20b99.91",
-    "change": "-0.27%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44822",
@@ -9676,8 +9676,8 @@
     "scheme_name": "Axis Consumption FundThematic-Consumption",
     "duration": "-",
     "nav": "\u20b99.76",
-    "change": "0.1%",
-    "date": "Nov 28, 2025"
+    "change": "0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44832",
@@ -9692,8 +9692,8 @@
     "scheme_name": "Bandhan Nifty Bank Index FundOther Equity Index",
     "duration": "-",
     "nav": "\u20b911.6",
-    "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44842",
@@ -9764,8 +9764,8 @@
     "scheme_name": "Bandhan BSE Healthcare Index FundOther Equity Index",
     "duration": "-",
     "nav": "\u20b910.25",
-    "change": "0.36%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44873",
@@ -9796,8 +9796,8 @@
     "scheme_name": "Bandhan Business Cycle FundStrategy",
     "duration": "-",
     "nav": "\u20b910.22",
-    "change": "-0.19%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44888",
@@ -9812,8 +9812,8 @@
     "scheme_name": "Bandhan Nifty Midcap 150 Index FundMid Cap Index",
     "duration": "-",
     "nav": "\u20b910.1",
-    "change": "-0.11%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44892",
@@ -9884,16 +9884,16 @@
     "scheme_name": "Axis CRISIL-IBX AAA Bond NBFC - Jun 2027 Index FundTarget Maturity",
     "duration": "-",
     "nav": "\u20b911",
-    "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44925",
     "scheme_name": "SBI Nifty 500 Index FundMulti Cap Index",
     "duration": "-",
     "nav": "\u20b99.88",
-    "change": "-0.06%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44929",
@@ -9980,8 +9980,8 @@
     "scheme_name": "Axis Nifty500 Value 50 Index FundMulti Cap Index",
     "duration": "-",
     "nav": "\u20b910.52",
-    "change": "-0.32%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44973",
@@ -10012,16 +10012,16 @@
     "scheme_name": "Bandhan Nifty 500 Value 50 Index FundMulti Cap Index",
     "duration": "-",
     "nav": "\u20b910.47",
-    "change": "-0.32%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44988",
     "scheme_name": "Bandhan Nifty 500 Momentum 50 Index FundMulti Cap Index",
     "duration": "-",
     "nav": "\u20b99.12",
-    "change": "-0.28%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "44991",
@@ -10100,8 +10100,8 @@
     "scheme_name": "SBI Nifty India Consumption Index FundOther Equity Index",
     "duration": "-",
     "nav": "\u20b910.8",
-    "change": "0.17%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "45034",
@@ -10195,9 +10195,9 @@
     "scheme_id": "45077",
     "scheme_name": "Axis CRISIL-IBX AAA Bond Financial Services - Sep 2027 Index FundTarget Maturity",
     "duration": "-",
-    "nav": "\u20b910.88",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b910.89",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "45081",
@@ -10252,8 +10252,8 @@
     "scheme_name": "Bandhan Nifty 200 Quality 30 Index FundLarge & MidCap Index",
     "duration": "-",
     "nav": "\u20b99.99",
-    "change": "-0.05%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "45101",
@@ -10292,8 +10292,8 @@
     "scheme_name": "Axis Momentum FundStrategy",
     "duration": "-",
     "nav": "\u20b99.4",
-    "change": "-0.11%",
-    "date": "Nov 28, 2025"
+    "change": "0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "45117",
@@ -10331,9 +10331,9 @@
     "scheme_id": "45135",
     "scheme_name": "Samco Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b911.9",
-    "change": "-0.08%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b911.92",
+    "change": "0.17%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "45131",
@@ -10389,7 +10389,7 @@
     "duration": "-",
     "nav": "\u20b910.11",
     "change": "-0.01%",
-    "date": "Nov 28, 2025"
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "45165",
@@ -10404,8 +10404,8 @@
     "scheme_name": "Axis CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index FundTarget Maturity",
     "duration": "-",
     "nav": "\u20b910.81",
-    "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "change": "0.04%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "45177",
@@ -10476,8 +10476,8 @@
     "scheme_name": "Bandhan Nifty Alpha Low Volatility 30 Index FundLarge Cap Index",
     "duration": "-",
     "nav": "\u20b910.27",
-    "change": "-0.16%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "45209",
@@ -10548,8 +10548,8 @@
     "scheme_name": "SBI Nifty Bank Index FundOther Equity Index",
     "duration": "-",
     "nav": "\u20b911.89",
-    "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "45255",
@@ -10572,8 +10572,8 @@
     "scheme_name": "Axis Nifty500 Momentum 50 Index FundMulti Cap Index",
     "duration": "-",
     "nav": "\u20b911.23",
-    "change": "-0.28%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "45265",
@@ -10660,8 +10660,8 @@
     "scheme_name": "SBI Nifty IT Index FundOther Equity Index",
     "duration": "-",
     "nav": "\u20b99.34",
-    "change": "-0.11%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "45325",
@@ -10700,8 +10700,8 @@
     "scheme_name": "Bandhan Nifty Next 50 Index FundLarge Cap Index",
     "duration": "-",
     "nav": "\u20b912.08",
-    "change": "0.1%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "45344",
@@ -10780,8 +10780,8 @@
     "scheme_name": "Bandhan CRISIL-IBX 10:90 Gilt + SDL Index - Dec 2029 FundTarget Maturity",
     "duration": "-",
     "nav": "\u20b910.61",
-    "change": "-0.21%",
-    "date": "Nov 28, 2025"
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "45389",
@@ -10803,9 +10803,9 @@
     "scheme_id": "45395",
     "scheme_name": "Bandhan CRISIL-IBX Financial Services 3-6 Months Debt Index FundUltra Short Duration",
     "duration": "-",
-    "nav": "\u20b910.49",
-    "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b910.5",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "45397",
@@ -10852,8 +10852,8 @@
     "scheme_name": "SBI BSE PSU Bank Index FundOther Equity Index",
     "duration": "-",
     "nav": "\u20b913.71",
-    "change": "0.15%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "45427",
@@ -10923,9 +10923,9 @@
     "scheme_id": "45473",
     "scheme_name": "SBI Income Plus Arbitrage Active FoFTax Efficient Income",
     "duration": "-",
-    "nav": "\u20b910.32",
-    "change": "-0%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b910.33",
+    "change": "0.02%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "45477",
@@ -11012,8 +11012,8 @@
     "scheme_name": "SBI Nifty200 Quality 30 Index FundLarge & MidCap Index",
     "duration": "-",
     "nav": "\u20b910.43",
-    "change": "-0.05%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "45534",
@@ -11148,8 +11148,8 @@
     "scheme_name": "SBI Nifty200 Momentum 30 Index FundLarge & MidCap Index",
     "duration": "-",
     "nav": "\u20b910.2",
-    "change": "-0.23%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "45619",
@@ -11243,33 +11243,33 @@
     "scheme_id": "45664",
     "scheme_name": "360 ONE Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,020.98",
-    "change": "0.01%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b91,021.28",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "45672",
     "scheme_name": "Axis Services Opportunities FundThematic",
     "duration": "-",
     "nav": "\u20b910.2",
-    "change": "-0.2%",
-    "date": "Nov 28, 2025"
+    "change": "0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "45668",
     "scheme_name": "Edelweiss Income Plus Arbitrage Active FoFTax Efficient Income",
     "duration": "-",
     "nav": "\u20b910.2",
-    "change": "-0.01%",
-    "date": "Nov 27, 2025"
+    "change": "0.01%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "45682",
     "scheme_name": "Bandhan Multi-Factor FundStrategy",
     "duration": "-",
     "nav": "\u20b910.19",
-    "change": "-0.11%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "45686",
@@ -11284,8 +11284,8 @@
     "scheme_name": "SBI Nifty100 Low Volatility 30 Index FundLarge Cap Index",
     "duration": "-",
     "nav": "\u20b910.61",
-    "change": "-0.05%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "45690",
@@ -11371,9 +11371,9 @@
     "scheme_id": "45751",
     "scheme_name": "Edelweiss Multi Asset Omni FoFMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b910.81",
-    "change": "0.05%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b910.84",
+    "change": "0.22%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "45755",
@@ -11387,9 +11387,9 @@
     "scheme_id": "45768",
     "scheme_name": "Mirae Asset Multi Factor Passive FOFStrategy",
     "duration": "-",
-    "nav": "\u20b910.65",
-    "change": "-0.09%",
-    "date": "Nov 27, 2025"
+    "nav": "\u20b910.66",
+    "change": "0.02%",
+    "date": "Nov 28, 2025"
   },
   {
     "scheme_id": "45772",
@@ -11428,8 +11428,8 @@
     "scheme_name": "Bandhan BSE India Sector Leaders Index FundOther Equity Index",
     "duration": "-",
     "nav": "\u20b910.17",
-    "change": "0.05%",
-    "date": "Nov 28, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "45789",
@@ -11444,16 +11444,16 @@
     "scheme_name": "Axis Nifty500 Quality 50 Index FundMulti Cap Index",
     "duration": "-",
     "nav": "\u20b99.87",
-    "change": "-0.26%",
-    "date": "Nov 28, 2025"
+    "change": "-0.01%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "45808",
     "scheme_name": "SBI Dynamic Asset Allocation Active FoFDynamic Asset Allocation",
     "duration": "-",
     "nav": "\u20b910.22",
-    "change": "0.02%",
-    "date": "Nov 27, 2025"
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "45815",
@@ -11491,9 +11491,9 @@
     "scheme_id": "45847",
     "scheme_name": "Axis CRISIL-IBX Financial Services 3-6 Months Debt Index FundUltra Short Duration",
     "duration": "-",
-    "nav": "\u20b910.11",
-    "change": "0.02%",
-    "date": "Nov 28, 2025"
+    "nav": "\u20b910.12",
+    "change": "0.03%",
+    "date": "Nov 30, 2025"
   },
   {
     "scheme_id": "45857",
@@ -11540,7 +11540,7 @@
     "scheme_name": "Axis Income Plus Arbitrage Passive FoFTax Efficient Income",
     "duration": "-",
     "nav": "\u20b910.03",
-    "change": "0%",
-    "date": "Nov 27, 2025"
+    "change": "-0%",
+    "date": "Nov 30, 2025"
   }
 ]
