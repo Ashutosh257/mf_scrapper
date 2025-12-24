@@ -11416,6 +11416,14 @@
     "date": "Dec 23, 2025"
   },
   {
+    "scheme_id": "45827",
+    "scheme_name": "The Wealth Company Flexi Cap FundFlexi Cap",
+    "duration": "-",
+    "nav": "\u20b910.23",
+    "change": "0.07%",
+    "date": "Dec 23, 2025"
+  },
+  {
     "scheme_id": "45831",
     "scheme_name": "Kotak CRISIL-IBX Financial Services 9 to 12 Months Debt Index FundShort Duration",
     "duration": "-",
@@ -11424,11 +11432,35 @@
     "date": "Dec 23, 2025"
   },
   {
+    "scheme_id": "45843",
+    "scheme_name": "The Wealth Company Arbitrage FundArbitrage",
+    "duration": "-",
+    "nav": "\u20b910.11",
+    "change": "0.02%",
+    "date": "Dec 23, 2025"
+  },
+  {
+    "scheme_id": "45835",
+    "scheme_name": "The Wealth Company Liquid FundLiquid",
+    "duration": "-",
+    "nav": "\u20b91,011.53",
+    "change": "0.02%",
+    "date": "Dec 23, 2025"
+  },
+  {
     "scheme_id": "45847",
     "scheme_name": "Axis CRISIL-IBX Financial Services 3-6 Months Debt Index FundUltra Short Duration",
     "duration": "-",
     "nav": "\u20b910.15",
     "change": "0.01%",
+    "date": "Dec 23, 2025"
+  },
+  {
+    "scheme_id": "45853",
+    "scheme_name": "The Wealth Company Ethical FundThematic",
+    "duration": "-",
+    "nav": "\u20b99.95",
+    "change": "-0.28%",
     "date": "Dec 23, 2025"
   },
   {
