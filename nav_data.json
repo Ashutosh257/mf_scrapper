@@ -9003,9 +9003,9 @@
     "scheme_id": "44393",
     "scheme_name": "Bandhan Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b913.93",
-    "change": "0.99%",
-    "date": "Jan 27, 2026"
+    "nav": "\u20b914.12",
+    "change": "1.35%",
+    "date": "Jan 28, 2026"
   },
   {
     "scheme_id": "44389",
@@ -11725,6 +11725,22 @@
     "duration": "-",
     "nav": "\u20b99.59",
     "change": "1.15%",
+    "date": "Jan 28, 2026"
+  },
+  {
+    "scheme_id": "46057",
+    "scheme_name": "Bandhan Gold ETF FoFGold/ Precious Metal Funds",
+    "duration": "-",
+    "nav": "\u20b910.7",
+    "change": "\u221e%",
+    "date": "Jan 28, 2026"
+  },
+  {
+    "scheme_id": "46059",
+    "scheme_name": "Bandhan Silver ETF FoFGold/ Precious Metal Funds",
+    "duration": "-",
+    "nav": "\u20b911.17",
+    "change": "\u221e%",
     "date": "Jan 28, 2026"
   },
   {
