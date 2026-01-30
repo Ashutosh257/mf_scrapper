@@ -2465,7 +2465,7 @@
   },
   {
     "scheme_id": "12859",
-    "scheme_name": "ICICI Prudential Regular Gold Savings Fund (FOF)Gold/ Precious Metal Funds",
+    "scheme_name": "ICICI Prudential Gold ETF FoFGold/ Precious Metal Funds",
     "duration": "9 m",
     "nav": "\u20b955.07",
     "change": "8.46%",
@@ -9003,9 +9003,9 @@
     "scheme_id": "44393",
     "scheme_name": "Bandhan Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b914.12",
-    "change": "1.35%",
-    "date": "Jan 28, 2026"
+    "nav": "\u20b914.26",
+    "change": "1.03%",
+    "date": "Jan 29, 2026"
   },
   {
     "scheme_id": "44389",
