@@ -82,10 +82,10 @@
   {
     "scheme_id": "1247",
     "scheme_name": "Aditya Birla Sun Life Large Cap FundLarge Cap",
-    "duration": "5 yrs 1 m",
-    "nav": "\u20b9525.98",
-    "change": "-1.23%",
-    "date": "Feb 27, 2026"
+    "duration": "5 yrs 2 m",
+    "nav": "\u20b9519.03",
+    "change": "-1.32%",
+    "date": "Mar 02, 2026"
   },
   {
     "scheme_id": "32304",
@@ -371,17 +371,17 @@
     "scheme_id": "32212",
     "scheme_name": "Aditya Birla Sun Life Equity Hybrid '95 FundAggressive Hybrid",
     "duration": "5 yrs 3 m",
-    "nav": "\u20b91,531.43",
-    "change": "-0.87%",
-    "date": "Feb 27, 2026"
+    "nav": "\u20b91,516.13",
+    "change": "-1%",
+    "date": "Mar 02, 2026"
   },
   {
     "scheme_id": "40679",
     "scheme_name": "Mahindra Manulife Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,379.21",
+    "nav": "\u20b91,379.4",
     "change": "0.01%",
-    "date": "Mar 02, 2026"
+    "date": "Mar 03, 2026"
   },
   {
     "scheme_id": "1768",
@@ -555,9 +555,9 @@
     "scheme_id": "40311",
     "scheme_name": "ITI Liquid FundLiquid",
     "duration": "-",
-    "nav": "\u20b91,412.29",
+    "nav": "\u20b91,412.49",
     "change": "0.01%",
-    "date": "Mar 02, 2026"
+    "date": "Mar 03, 2026"
   },
   {
     "scheme_id": "39611",
@@ -595,9 +595,9 @@
     "scheme_id": "35592",
     "scheme_name": "DSP Arbitrage FundArbitrage",
     "duration": "-",
-    "nav": "\u20b915.51",
+    "nav": "\u20b915.52",
     "change": "0.05%",
-    "date": "Feb 27, 2026"
+    "date": "Mar 02, 2026"
   },
   {
     "scheme_id": "32517",
@@ -675,9 +675,9 @@
     "scheme_id": "33119",
     "scheme_name": "Mahindra Manulife Liquid FundLiquid",
     "duration": "-",
-    "nav": "\u20b91,765.92",
-    "change": "0.01%",
-    "date": "Mar 02, 2026"
+    "nav": "\u20b91,766.22",
+    "change": "0.02%",
+    "date": "Mar 03, 2026"
   },
   {
     "scheme_id": "39306",
@@ -883,9 +883,9 @@
     "scheme_id": "39120",
     "scheme_name": "WhiteOak Capital Liquid FundLiquid",
     "duration": "-",
-    "nav": "\u20b91,458.38",
-    "change": "0.01%",
-    "date": "Mar 02, 2026"
+    "nav": "\u20b91,458.61",
+    "change": "0.02%",
+    "date": "Mar 03, 2026"
   },
   {
     "scheme_id": "32674",
@@ -1218,10 +1218,10 @@
   {
     "scheme_id": "2040",
     "scheme_name": "DSP India T.I.G.E.R. FundSectoral-Infrastructure",
-    "duration": "2 yrs 10 m",
-    "nav": "\u20b9327.01",
-    "change": "-0.54%",
-    "date": "Feb 27, 2026"
+    "duration": "2 yrs 11 m",
+    "nav": "\u20b9322.87",
+    "change": "-1.26%",
+    "date": "Mar 02, 2026"
   },
   {
     "scheme_id": "3825",
@@ -1292,8 +1292,8 @@
     "scheme_name": "Quantum Liquid FundLiquid",
     "duration": "-",
     "nav": "\u20b936.28",
-    "change": "0.01%",
-    "date": "Mar 02, 2026"
+    "change": "0.02%",
+    "date": "Mar 03, 2026"
   },
   {
     "scheme_id": "3087",
@@ -1379,9 +1379,9 @@
     "scheme_id": "28188",
     "scheme_name": "Aditya Birla Sun Life Equity Savings FundEquity Savings",
     "duration": "9 yrs 1 m",
-    "nav": "\u20b922.86",
+    "nav": "\u20b922.81",
     "change": "-0.22%",
-    "date": "Feb 27, 2026"
+    "date": "Mar 02, 2026"
   },
   {
     "scheme_id": "1569",
@@ -1523,9 +1523,9 @@
     "scheme_id": "2677",
     "scheme_name": "Aditya Birla Sun Life Focused FundStrategy",
     "duration": "5 yrs 1 m",
-    "nav": "\u20b9145.19",
-    "change": "-1.07%",
-    "date": "Feb 27, 2026"
+    "nav": "\u20b9143.21",
+    "change": "-1.37%",
+    "date": "Mar 02, 2026"
   },
   {
     "scheme_id": "31845",
@@ -1699,9 +1699,9 @@
     "scheme_id": "40628",
     "scheme_name": "Canara Robeco Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,383.26",
+    "nav": "\u20b91,383.44",
     "change": "0.01%",
-    "date": "Mar 02, 2026"
+    "date": "Mar 03, 2026"
   },
   {
     "scheme_id": "39294",
@@ -1723,9 +1723,9 @@
     "scheme_id": "2969",
     "scheme_name": "Aditya Birla Sun Life Infrastructure FundSectoral-Infrastructure",
     "duration": "3 yrs 6 m",
-    "nav": "\u20b996.99",
-    "change": "-0.92%",
-    "date": "Feb 27, 2026"
+    "nav": "\u20b995.08",
+    "change": "-1.97%",
+    "date": "Mar 02, 2026"
   },
   {
     "scheme_id": "2922",
@@ -1955,9 +1955,9 @@
     "scheme_id": "3699",
     "scheme_name": "Invesco India Liquid FundLiquid",
     "duration": "11 yrs 3 m",
-    "nav": "\u20b93,729.45",
-    "change": "0.01%",
-    "date": "Mar 02, 2026"
+    "nav": "\u20b93,730.05",
+    "change": "0.02%",
+    "date": "Mar 03, 2026"
   },
   {
     "scheme_id": "5453",
@@ -2084,8 +2084,8 @@
     "scheme_name": "Motilal Oswal Liquid FundLiquid",
     "duration": "-",
     "nav": "\u20b914.31",
-    "change": "0.01%",
-    "date": "Mar 02, 2026"
+    "change": "0.02%",
+    "date": "Mar 03, 2026"
   },
   {
     "scheme_id": "1761",
@@ -2188,8 +2188,8 @@
     "scheme_name": "DSP 10Y G-Sec FundLong Debt Index",
     "duration": "10 yrs 5 m",
     "nav": "\u20b922.19",
-    "change": "0.22%",
-    "date": "Feb 27, 2026"
+    "change": "0%",
+    "date": "Mar 02, 2026"
   },
   {
     "scheme_id": "32145",
@@ -2410,10 +2410,10 @@
   {
     "scheme_id": "2601",
     "scheme_name": "Aditya Birla Sun Life Consumption FundThematic-Consumption",
-    "duration": "5 yrs 1 m",
-    "nav": "\u20b9207.82",
-    "change": "-1.28%",
-    "date": "Feb 27, 2026"
+    "duration": "5 yrs 2 m",
+    "nav": "\u20b9204.73",
+    "change": "-1.49%",
+    "date": "Mar 02, 2026"
   },
   {
     "scheme_id": "2118",
@@ -2491,9 +2491,9 @@
     "scheme_id": "8134",
     "scheme_name": "Bank of India Liquid FundLiquid",
     "duration": "11 yrs 3 m",
-    "nav": "\u20b93,126.38",
-    "change": "0.01%",
-    "date": "Mar 02, 2026"
+    "nav": "\u20b93,126.91",
+    "change": "0.02%",
+    "date": "Mar 03, 2026"
   },
   {
     "scheme_id": "10833",
@@ -3155,9 +3155,9 @@
     "scheme_id": "36493",
     "scheme_name": "Parag Parikh Liquid FundLiquid",
     "duration": "-",
-    "nav": "\u20b91,504.46",
-    "change": "0.01%",
-    "date": "Mar 02, 2026"
+    "nav": "\u20b91,504.7",
+    "change": "0.02%",
+    "date": "Mar 03, 2026"
   },
   {
     "scheme_id": "34867",
@@ -3339,9 +3339,9 @@
     "scheme_id": "10816",
     "scheme_name": "DSP Focused FundStrategy",
     "duration": "5 yrs 2 m",
-    "nav": "\u20b954.77",
-    "change": "-1.23%",
-    "date": "Feb 27, 2026"
+    "nav": "\u20b954.11",
+    "change": "-1.2%",
+    "date": "Mar 02, 2026"
   },
   {
     "scheme_id": "10120",
@@ -3435,9 +3435,9 @@
     "scheme_id": "32470",
     "scheme_name": "Aditya Birla Sun Life Balanced Advantage FundDynamic Asset Allocation",
     "duration": "5 yrs 5 m",
-    "nav": "\u20b9108.93",
-    "change": "-0.46%",
-    "date": "Feb 27, 2026"
+    "nav": "\u20b9107.95",
+    "change": "-0.9%",
+    "date": "Mar 02, 2026"
   },
   {
     "scheme_id": "40720",
@@ -3627,9 +3627,9 @@
     "scheme_id": "8076",
     "scheme_name": "Canara Robeco Liquid FundLiquid",
     "duration": "11 yrs 4 m",
-    "nav": "\u20b93,265.78",
-    "change": "0.01%",
-    "date": "Mar 02, 2026"
+    "nav": "\u20b93,266.31",
+    "change": "0.02%",
+    "date": "Mar 03, 2026"
   },
   {
     "scheme_id": "37746",
@@ -4131,9 +4131,9 @@
     "scheme_id": "1561",
     "scheme_name": "DSP Credit Risk FundCredit Risk",
     "duration": "9 yrs 7 m",
-    "nav": "\u20b950.41",
-    "change": "0.04%",
-    "date": "Feb 27, 2026"
+    "nav": "\u20b950.42",
+    "change": "0.02%",
+    "date": "Mar 02, 2026"
   },
   {
     "scheme_id": "12980",
@@ -4290,10 +4290,10 @@
   {
     "scheme_id": "6566",
     "scheme_name": "Aditya Birla Sun Life Value FundStrategy",
-    "duration": "3 yrs 7 m",
-    "nav": "\u20b9126.6",
-    "change": "-1.1%",
-    "date": "Feb 27, 2026"
+    "duration": "3 yrs 8 m",
+    "nav": "\u20b9124.86",
+    "change": "-1.37%",
+    "date": "Mar 02, 2026"
   },
   {
     "scheme_id": "13478",
@@ -4491,9 +4491,9 @@
     "scheme_id": "31632",
     "scheme_name": "DSP Equity Savings FundEquity Savings",
     "duration": "5 yrs 11 m",
-    "nav": "\u20b922.18",
-    "change": "-0.22%",
-    "date": "Feb 27, 2026"
+    "nav": "\u20b922.16",
+    "change": "-0.06%",
+    "date": "Mar 02, 2026"
   },
   {
     "scheme_id": "32629",
@@ -4811,9 +4811,9 @@
     "scheme_id": "2751",
     "scheme_name": "Quant Liquid FundLiquid",
     "duration": "11 yrs 1 m",
-    "nav": "\u20b942.84",
-    "change": "0.01%",
-    "date": "Mar 02, 2026"
+    "nav": "\u20b942.85",
+    "change": "0.02%",
+    "date": "Mar 03, 2026"
   },
   {
     "scheme_id": "1546",
@@ -4827,9 +4827,9 @@
     "scheme_id": "22958",
     "scheme_name": "DSP Dynamic Asset Allocation FundDynamic Asset Allocation",
     "duration": "5 yrs 11 m",
-    "nav": "\u20b928.29",
-    "change": "-0.45%",
-    "date": "Feb 27, 2026"
+    "nav": "\u20b928.2",
+    "change": "-0.32%",
+    "date": "Mar 02, 2026"
   },
   {
     "scheme_id": "10480",
@@ -4866,10 +4866,10 @@
   {
     "scheme_id": "10250",
     "scheme_name": "Aditya Birla Sun Life Arbitrage FundArbitrage",
-    "duration": "11 yrs 11 m",
-    "nav": "\u20b927.59",
-    "change": "0.03%",
-    "date": "Feb 27, 2026"
+    "duration": "11 yrs 10 m",
+    "nav": "\u20b927.61",
+    "change": "0.06%",
+    "date": "Mar 02, 2026"
   },
   {
     "scheme_id": "2604",
@@ -5099,9 +5099,9 @@
     "scheme_id": "32451",
     "scheme_name": "DSP Large & Mid Cap FundLarge & MidCap",
     "duration": "3 yrs 8 m",
-    "nav": "\u20b9633.89",
-    "change": "-1.03%",
-    "date": "Feb 27, 2026"
+    "nav": "\u20b9625.61",
+    "change": "-1.31%",
+    "date": "Mar 02, 2026"
   },
   {
     "scheme_id": "11147",
@@ -5763,9 +5763,9 @@
     "scheme_id": "40823",
     "scheme_name": "ITI Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,349.28",
+    "nav": "\u20b91,349.45",
     "change": "0.01%",
-    "date": "Mar 02, 2026"
+    "date": "Mar 03, 2026"
   },
   {
     "scheme_id": "40835",
@@ -5891,9 +5891,9 @@
     "scheme_id": "40989",
     "scheme_name": "Invesco India Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,350.47",
+    "nav": "\u20b91,350.66",
     "change": "0.01%",
-    "date": "Mar 02, 2026"
+    "date": "Mar 03, 2026"
   },
   {
     "scheme_id": "40997",
@@ -5939,9 +5939,9 @@
     "scheme_id": "41043",
     "scheme_name": "Bank of India Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,358.07",
+    "nav": "\u20b91,358.25",
     "change": "0.01%",
-    "date": "Mar 02, 2026"
+    "date": "Mar 03, 2026"
   },
   {
     "scheme_id": "41132",
@@ -7387,9 +7387,9 @@
     "scheme_id": "42763",
     "scheme_name": "DSP Nifty Midcap 150 Quality 50 Index FundMid Cap Index",
     "duration": "-",
-    "nav": "\u20b914",
-    "change": "-0.65%",
-    "date": "Feb 27, 2026"
+    "nav": "\u20b913.78",
+    "change": "-1.55%",
+    "date": "Mar 02, 2026"
   },
   {
     "scheme_id": "42767",
@@ -8093,7 +8093,7 @@
     "duration": "-",
     "nav": "\u20b912.22",
     "change": "0.01%",
-    "date": "Mar 02, 2026"
+    "date": "Mar 03, 2026"
   },
   {
     "scheme_id": "43384",
@@ -8187,9 +8187,9 @@
     "scheme_id": "43473",
     "scheme_name": "Aditya Birla Sun Life Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b916.77",
-    "change": "-0.57%",
-    "date": "Feb 27, 2026"
+    "nav": "\u20b916.78",
+    "change": "0.04%",
+    "date": "Mar 02, 2026"
   },
   {
     "scheme_id": "43469",
@@ -9011,9 +9011,9 @@
     "scheme_id": "44214",
     "scheme_name": "Helios Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,149.33",
+    "nav": "\u20b91,149.48",
     "change": "0.01%",
-    "date": "Mar 02, 2026"
+    "date": "Mar 03, 2026"
   },
   {
     "scheme_id": "44222",
@@ -9187,9 +9187,9 @@
     "scheme_id": "44393",
     "scheme_name": "Bandhan Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b913.91",
-    "change": "-0%",
-    "date": "Feb 28, 2026"
+    "nav": "\u20b913.93",
+    "change": "0.12%",
+    "date": "Mar 02, 2026"
   },
   {
     "scheme_id": "44389",
@@ -10835,9 +10835,9 @@
     "scheme_id": "45325",
     "scheme_name": "DSP Nifty Private Bank Index FundOther Equity Index",
     "duration": "-",
-    "nav": "\u20b911.67",
-    "change": "-1.32%",
-    "date": "Feb 27, 2026"
+    "nav": "\u20b911.56",
+    "change": "-0.92%",
+    "date": "Mar 02, 2026"
   },
   {
     "scheme_id": "45329",
@@ -11811,9 +11811,9 @@
     "scheme_id": "45964",
     "scheme_name": "Capitalmind Liquid FundLiquid",
     "duration": "-",
-    "nav": "\u20b91,016.4",
-    "change": "0.01%",
-    "date": "Mar 02, 2026"
+    "nav": "\u20b91,016.56",
+    "change": "0.02%",
+    "date": "Mar 03, 2026"
   },
   {
     "scheme_id": "45967",
@@ -11835,9 +11835,9 @@
     "scheme_id": "45975",
     "scheme_name": "DSP Nifty Midcap 150 Index FundMid Cap Index",
     "duration": "-",
-    "nav": "\u20b99.96",
-    "change": "-1.09%",
-    "date": "Feb 27, 2026"
+    "nav": "\u20b99.79",
+    "change": "-1.7%",
+    "date": "Mar 02, 2026"
   },
   {
     "scheme_id": "45982",
