@@ -291,9 +291,9 @@
     "scheme_id": "25667",
     "scheme_name": "Invesco India - Invesco Global Equity Income FoFInternational",
     "duration": "3 yrs 4 m",
-    "nav": "\u20b932.69",
-    "change": "0.49%",
-    "date": "Mar 17, 2026"
+    "nav": "\u20b933.05",
+    "change": "1.11%",
+    "date": "Mar 18, 2026"
   },
   {
     "scheme_id": "32037",
@@ -6299,9 +6299,9 @@
     "scheme_id": "41695",
     "scheme_name": "Invesco India - Invesco Global Consumer Trends FoFInternational",
     "duration": "3 yrs 4 m",
-    "nav": "\u20b911.11",
-    "change": "-0.65%",
-    "date": "Mar 17, 2026"
+    "nav": "\u20b911.25",
+    "change": "1.29%",
+    "date": "Mar 18, 2026"
   },
   {
     "scheme_id": "41703",
@@ -9235,9 +9235,9 @@
     "scheme_id": "44393",
     "scheme_name": "Bandhan Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b913.4",
-    "change": "0.49%",
-    "date": "Mar 17, 2026"
+    "nav": "\u20b913.47",
+    "change": "0.51%",
+    "date": "Mar 18, 2026"
   },
   {
     "scheme_id": "44389",
@@ -12181,6 +12181,14 @@
     "duration": "-",
     "nav": "\u20b910.02",
     "change": "0.3%",
+    "date": "Mar 18, 2026"
+  },
+  {
+    "scheme_id": "46194",
+    "scheme_name": "Motilal Oswal Multi Factor Passive FoFEquity FoF",
+    "duration": "-",
+    "nav": "\u20b99.91",
+    "change": "\u221e%",
     "date": "Mar 18, 2026"
   },
   {
