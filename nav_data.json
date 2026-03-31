@@ -43,25 +43,25 @@
     "scheme_id": "2116",
     "scheme_name": "SBI Credit Risk FundCredit Risk",
     "duration": "10 yrs",
-    "nav": "\u20b947.67",
-    "change": "0.01%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b947.7",
+    "change": "0.05%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "25378",
     "scheme_name": "HSBC Aggressive Hybrid Active FoFAggressive Hybrid",
-    "duration": "5 yrs 4 m",
-    "nav": "\u20b937.77",
-    "change": "-1.37%",
-    "date": "Mar 27, 2026"
+    "duration": "5 yrs 5 m",
+    "nav": "\u20b937.11",
+    "change": "-1.75%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "7731",
     "scheme_name": "Edelweiss Money Market FundMoney Market",
     "duration": "11 yrs 2 m",
-    "nav": "\u20b929.58",
-    "change": "0.07%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b929.6",
+    "change": "0.1%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "31807",
@@ -75,9 +75,9 @@
     "scheme_id": "4820",
     "scheme_name": "DSP Strategic Bond FundDynamic Bond",
     "duration": "10 yrs 9 m",
-    "nav": "\u20b93,326.57",
-    "change": "-0.5%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b93,316.64",
+    "change": "-0.3%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "1247",
@@ -90,10 +90,10 @@
   {
     "scheme_id": "32304",
     "scheme_name": "LIC MF Medium to Long Duration FundMedium to Long Duration",
-    "duration": "11 yrs 4 m",
-    "nav": "\u20b973.16",
-    "change": "-0.26%",
-    "date": "Mar 27, 2026"
+    "duration": "11 yrs 5 m",
+    "nav": "\u20b973.03",
+    "change": "-0.18%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "31018",
@@ -131,9 +131,9 @@
     "scheme_id": "39840",
     "scheme_name": "SBI Equity Minimum Variance FundLarge Cap",
     "duration": "5 yrs 4 m",
-    "nav": "\u20b922.13",
-    "change": "-1.31%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b921.71",
+    "change": "-1.93%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "2681",
@@ -155,9 +155,9 @@
     "scheme_id": "32263",
     "scheme_name": "SBI Medium to Long Duration FundMedium to Long Duration",
     "duration": "10 yrs",
-    "nav": "\u20b971.52",
-    "change": "-0.29%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b971.42",
+    "change": "-0.14%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "32394",
@@ -187,9 +187,9 @@
     "scheme_id": "39224",
     "scheme_name": "DSP Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,433.93",
-    "change": "0.01%",
-    "date": "Mar 29, 2026"
+    "nav": "\u20b91,434.19",
+    "change": "0.02%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "32378",
@@ -242,10 +242,10 @@
   {
     "scheme_id": "2233",
     "scheme_name": "SBI Focused FundStrategy",
-    "duration": "5 yrs 2 m",
-    "nav": "\u20b9342.53",
-    "change": "-2.24%",
-    "date": "Mar 27, 2026"
+    "duration": "5 yrs 4 m",
+    "nav": "\u20b9334.93",
+    "change": "-2.22%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "32785",
@@ -275,9 +275,9 @@
     "scheme_id": "3321",
     "scheme_name": "Aditya Birla Sun Life Multi-Asset Omni FoFMulti Asset Allocation",
     "duration": "5 yrs 4 m",
-    "nav": "\u20b968.7",
-    "change": "-1.18%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b968",
+    "change": "-1.02%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "39700",
@@ -307,17 +307,17 @@
     "scheme_id": "25386",
     "scheme_name": "HSBC Income Plus Arbitrage Active FoFTax Efficient Income",
     "duration": "11 yrs 3 m",
-    "nav": "\u20b922.12",
-    "change": "-0.01%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b922.14",
+    "change": "0.06%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "1853",
     "scheme_name": "SBI Dynamic Bond FundDynamic Bond",
     "duration": "9 yrs 11 m",
-    "nav": "\u20b936.45",
-    "change": "-0.09%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b936.47",
+    "change": "0.05%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "1825",
@@ -403,17 +403,17 @@
     "scheme_id": "23466",
     "scheme_name": "HSBC Asia Pacific (Ex Japan) Dividend Yield FundInternational",
     "duration": "3 yrs 4 m",
-    "nav": "\u20b931.4",
-    "change": "-1.34%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b930.91",
+    "change": "-1.56%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "38059",
     "scheme_name": "Sundaram Services FundThematic",
     "duration": "4 yrs 11 m",
-    "nav": "\u20b931.03",
-    "change": "-2.01%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b930.26",
+    "change": "-2.47%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "11656",
@@ -530,10 +530,10 @@
   {
     "scheme_id": "1326",
     "scheme_name": "LIC MF BSE Sensex Index FundLarge Cap Index",
-    "duration": "5 yrs 6 m",
-    "nav": "\u20b9137.2",
-    "change": "-2.25%",
-    "date": "Mar 27, 2026"
+    "duration": "5 yrs 8 m",
+    "nav": "\u20b9134.33",
+    "change": "-2.1%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "39768",
@@ -570,10 +570,10 @@
   {
     "scheme_id": "39611",
     "scheme_name": "DSP Nifty 50 Index FundLarge Cap Index",
-    "duration": "5 yrs 4 m",
-    "nav": "\u20b922.07",
-    "change": "-2.09%",
-    "date": "Mar 27, 2026"
+    "duration": "5 yrs 5 m",
+    "nav": "\u20b921.6",
+    "change": "-2.13%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "12908",
@@ -603,9 +603,9 @@
     "scheme_id": "35592",
     "scheme_name": "DSP Arbitrage FundArbitrage",
     "duration": "-",
-    "nav": "\u20b915.58",
-    "change": "0.07%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b915.59",
+    "change": "0.05%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "32517",
@@ -675,9 +675,9 @@
     "scheme_id": "6562",
     "scheme_name": "HSBC Global Emerging Markets FundInternational",
     "duration": "5 yrs 10 m",
-    "nav": "\u20b928.9",
-    "change": "-1.73%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b928.29",
+    "change": "-2.11%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "33119",
@@ -730,26 +730,26 @@
   {
     "scheme_id": "14722",
     "scheme_name": "LIC MF Gold ETF FoFGold/ Precious Metal Funds",
-    "duration": "2 yrs",
-    "nav": "\u20b936.61",
-    "change": "-1.16%",
-    "date": "Mar 27, 2026"
+    "duration": "1 yrs 7 m",
+    "nav": "\u20b937.42",
+    "change": "2.22%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "32787",
     "scheme_name": "LIC MF Children's FundChildren Solutions",
     "duration": "5 yrs 11 m",
-    "nav": "\u20b929.33",
-    "change": "-1.57%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b928.76",
+    "change": "-1.94%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "38920",
     "scheme_name": "LIC MF Dividend Yield FundStrategy",
-    "duration": "5 yrs",
-    "nav": "\u20b927.24",
-    "change": "-2.29%",
-    "date": "Mar 27, 2026"
+    "duration": "5 yrs 2 m",
+    "nav": "\u20b926.62",
+    "change": "-2.3%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "22956",
@@ -826,10 +826,10 @@
   {
     "scheme_id": "4678",
     "scheme_name": "Edelweiss Large & Mid Cap FundLarge & MidCap",
-    "duration": "5 yrs 1 m",
-    "nav": "\u20b980.77",
-    "change": "-2.08%",
-    "date": "Mar 27, 2026"
+    "duration": "5 yrs 2 m",
+    "nav": "\u20b978.86",
+    "change": "-2.36%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "30815",
@@ -850,10 +850,10 @@
   {
     "scheme_id": "17056",
     "scheme_name": "SBI Technology Opportunities FundSectoral-Technology",
-    "duration": "5 yrs 3 m",
-    "nav": "\u20b9180.99",
-    "change": "-1.1%",
-    "date": "Mar 27, 2026"
+    "duration": "5 yrs 4 m",
+    "nav": "\u20b9177.64",
+    "change": "-1.85%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "34956",
@@ -931,9 +931,9 @@
     "scheme_id": "1290",
     "scheme_name": "SBI Overnight FundOvernight",
     "duration": "12 yrs 2 m",
-    "nav": "\u20b94,319.41",
-    "change": "0.01%",
-    "date": "Mar 29, 2026"
+    "nav": "\u20b94,320.18",
+    "change": "0.02%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "2151",
@@ -947,9 +947,9 @@
     "scheme_id": "40646",
     "scheme_name": "Edelweiss Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,387.64",
-    "change": "0.01%",
-    "date": "Mar 29, 2026"
+    "nav": "\u20b91,387.89",
+    "change": "0.02%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "30853",
@@ -994,18 +994,18 @@
   {
     "scheme_id": "12760",
     "scheme_name": "SBI Gold FundGold/ Precious Metal Funds",
-    "duration": "1 yrs 7 m",
-    "nav": "\u20b941.52",
-    "change": "-1.24%",
-    "date": "Mar 27, 2026"
+    "duration": "1 yrs 6 m",
+    "nav": "\u20b942.78",
+    "change": "3.02%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "1386",
     "scheme_name": "DSP Large Cap FundLarge Cap",
     "duration": "5 yrs 4 m",
-    "nav": "\u20b9433.04",
-    "change": "-1.24%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b9423.21",
+    "change": "-2.27%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "37622",
@@ -1115,9 +1115,9 @@
     "scheme_id": "12253",
     "scheme_name": "Aditya Birla Sun Life Dynamic Asset Allocation Omni FoFMulti Asset Allocation",
     "duration": "5 yrs 4 m",
-    "nav": "\u20b951.38",
-    "change": "-1.22%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b950.65",
+    "change": "-1.41%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "2288",
@@ -1139,9 +1139,9 @@
     "scheme_id": "31919",
     "scheme_name": "LIC MF Aggressive Hybrid FundAggressive Hybrid",
     "duration": "5 yrs 10 m",
-    "nav": "\u20b9180.96",
-    "change": "-1.35%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b9177.45",
+    "change": "-1.94%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "39637",
@@ -1226,18 +1226,18 @@
   {
     "scheme_id": "2040",
     "scheme_name": "DSP India T.I.G.E.R. FundSectoral-Infrastructure",
-    "duration": "3 yrs 6 m",
-    "nav": "\u20b9303.23",
-    "change": "-1.67%",
-    "date": "Mar 27, 2026"
+    "duration": "3 yrs 7 m",
+    "nav": "\u20b9298.05",
+    "change": "-1.71%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "3825",
     "scheme_name": "Aditya Birla Sun Life Income plus Arbitrage Active FoFMedium to Long Duration",
     "duration": "10 yrs 1 m",
-    "nav": "\u20b938.71",
-    "change": "-0.01%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b938.73",
+    "change": "0.05%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "11662",
@@ -1258,18 +1258,18 @@
   {
     "scheme_id": "28968",
     "scheme_name": "SBI Banking & Financial Services FundSectoral-Banking",
-    "duration": "5 yrs 3 m",
-    "nav": "\u20b940.7",
-    "change": "-2.17%",
-    "date": "Mar 27, 2026"
+    "duration": "5 yrs 4 m",
+    "nav": "\u20b939.4",
+    "change": "-3.18%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "33825",
     "scheme_name": "LIC MF Midcap FundMid Cap",
-    "duration": "5 yrs 2 m",
-    "nav": "\u20b925.71",
-    "change": "-2.31%",
-    "date": "Mar 27, 2026"
+    "duration": "5 yrs 3 m",
+    "nav": "\u20b925.1",
+    "change": "-2.4%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "4354",
@@ -1307,17 +1307,17 @@
     "scheme_id": "3087",
     "scheme_name": "Franklin India Dividend Yield FundStrategy",
     "duration": "4 yrs 11 m",
-    "nav": "\u20b9128.93",
-    "change": "-1.27%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b9126.88",
+    "change": "-1.59%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "5296",
     "scheme_name": "SBI Short Term Debt FundShort Duration",
     "duration": "10 yrs 6 m",
-    "nav": "\u20b933.2",
-    "change": "-0.08%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b933.22",
+    "change": "0.06%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "32231",
@@ -1347,9 +1347,9 @@
     "scheme_id": "32552",
     "scheme_name": "SBI Constant Maturity 10-Year Gilt FundGilt with 10 year Constant Duration",
     "duration": "9 yrs 8 m",
-    "nav": "\u20b964.45",
-    "change": "-0.45%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b964.17",
+    "change": "-0.44%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "38506",
@@ -1363,9 +1363,9 @@
     "scheme_id": "10271",
     "scheme_name": "Edelweiss Aggressive Hybrid FundAggressive Hybrid",
     "duration": "5 yrs 3 m",
-    "nav": "\u20b959.73",
-    "change": "-1.55%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b958.77",
+    "change": "-1.61%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "2778",
@@ -1427,9 +1427,9 @@
     "scheme_id": "17055",
     "scheme_name": "SBI Consumption Opportunities FundThematic-Consumption",
     "duration": "5 yrs 3 m",
-    "nav": "\u20b9265.32",
-    "change": "-2.07%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b9260.78",
+    "change": "-1.71%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "31894",
@@ -1459,9 +1459,9 @@
     "scheme_id": "1284",
     "scheme_name": "DSP Short Term FundShort Duration",
     "duration": "10 yrs 11 m",
-    "nav": "\u20b947.93",
-    "change": "-0.13%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b947.95",
+    "change": "0.04%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "30664",
@@ -1475,9 +1475,9 @@
     "scheme_id": "2045",
     "scheme_name": "DSP Regular Savings FundConservative Hybrid",
     "duration": "10 yrs",
-    "nav": "\u20b958.56",
-    "change": "-0.52%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b958.22",
+    "change": "-0.58%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "3075",
@@ -1523,9 +1523,9 @@
     "scheme_id": "25382",
     "scheme_name": "HSBC Multi Asset Active FoFMulti Asset Allocation",
     "duration": "5 yrs 4 m",
-    "nav": "\u20b937.29",
-    "change": "-1.65%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b936.87",
+    "change": "-1.12%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "2677",
@@ -1659,9 +1659,9 @@
     "scheme_id": "26662",
     "scheme_name": "Edelweiss Arbitrage FundArbitrage",
     "duration": "11 yrs 7 m",
-    "nav": "\u20b920.22",
-    "change": "0.04%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b920.23",
+    "change": "0.06%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "2012",
@@ -1698,10 +1698,10 @@
   {
     "scheme_id": "12251",
     "scheme_name": "Aditya Birla Sun Life Aggressive Hybrid Omni FoFMulti Asset Allocation",
-    "duration": "5 yrs 9 m",
-    "nav": "\u20b939.9",
-    "change": "-1.42%",
-    "date": "Mar 27, 2026"
+    "duration": "5 yrs 10 m",
+    "nav": "\u20b939.23",
+    "change": "-1.67%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "40628",
@@ -1787,17 +1787,17 @@
     "scheme_id": "31977",
     "scheme_name": "SBI ELSS Tax Saver FundELSS",
     "duration": "3 yrs 9 m",
-    "nav": "\u20b9400.19",
-    "change": "-2.01%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b9391.38",
+    "change": "-2.2%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "19230",
     "scheme_name": "Parag Parikh Flexi Cap FundFlexi Cap",
     "duration": "4 yrs 11 m",
-    "nav": "\u20b978.97",
-    "change": "-1.59%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b977.88",
+    "change": "-1.38%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "34464",
@@ -1931,9 +1931,9 @@
     "scheme_id": "32554",
     "scheme_name": "SBI Gilt FundGilt",
     "duration": "9 yrs 8 m",
-    "nav": "\u20b966.24",
-    "change": "-0.35%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b966.15",
+    "change": "-0.14%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "32611",
@@ -2026,10 +2026,10 @@
   {
     "scheme_id": "2626",
     "scheme_name": "SBI Comma FundThematic",
-    "duration": "5 yrs",
-    "nav": "\u20b9106.4",
-    "change": "-1.34%",
-    "date": "Mar 27, 2026"
+    "duration": "5 yrs 1 m",
+    "nav": "\u20b9105.39",
+    "change": "-0.95%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "9806",
@@ -2067,9 +2067,9 @@
     "scheme_id": "3381",
     "scheme_name": "DSP Ultra Short FundUltra Short Duration",
     "duration": "11 yrs 9 m",
-    "nav": "\u20b93,539.2",
-    "change": "0.08%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b93,542.92",
+    "change": "0.11%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "8140",
@@ -2122,10 +2122,10 @@
   {
     "scheme_id": "5365",
     "scheme_name": "PGIM India Emerging Markets Equity FoFInternational",
-    "duration": "12 yrs 11 m",
-    "nav": "\u20b920.05",
-    "change": "-2.24%",
-    "date": "Mar 27, 2026"
+    "duration": "13 yrs 3 m",
+    "nav": "\u20b919.69",
+    "change": "-1.8%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "6469",
@@ -2138,10 +2138,10 @@
   {
     "scheme_id": "31913",
     "scheme_name": "LIC MF Flexi Cap FundFlexi Cap",
-    "duration": "5 yrs 8 m",
-    "nav": "\u20b988.79",
-    "change": "-1.97%",
-    "date": "Mar 27, 2026"
+    "duration": "5 yrs 9 m",
+    "nav": "\u20b986.9",
+    "change": "-2.13%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "28710",
@@ -2155,9 +2155,9 @@
     "scheme_id": "31805",
     "scheme_name": "Aditya Birla Sun Life MNC FundThematic-MNC",
     "duration": "6 yrs",
-    "nav": "\u20b91,162.26",
-    "change": "-2.03%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b91,143.42",
+    "change": "-1.62%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "5608",
@@ -2186,10 +2186,10 @@
   {
     "scheme_id": "32321",
     "scheme_name": "SBI Contra FundStrategy",
-    "duration": "4 yrs 7 m",
-    "nav": "\u20b9353.68",
-    "change": "-1.75%",
-    "date": "Mar 27, 2026"
+    "duration": "4 yrs 8 m",
+    "nav": "\u20b9346.96",
+    "change": "-1.9%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "13306",
@@ -2202,10 +2202,10 @@
   {
     "scheme_id": "27691",
     "scheme_name": "DSP 10Y G-Sec FundLong Debt Index",
-    "duration": "10 yrs 7 m",
-    "nav": "\u20b921.9",
-    "change": "-0.39%",
-    "date": "Mar 27, 2026"
+    "duration": "10 yrs 8 m",
+    "nav": "\u20b921.79",
+    "change": "-0.51%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "32145",
@@ -2219,9 +2219,9 @@
     "scheme_id": "13587",
     "scheme_name": "Franklin U.S. Opportunities Equity Active FoFInternational",
     "duration": "5 yrs 10 m",
-    "nav": "\u20b975.4",
-    "change": "-3.97%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b974.7",
+    "change": "-0.93%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "2960",
@@ -2235,9 +2235,9 @@
     "scheme_id": "12224",
     "scheme_name": "HSBC Brazil FundInternational",
     "duration": "5 yrs 10 m",
-    "nav": "\u20b910.52",
-    "change": "-1.44%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b910.57",
+    "change": "0.44%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "32132",
@@ -2339,17 +2339,17 @@
     "scheme_id": "3494",
     "scheme_name": "SBI Arbitrage Opportunities FundArbitrage",
     "duration": "11 yrs 10 m",
-    "nav": "\u20b935.31",
-    "change": "0.07%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b935.34",
+    "change": "0.06%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "1377",
     "scheme_name": "Aditya Birla Sun Life Dividend Yield FundStrategy",
     "duration": "4 yrs 10 m",
-    "nav": "\u20b9419.78",
-    "change": "-1.71%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b9413.1",
+    "change": "-1.59%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "6399",
@@ -2435,9 +2435,9 @@
     "scheme_id": "2118",
     "scheme_name": "SBI Savings FundMoney Market",
     "duration": "11 yrs",
-    "nav": "\u20b943.17",
-    "change": "0.07%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b943.21",
+    "change": "0.08%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "2463",
@@ -2467,9 +2467,9 @@
     "scheme_id": "6034",
     "scheme_name": "Edelweiss Mid Cap FundMid Cap",
     "duration": "3 yrs 8 m",
-    "nav": "\u20b994.19",
-    "change": "-1.96%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b992.06",
+    "change": "-2.27%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "34465",
@@ -2515,9 +2515,9 @@
     "scheme_id": "32245",
     "scheme_name": "Franklin India Technology FundSectoral-Technology",
     "duration": "5 yrs 6 m",
-    "nav": "\u20b9430.5",
-    "change": "-1.35%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b9423.04",
+    "change": "-1.73%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "33424",
@@ -2603,9 +2603,9 @@
     "scheme_id": "5050",
     "scheme_name": "DSP Flexi Cap FundFlexi Cap",
     "duration": "5 yrs 4 m",
-    "nav": "\u20b992.51",
-    "change": "-2.11%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b990.4",
+    "change": "-2.27%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "1801",
@@ -2619,9 +2619,9 @@
     "scheme_id": "32298",
     "scheme_name": "SBI Ultra Short Duration FundUltra Short Duration",
     "duration": "10 yrs 10 m",
-    "nav": "\u20b96,232.84",
-    "change": "0.09%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b96,240.8",
+    "change": "0.13%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "31809",
@@ -2683,9 +2683,9 @@
     "scheme_id": "10108",
     "scheme_name": "Edelweiss Large Cap FundLarge Cap",
     "duration": "5 yrs 4 m",
-    "nav": "\u20b977.42",
-    "change": "-2.05%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b975.7",
+    "change": "-2.22%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "32325",
@@ -2714,18 +2714,18 @@
   {
     "scheme_id": "11114",
     "scheme_name": "LIC MF Nifty Next 50 Index FundLarge Cap Index",
-    "duration": "5 yrs 3 m",
-    "nav": "\u20b946.03",
-    "change": "-2.38%",
-    "date": "Mar 27, 2026"
+    "duration": "5 yrs 4 m",
+    "nav": "\u20b944.79",
+    "change": "-2.69%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "32142",
     "scheme_name": "LIC MF ELSS Tax SaverELSS",
-    "duration": "5 yrs 5 m",
-    "nav": "\u20b9133.56",
-    "change": "-2.2%",
-    "date": "Mar 27, 2026"
+    "duration": "5 yrs 6 m",
+    "nav": "\u20b9130.31",
+    "change": "-2.43%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "11485",
@@ -2746,10 +2746,10 @@
   {
     "scheme_id": "2477",
     "scheme_name": "SBI Midcap FundMid Cap",
-    "duration": "4 yrs 11 m",
-    "nav": "\u20b9211.78",
-    "change": "-2.05%",
-    "date": "Mar 27, 2026"
+    "duration": "5 yrs",
+    "nav": "\u20b9207.54",
+    "change": "-2%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "2460",
@@ -2764,8 +2764,8 @@
     "scheme_name": "Franklin India Income Plus Arbitrage Active FoFMulti Asset Allocation",
     "duration": "5 yrs 4 m",
     "nav": "\u20b921.77",
-    "change": "-0.06%",
-    "date": "Mar 27, 2026"
+    "change": "0.01%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "38732",
@@ -2834,10 +2834,10 @@
   {
     "scheme_id": "4876",
     "scheme_name": "DSP Small Cap FundSmall Cap",
-    "duration": "4 yrs 9 m",
-    "nav": "\u20b9178.85",
-    "change": "-2.19%",
-    "date": "Mar 27, 2026"
+    "duration": "4 yrs 10 m",
+    "nav": "\u20b9174.98",
+    "change": "-2.16%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "31962",
@@ -2859,9 +2859,9 @@
     "scheme_id": "4471",
     "scheme_name": "SBI Liquid FundLiquid",
     "duration": "11 yrs 4 m",
-    "nav": "\u20b94,256.21",
-    "change": "0.02%",
-    "date": "Mar 29, 2026"
+    "nav": "\u20b94,258.46",
+    "change": "0.05%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "10498",
@@ -2875,9 +2875,9 @@
     "scheme_id": "40620",
     "scheme_name": "LIC MF Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,384.14",
-    "change": "0.01%",
-    "date": "Mar 29, 2026"
+    "nav": "\u20b91,384.41",
+    "change": "0.02%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "1898",
@@ -3026,10 +3026,10 @@
   {
     "scheme_id": "31976",
     "scheme_name": "SBI Large & Midcap FundLarge & MidCap",
-    "duration": "4 yrs 10 m",
-    "nav": "\u20b9591.91",
-    "change": "-1.84%",
-    "date": "Mar 27, 2026"
+    "duration": "4 yrs 11 m",
+    "nav": "\u20b9578.89",
+    "change": "-2.2%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "1394",
@@ -3098,10 +3098,10 @@
   {
     "scheme_id": "11739",
     "scheme_name": "LIC MF Equity Savings FundEquity Savings",
-    "duration": "11 yrs 4 m",
-    "nav": "\u20b926.86",
-    "change": "-0.76%",
-    "date": "Mar 27, 2026"
+    "duration": "11 yrs 5 m",
+    "nav": "\u20b926.66",
+    "change": "-0.77%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "31885",
@@ -3115,9 +3115,9 @@
     "scheme_id": "2893",
     "scheme_name": "SBI Large Cap FundLarge Cap",
     "duration": "5 yrs 4 m",
-    "nav": "\u20b985.68",
-    "change": "-2.07%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b983.8",
+    "change": "-2.2%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "32241",
@@ -3146,10 +3146,10 @@
   {
     "scheme_id": "4878",
     "scheme_name": "SBI Infrastructure FundSectoral-Infrastructure",
-    "duration": "4 yrs 8 m",
-    "nav": "\u20b944.32",
-    "change": "-2.07%",
-    "date": "Mar 27, 2026"
+    "duration": "4 yrs 9 m",
+    "nav": "\u20b943.39",
+    "change": "-2.1%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "5689",
@@ -3171,9 +3171,9 @@
     "scheme_id": "2671",
     "scheme_name": "SBI Flexicap FundFlexi Cap",
     "duration": "5 yrs 4 m",
-    "nav": "\u20b999.23",
-    "change": "-2.01%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b997.16",
+    "change": "-2.09%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "36493",
@@ -3266,10 +3266,10 @@
   {
     "scheme_id": "39641",
     "scheme_name": "DSP Nifty Next 50 Index FundLarge Cap Index",
-    "duration": "5 yrs 3 m",
-    "nav": "\u20b923.98",
-    "change": "-2.46%",
-    "date": "Mar 27, 2026"
+    "duration": "5 yrs 4 m",
+    "nav": "\u20b923.34",
+    "change": "-2.71%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "31998",
@@ -3282,10 +3282,10 @@
   {
     "scheme_id": "12249",
     "scheme_name": "Aditya Birla Sun Life Conservative Hybrid Active FoFMulti Asset Allocation",
-    "duration": "8 yrs 7 m",
-    "nav": "\u20b933.96",
-    "change": "-0.49%",
-    "date": "Mar 27, 2026"
+    "duration": "8 yrs 8 m",
+    "nav": "\u20b933.82",
+    "change": "-0.42%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "11152",
@@ -3308,24 +3308,24 @@
     "scheme_name": "LIC MF Arbitrage FundArbitrage",
     "duration": "-",
     "nav": "\u20b914.41",
-    "change": "0.09%",
-    "date": "Mar 27, 2026"
+    "change": "-0.01%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "1016",
     "scheme_name": "SBI Nifty Index FundLarge Cap Index",
-    "duration": "5 yrs 4 m",
-    "nav": "\u20b9201.86",
-    "change": "-2.09%",
-    "date": "Mar 27, 2026"
+    "duration": "5 yrs 5 m",
+    "nav": "\u20b9197.54",
+    "change": "-2.14%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "32350",
     "scheme_name": "DSP Savings FundMoney Market",
-    "duration": "11 yrs 4 m",
-    "nav": "\u20b954.88",
-    "change": "0.07%",
-    "date": "Mar 27, 2026"
+    "duration": "11 yrs 3 m",
+    "nav": "\u20b954.94",
+    "change": "0.09%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "32603",
@@ -3355,17 +3355,17 @@
     "scheme_id": "32613",
     "scheme_name": "SBI Conservative Hybrid FundConservative Hybrid",
     "duration": "8 yrs 11 m",
-    "nav": "\u20b972.89",
-    "change": "-0.58%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b972.6",
+    "change": "-0.39%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "10816",
     "scheme_name": "DSP Focused FundStrategy",
     "duration": "5 yrs 4 m",
-    "nav": "\u20b949.11",
-    "change": "-1.92%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b948.12",
+    "change": "-2.02%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "10120",
@@ -3403,9 +3403,9 @@
     "scheme_id": "32396",
     "scheme_name": "LIC MF Gilt FundGilt",
     "duration": "11 yrs 4 m",
-    "nav": "\u20b957.73",
-    "change": "-0.64%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b957.48",
+    "change": "-0.44%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "29714",
@@ -3435,9 +3435,9 @@
     "scheme_id": "9834",
     "scheme_name": "Edelweiss ELSS Tax Saver FundELSS",
     "duration": "5 yrs 4 m",
-    "nav": "\u20b9103.3",
-    "change": "-1.97%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b9100.97",
+    "change": "-2.26%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "39322",
@@ -3499,17 +3499,17 @@
     "scheme_id": "31893",
     "scheme_name": "Franklin India Large Cap FundLarge Cap",
     "duration": "5 yrs 4 m",
-    "nav": "\u20b9945.07",
-    "change": "-1.97%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b9925.1",
+    "change": "-2.11%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "1325",
     "scheme_name": "LIC MF Nifty 50 Index FundLarge Cap Index",
     "duration": "5 yrs 6 m",
-    "nav": "\u20b9125.76",
-    "change": "-2.09%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b9123.1",
+    "change": "-2.12%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "5709",
@@ -3538,18 +3538,18 @@
   {
     "scheme_id": "32299",
     "scheme_name": "DSP Aggressive Hybrid FundAggressive Hybrid",
-    "duration": "5 yrs 5 m",
-    "nav": "\u20b9329.38",
-    "change": "-1.37%",
-    "date": "Mar 27, 2026"
+    "duration": "5 yrs 6 m",
+    "nav": "\u20b9323.59",
+    "change": "-1.76%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "37985",
     "scheme_name": "DSP Corporate Bond FundCorporate Bond",
     "duration": "-",
-    "nav": "\u20b916.61",
-    "change": "0.05%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b916.62",
+    "change": "0.06%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "32272",
@@ -3563,17 +3563,17 @@
     "scheme_id": "10269",
     "scheme_name": "Edelweiss Balanced Advantage FundDynamic Asset Allocation",
     "duration": "5 yrs 9 m",
-    "nav": "\u20b949.42",
-    "change": "-1.18%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b948.76",
+    "change": "-1.34%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "3792",
     "scheme_name": "DSP ELSS Tax Saver FundELSS",
-    "duration": "5 yrs",
-    "nav": "\u20b9128",
-    "change": "-1.82%",
-    "date": "Mar 27, 2026"
+    "duration": "5 yrs 1 m",
+    "nav": "\u20b9124.72",
+    "change": "-2.56%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "10500",
@@ -3731,9 +3731,9 @@
     "scheme_id": "28768",
     "scheme_name": "Edelweiss Flexi Cap FundFlexi Cap",
     "duration": "5 yrs 2 m",
-    "nav": "\u20b935.48",
-    "change": "-2.03%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b934.7",
+    "change": "-2.21%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "32793",
@@ -3755,9 +3755,9 @@
     "scheme_id": "29776",
     "scheme_name": "SBI Equity Savings FundEquity Savings",
     "duration": "5 yrs 11 m",
-    "nav": "\u20b923.99",
-    "change": "-0.33%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b923.88",
+    "change": "-0.45%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "10960",
@@ -3771,9 +3771,9 @@
     "scheme_id": "32351",
     "scheme_name": "DSP Gilt FundGilt",
     "duration": "10 yrs",
-    "nav": "\u20b994.23",
-    "change": "-0.76%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b993.73",
+    "change": "-0.53%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "6805",
@@ -3811,9 +3811,9 @@
     "scheme_id": "27746",
     "scheme_name": "Edelweiss Equity Savings FundEquity Savings",
     "duration": "8 yrs 5 m",
-    "nav": "\u20b925.49",
-    "change": "-0.6%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b925.33",
+    "change": "-0.63%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "2085",
@@ -3827,9 +3827,9 @@
     "scheme_id": "39328",
     "scheme_name": "Edelweiss Small Cap FundSmall Cap",
     "duration": "4 yrs 10 m",
-    "nav": "\u20b939.13",
-    "change": "-1.73%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b938.41",
+    "change": "-1.86%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "3066",
@@ -3843,41 +3843,41 @@
     "scheme_id": "31980",
     "scheme_name": "SBI MNC FundThematic-MNC",
     "duration": "5 yrs 9 m",
-    "nav": "\u20b9334.93",
-    "change": "-1.32%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b9329.08",
+    "change": "-1.75%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "3532",
     "scheme_name": "DSP Midcap FundMid Cap",
     "duration": "5 yrs 4 m",
-    "nav": "\u20b9136.06",
-    "change": "-2.04%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b9133.02",
+    "change": "-2.23%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "32123",
     "scheme_name": "DSP Bond FundMedium Duration",
     "duration": "11 yrs 4 m",
-    "nav": "\u20b983.93",
-    "change": "-0.1%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b983.96",
+    "change": "0.04%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "31969",
     "scheme_name": "SBI ESG Exclusionary Strategy FundThematic-ESG",
-    "duration": "5 yrs 4 m",
-    "nav": "\u20b9215.62",
-    "change": "-2.24%",
-    "date": "Mar 27, 2026"
+    "duration": "5 yrs 6 m",
+    "nav": "\u20b9210.48",
+    "change": "-2.38%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "10265",
     "scheme_name": "SBI Small Cap FundSmall Cap",
     "duration": "5 yrs 1 m",
-    "nav": "\u20b9149.86",
-    "change": "-1.68%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b9147.16",
+    "change": "-1.81%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "1251",
@@ -3914,18 +3914,18 @@
   {
     "scheme_id": "31983",
     "scheme_name": "SBI Equity Hybrid FundAggressive Hybrid",
-    "duration": "5 yrs 4 m",
-    "nav": "\u20b9285.79",
-    "change": "-1.41%",
-    "date": "Mar 27, 2026"
+    "duration": "5 yrs 5 m",
+    "nav": "\u20b9281.69",
+    "change": "-1.43%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "28921",
     "scheme_name": "LIC MF Large & Mid Cap FundLarge & MidCap",
     "duration": "5 yrs 4 m",
-    "nav": "\u20b934.7",
-    "change": "-2.35%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b933.92",
+    "change": "-2.24%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "27101",
@@ -4138,26 +4138,26 @@
   {
     "scheme_id": "35222",
     "scheme_name": "LIC MF Focused FundStrategy",
-    "duration": "5 yrs 6 m",
-    "nav": "\u20b919",
-    "change": "-2.45%",
-    "date": "Mar 27, 2026"
+    "duration": "5 yrs 8 m",
+    "nav": "\u20b918.44",
+    "change": "-2.95%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "34761",
     "scheme_name": "LIC MF Small Cap FundSmall Cap",
-    "duration": "4 yrs 10 m",
-    "nav": "\u20b926.41",
-    "change": "-2.23%",
-    "date": "Mar 27, 2026"
+    "duration": "4 yrs 11 m",
+    "nav": "\u20b925.93",
+    "change": "-1.83%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "1561",
     "scheme_name": "DSP Credit Risk FundCredit Risk",
     "duration": "9 yrs 8 m",
-    "nav": "\u20b950.65",
-    "change": "-0.04%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b950.47",
+    "change": "-0.36%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "12980",
@@ -4227,9 +4227,9 @@
     "scheme_id": "39256",
     "scheme_name": "LIC MF Short Duration FundShort Duration",
     "duration": "-",
-    "nav": "\u20b914.97",
-    "change": "-0.13%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b914.98",
+    "change": "0.03%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "39184",
@@ -4299,9 +4299,9 @@
     "scheme_id": "32410",
     "scheme_name": "Aditya Birla Sun Life Digital India FundSectoral-Technology",
     "duration": "5 yrs 6 m",
-    "nav": "\u20b9138.2",
-    "change": "-1.33%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b9135.22",
+    "change": "-2.16%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "2594",
@@ -4370,10 +4370,10 @@
   {
     "scheme_id": "29210",
     "scheme_name": "LIC MF Banking & Financial Services FundSectoral-Banking",
-    "duration": "5 yrs 4 m",
-    "nav": "\u20b919.67",
-    "change": "-2.39%",
-    "date": "Mar 27, 2026"
+    "duration": "5 yrs 5 m",
+    "nav": "\u20b919.04",
+    "change": "-3.21%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "14566",
@@ -4467,9 +4467,9 @@
     "scheme_id": "32249",
     "scheme_name": "LIC MF Conservative Hybrid FundConservative Hybrid",
     "duration": "11 yrs 7 m",
-    "nav": "\u20b981.55",
-    "change": "-0.63%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b981.14",
+    "change": "-0.51%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "1262",
@@ -4483,9 +4483,9 @@
     "scheme_id": "4991",
     "scheme_name": "LIC MF Banking & PSU FundBanking and PSU",
     "duration": "11 yrs",
-    "nav": "\u20b935.81",
-    "change": "-0.06%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b935.84",
+    "change": "0.06%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "1674",
@@ -4515,9 +4515,9 @@
     "scheme_id": "31632",
     "scheme_name": "DSP Equity Savings FundEquity Savings",
     "duration": "6 yrs",
-    "nav": "\u20b921.79",
-    "change": "-0.22%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b921.68",
+    "change": "-0.47%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "32629",
@@ -4595,17 +4595,17 @@
     "scheme_id": "5300",
     "scheme_name": "SBI Low Duration FundLow Duration",
     "duration": "10 yrs 10 m",
-    "nav": "\u20b93,628.64",
-    "change": "0.04%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b93,632.43",
+    "change": "0.1%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "10771",
     "scheme_name": "PGIM India Global Equity Opportunities FoFInternational",
     "duration": "5 yrs 11 m",
-    "nav": "\u20b942.16",
-    "change": "-4.27%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b941.5",
+    "change": "-1.57%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "12984",
@@ -4659,9 +4659,9 @@
     "scheme_id": "10358",
     "scheme_name": "SBI Banking and PSU FundBanking and PSU",
     "duration": "10 yrs 6 m",
-    "nav": "\u20b93,206.55",
-    "change": "-0.06%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b93,206.81",
+    "change": "0.01%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "37000",
@@ -4699,9 +4699,9 @@
     "scheme_id": "31937",
     "scheme_name": "LIC MF Large Cap FundLarge Cap",
     "duration": "5 yrs 9 m",
-    "nav": "\u20b949.49",
-    "change": "-2.31%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b948.34",
+    "change": "-2.32%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "38684",
@@ -4819,9 +4819,9 @@
     "scheme_id": "2825",
     "scheme_name": "SBI Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "5 yrs 4 m",
-    "nav": "\u20b963.06",
-    "change": "-1.2%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b962.46",
+    "change": "-0.94%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "2721",
@@ -4859,9 +4859,9 @@
     "scheme_id": "22958",
     "scheme_name": "DSP Dynamic Asset Allocation FundDynamic Asset Allocation",
     "duration": "6 yrs",
-    "nav": "\u20b927.27",
-    "change": "-0.72%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b926.95",
+    "change": "-1.15%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "10480",
@@ -4954,10 +4954,10 @@
   {
     "scheme_id": "35180",
     "scheme_name": "DSP Nifty 50 Equal Weight Index FundLarge Cap Index",
-    "duration": "5 yrs 1 m",
-    "nav": "\u20b924.1",
-    "change": "-1.65%",
-    "date": "Mar 27, 2026"
+    "duration": "5 yrs 2 m",
+    "nav": "\u20b923.62",
+    "change": "-2%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "40669",
@@ -4995,9 +4995,9 @@
     "scheme_id": "35716",
     "scheme_name": "Edelweiss Recently Listed IPO FundThematic",
     "duration": "5 yrs 4 m",
-    "nav": "\u20b924.52",
-    "change": "-0.5%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b923.75",
+    "change": "-3.14%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "2449",
@@ -5011,9 +5011,9 @@
     "scheme_id": "37694",
     "scheme_name": "LIC MF Value FundStrategy",
     "duration": "5 yrs 3 m",
-    "nav": "\u20b923.13",
-    "change": "-1.93%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b922.57",
+    "change": "-2.42%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "34198",
@@ -5043,9 +5043,9 @@
     "scheme_id": "10831",
     "scheme_name": "SBI PSU FundThematic-PSU",
     "duration": "2 yrs 9 m",
-    "nav": "\u20b933.18",
-    "change": "-1.52%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b932.69",
+    "change": "-1.48%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "39447",
@@ -5075,9 +5075,9 @@
     "scheme_id": "20722",
     "scheme_name": "DSP Banking & PSU Debt FundBanking and PSU",
     "duration": "10 yrs 4 m",
-    "nav": "\u20b924.58",
-    "change": "-0.16%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b924.59",
+    "change": "0.04%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "21857",
@@ -5091,17 +5091,17 @@
     "scheme_id": "39412",
     "scheme_name": "SBI Corporate Bond FundCorporate Bond",
     "duration": "-",
-    "nav": "\u20b915.96",
-    "change": "-0.11%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b915.97",
+    "change": "0.03%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "29116",
     "scheme_name": "DSP Low Duration FundLow Duration",
     "duration": "10 yrs 8 m",
-    "nav": "\u20b920.61",
-    "change": "0.02%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b920.63",
+    "change": "0.08%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "5667",
@@ -5130,10 +5130,10 @@
   {
     "scheme_id": "32451",
     "scheme_name": "DSP Large & Mid Cap FundLarge & MidCap",
-    "duration": "5 yrs",
-    "nav": "\u20b9572.04",
-    "change": "-1.79%",
-    "date": "Mar 27, 2026"
+    "duration": "5 yrs 2 m",
+    "nav": "\u20b9558.43",
+    "change": "-2.38%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "11147",
@@ -5259,9 +5259,9 @@
     "scheme_id": "39527",
     "scheme_name": "LIC MF Healthcare FundSectoral-Pharma",
     "duration": "5 yrs 8 m",
-    "nav": "\u20b927.67",
-    "change": "-0.15%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b927.34",
+    "change": "-1.2%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "32370",
@@ -5299,17 +5299,17 @@
     "scheme_id": "40421",
     "scheme_name": "DSP Quant FundStrategy",
     "duration": "5 yrs 9 m",
-    "nav": "\u20b919.83",
-    "change": "-1.95%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b919.38",
+    "change": "-2.29%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "1111",
     "scheme_name": "LIC MF Liquid FundLiquid",
     "duration": "11 yrs 4 m",
-    "nav": "\u20b94,923.38",
-    "change": "0.02%",
-    "date": "Mar 29, 2026"
+    "nav": "\u20b94,926.08",
+    "change": "0.05%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "32157",
@@ -5395,9 +5395,9 @@
     "scheme_id": "2849",
     "scheme_name": "DSP Liquidity FundLiquid",
     "duration": "11 yrs 3 m",
-    "nav": "\u20b93,890.43",
-    "change": "0.02%",
-    "date": "Mar 29, 2026"
+    "nav": "\u20b93,892.64",
+    "change": "0.06%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "1765",
@@ -5419,9 +5419,9 @@
     "scheme_id": "1583",
     "scheme_name": "LIC MF Low Duration FundLow Duration",
     "duration": "11 yrs 5 m",
-    "nav": "\u20b941.06",
-    "change": "0.04%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b941.09",
+    "change": "0.08%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "34454",
@@ -5458,10 +5458,10 @@
   {
     "scheme_id": "32434",
     "scheme_name": "Franklin India Opportunities FundStrategy",
-    "duration": "3 yrs 2 m",
-    "nav": "\u20b9228.62",
-    "change": "-1.95%",
-    "date": "Mar 27, 2026"
+    "duration": "3 yrs 8 m",
+    "nav": "\u20b9223.16",
+    "change": "-2.39%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "3707",
@@ -5515,17 +5515,17 @@
     "scheme_id": "1883",
     "scheme_name": "PGIM India Aggressive Hybrid Equity FundAggressive Hybrid",
     "duration": "5 yrs 10 m",
-    "nav": "\u20b9118.14",
-    "change": "-1.97%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b9116.23",
+    "change": "-1.62%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "1750",
     "scheme_name": "Franklin India Dynamic Asset Allocation Active FoFDynamic Asset Allocation",
     "duration": "5 yrs 3 m",
-    "nav": "\u20b9157.5",
-    "change": "-1.18%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b9155.45",
+    "change": "-1.3%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "37919",
@@ -5562,10 +5562,10 @@
   {
     "scheme_id": "32320",
     "scheme_name": "SBI Healthcare Opportunities FundSectoral-Pharma",
-    "duration": "3 yrs 7 m",
-    "nav": "\u20b9421.31",
-    "change": "-0.47%",
-    "date": "Mar 27, 2026"
+    "duration": "3 yrs 8 m",
+    "nav": "\u20b9415.51",
+    "change": "-1.37%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "37176",
@@ -5595,9 +5595,9 @@
     "scheme_id": "1719",
     "scheme_name": "SBI Medium Duration FundMedium Duration",
     "duration": "9 yrs 7 m",
-    "nav": "\u20b952.86",
-    "change": "-0.15%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b952.79",
+    "change": "-0.13%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "32273",
@@ -5634,10 +5634,10 @@
   {
     "scheme_id": "6568",
     "scheme_name": "LIC MF Infrastructure FundSectoral-Infrastructure",
-    "duration": "3 yrs",
-    "nav": "\u20b946.33",
-    "change": "-2.07%",
-    "date": "Mar 27, 2026"
+    "duration": "3 yrs 8 m",
+    "nav": "\u20b945.19",
+    "change": "-2.47%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "2603",
@@ -5843,9 +5843,9 @@
     "scheme_id": "40880",
     "scheme_name": "LIC MF Ultra Short Duration FundUltra Short Duration",
     "duration": "-",
-    "nav": "\u20b91,372.83",
-    "change": "0.05%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b91,374.26",
+    "change": "0.1%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "40896",
@@ -5995,9 +5995,9 @@
     "scheme_id": "41156",
     "scheme_name": "Tata Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "5 yrs 4 m",
-    "nav": "\u20b923.56",
-    "change": "-1.16%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b923.25",
+    "change": "-1.34%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "41239",
@@ -6179,9 +6179,9 @@
     "scheme_id": "41619",
     "scheme_name": "SBI Floating Rate Debt FundFloater",
     "duration": "-",
-    "nav": "\u20b913.87",
-    "change": "0.08%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b913.89",
+    "change": "0.17%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "41626",
@@ -6339,33 +6339,33 @@
     "scheme_id": "41741",
     "scheme_name": "SBI Retirement Benefit Fund - Aggressive Hybrid PlanRetirement Solutions",
     "duration": "-",
-    "nav": "\u20b917.49",
-    "change": "-1.91%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b917.26",
+    "change": "-1.3%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "41737",
     "scheme_name": "SBI Retirement Benefit Fund - Aggressive PlanRetirement Solutions",
     "duration": "-",
-    "nav": "\u20b917.88",
-    "change": "-2.28%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b917.53",
+    "change": "-2%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "41745",
     "scheme_name": "SBI Retirement Benefit Fund - Conservative Hybrid PlanRetirement Solutions",
     "duration": "-",
-    "nav": "\u20b914.82",
-    "change": "-1.16%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b914.69",
+    "change": "-0.9%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "41749",
     "scheme_name": "SBI Retirement Benefit Fund - Conservative PlanRetirement Solutions",
     "duration": "-",
-    "nav": "\u20b913.88",
-    "change": "-0.84%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b913.8",
+    "change": "-0.59%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "41753",
@@ -6435,17 +6435,17 @@
     "scheme_id": "41801",
     "scheme_name": "Motilal Oswal Asset Allocation Passive FoF - AggressiveMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b918.01",
-    "change": "-1.59%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b917.82",
+    "change": "-1.03%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "41803",
     "scheme_name": "Motilal Oswal Asset Allocation Passive FoF - ConservativeMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b916.44",
-    "change": "-0.96%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b916.36",
+    "change": "-0.49%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "41805",
@@ -6468,8 +6468,8 @@
     "scheme_name": "DSP Floater FundFloater",
     "duration": "-",
     "nav": "\u20b913.65",
-    "change": "-0.1%",
-    "date": "Mar 27, 2026"
+    "change": "-0.02%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "41842",
@@ -6571,9 +6571,9 @@
     "scheme_id": "41958",
     "scheme_name": "SBI Nifty Next 50 Index FundLarge Cap Index",
     "duration": "-",
-    "nav": "\u20b916.79",
-    "change": "-2.41%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b916.33",
+    "change": "-2.72%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "41962",
@@ -6771,9 +6771,9 @@
     "scheme_id": "42121",
     "scheme_name": "SBI Balanced Advantage FundDynamic Asset Allocation",
     "duration": "-",
-    "nav": "\u20b915.18",
-    "change": "-1.16%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b914.99",
+    "change": "-1.24%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "42133",
@@ -6883,17 +6883,17 @@
     "scheme_id": "32926",
     "scheme_name": "Edelweiss Nifty 100 Quality 30 Index FundLarge Cap Index",
     "duration": "-",
-    "nav": "\u20b913",
-    "change": "-1.76%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b912.77",
+    "change": "-1.74%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "29701",
     "scheme_name": "Edelweiss Nifty 50 Index FundLarge Cap Index",
     "duration": "-",
-    "nav": "\u20b912.98",
-    "change": "-2.1%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b912.71",
+    "change": "-2.14%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "42252",
@@ -6923,25 +6923,25 @@
     "scheme_id": "42273",
     "scheme_name": "LIC MF Balanced Advantage FundDynamic Asset Allocation",
     "duration": "-",
-    "nav": "\u20b912.71",
-    "change": "-1.32%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b912.55",
+    "change": "-1.3%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "42281",
     "scheme_name": "PGIM India Global Select Real Estate Securities FoFInternational",
     "duration": "-",
-    "nav": "\u20b912.19",
-    "change": "-0.81%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b912.2",
+    "change": "0.08%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "42277",
     "scheme_name": "Aditya Birla Sun Life Business Cycle FundStrategy",
     "duration": "-",
-    "nav": "\u20b913.91",
-    "change": "-1.97%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b913.62",
+    "change": "-2.08%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "42285",
@@ -6979,9 +6979,9 @@
     "scheme_id": "42307",
     "scheme_name": "Edelweiss NIFTY Large Mid Cap 250 Index FundLarge & MidCap Index",
     "duration": "-",
-    "nav": "\u20b915.12",
-    "change": "-2.18%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b914.75",
+    "change": "-2.43%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "42315",
@@ -7091,9 +7091,9 @@
     "scheme_id": "42413",
     "scheme_name": "SBI CPSE Bond Plus SDL Sep 2026 50:50 Index FundTarget Maturity",
     "duration": "-",
-    "nav": "\u20b912.77",
-    "change": "0.03%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b912.78",
+    "change": "0.07%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "42450",
@@ -7267,9 +7267,9 @@
     "scheme_id": "42561",
     "scheme_name": "SBI Multicap FundMulti Cap",
     "duration": "-",
-    "nav": "\u20b915.22",
-    "change": "-1.71%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b914.88",
+    "change": "-2.24%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "42565",
@@ -7324,8 +7324,8 @@
     "scheme_name": "DSP Nifty SDL Plus G-Sec Jun 2028 30:70 Index FundTarget Maturity",
     "duration": "-",
     "nav": "\u20b912.93",
-    "change": "-0.15%",
-    "date": "Mar 27, 2026"
+    "change": "0.04%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "42674",
@@ -7395,9 +7395,9 @@
     "scheme_id": "42751",
     "scheme_name": "Edelweiss Focused FundStrategy",
     "duration": "-",
-    "nav": "\u20b915.14",
-    "change": "-2.31%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b914.8",
+    "change": "-2.21%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "42755",
@@ -7419,9 +7419,9 @@
     "scheme_id": "42763",
     "scheme_name": "DSP Nifty Midcap 150 Quality 50 Index FundMid Cap Index",
     "duration": "-",
-    "nav": "\u20b912.66",
-    "change": "-2.08%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b912.38",
+    "change": "-2.19%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "42767",
@@ -7507,9 +7507,9 @@
     "scheme_id": "42851",
     "scheme_name": "LIC MF Money Market FundMoney Market",
     "duration": "-",
-    "nav": "\u20b91,240.41",
-    "change": "0.07%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b91,241.76",
+    "change": "0.11%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "42847",
@@ -7699,25 +7699,25 @@
     "scheme_id": "43027",
     "scheme_name": "SBI Nifty Midcap 150 Index FundMid Cap Index",
     "duration": "-",
-    "nav": "\u20b917.05",
-    "change": "-2.21%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b916.6",
+    "change": "-2.62%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "43023",
     "scheme_name": "SBI Nifty Smallcap 250 Index FundSmall Cap Index",
     "duration": "-",
-    "nav": "\u20b915.68",
-    "change": "-1.92%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b915.28",
+    "change": "-2.52%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "43035",
     "scheme_name": "SBI CRISIL IBX Gilt Index - June 2036 FundTarget Maturity",
     "duration": "-",
-    "nav": "\u20b912.97",
-    "change": "-0.38%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b912.9",
+    "change": "-0.51%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "43043",
@@ -7739,9 +7739,9 @@
     "scheme_id": "43051",
     "scheme_name": "Aditya Birla Sun Life Multi - Asset Passive FoFMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b915.86",
-    "change": "-1.3%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b915.69",
+    "change": "-1.05%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "43063",
@@ -7755,17 +7755,17 @@
     "scheme_id": "43055",
     "scheme_name": "SBI CRISIL IBX Gilt Index - April 2029 FundTarget Maturity",
     "duration": "-",
-    "nav": "\u20b912.94",
-    "change": "-0.18%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b912.91",
+    "change": "-0.22%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "43059",
     "scheme_name": "SBI CRISIL IBX SDL Index - September 2027 FundTarget Maturity",
     "duration": "-",
     "nav": "\u20b912.85",
-    "change": "0.03%",
-    "date": "Mar 27, 2026"
+    "change": "-0.02%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "43067",
@@ -7779,9 +7779,9 @@
     "scheme_id": "43071",
     "scheme_name": "LIC MF Multi Cap FundMulti Cap",
     "duration": "-",
-    "nav": "\u20b915.37",
+    "nav": "\u20b915.01",
     "change": "-2.35%",
-    "date": "Mar 27, 2026"
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "43083",
@@ -8011,25 +8011,25 @@
     "scheme_id": "43254",
     "scheme_name": "Edelweiss Nifty Midcap150 Momentum 50 Index FundMid Cap Index",
     "duration": "-",
-    "nav": "\u20b916.16",
-    "change": "-2.4%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b915.67",
+    "change": "-3%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "43250",
     "scheme_name": "Edelweiss Nifty Smallcap 250 Index FundSmall Cap Index",
     "duration": "-",
-    "nav": "\u20b914.9",
-    "change": "-1.91%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b914.53",
+    "change": "-2.53%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "43246",
     "scheme_name": "Edelweiss Nifty Next 50 Index FundLarge Cap Index",
     "duration": "-",
-    "nav": "\u20b914.11",
-    "change": "-2.38%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b913.73",
+    "change": "-2.71%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "43262",
@@ -8147,9 +8147,9 @@
     "scheme_id": "43388",
     "scheme_name": "SBI Long Duration FundLong Duration",
     "duration": "-",
-    "nav": "\u20b912.13",
-    "change": "-0.7%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b912.07",
+    "change": "-0.53%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "43396",
@@ -8267,9 +8267,9 @@
     "scheme_id": "43501",
     "scheme_name": "DSP CRISIL-IBX 50:50 Gilt Plus SDL - April 2033 Index FundTarget Maturity",
     "duration": "-",
-    "nav": "\u20b912.56",
-    "change": "-0.47%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b912.53",
+    "change": "-0.23%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "43540",
@@ -8284,8 +8284,8 @@
     "scheme_name": "DSP Nifty SDL Plus G-Sec Sep 2027 50:50 Index FundTarget Maturity",
     "duration": "-",
     "nav": "\u20b912.59",
-    "change": "0.03%",
-    "date": "Mar 27, 2026"
+    "change": "-0.02%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "43555",
@@ -8411,9 +8411,9 @@
     "scheme_id": "43634",
     "scheme_name": "SBI Dividend Yield FundStrategy",
     "duration": "-",
-    "nav": "\u20b914.12",
-    "change": "-1.6%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b913.88",
+    "change": "-1.72%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "43626",
@@ -8667,9 +8667,9 @@
     "scheme_id": "43931",
     "scheme_name": "SBI BSE Sensex Index FundLarge Cap Index",
     "duration": "-",
-    "nav": "\u20b911.99",
-    "change": "-2.25%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b911.72",
+    "change": "-2.22%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "43939",
@@ -8707,9 +8707,9 @@
     "scheme_id": "43956",
     "scheme_name": "Edelweiss Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b912.16",
-    "change": "0.03%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b912.15",
+    "change": "-0.07%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "43964",
@@ -8955,9 +8955,9 @@
     "scheme_id": "44161",
     "scheme_name": "Edelweiss Multi Cap FundMulti Cap",
     "duration": "-",
-    "nav": "\u20b913.79",
-    "change": "-1.93%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b913.49",
+    "change": "-2.23%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "44165",
@@ -9066,10 +9066,10 @@
   {
     "scheme_id": "44234",
     "scheme_name": "DSP Gold ETF FoFGold/ Precious Metal Funds",
-    "duration": "1 yrs 7 m",
-    "nav": "\u20b922.17",
-    "change": "-1.42%",
-    "date": "Mar 27, 2026"
+    "duration": "1 yrs 6 m",
+    "nav": "\u20b923.09",
+    "change": "4.19%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "44238",
@@ -9115,9 +9115,9 @@
     "scheme_id": "44270",
     "scheme_name": "DSP Banking & Financial Services FundSectoral-Banking",
     "duration": "-",
-    "nav": "\u20b912.94",
-    "change": "-2.23%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b912.52",
+    "change": "-3.27%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "44274",
@@ -9147,9 +9147,9 @@
     "scheme_id": "44306",
     "scheme_name": "DSP Nifty Smallcap250 Quality 50 Index FundSmall Cap Index",
     "duration": "-",
-    "nav": "\u20b99.64",
-    "change": "-1.97%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b99.42",
+    "change": "-2.27%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "44310",
@@ -9195,9 +9195,9 @@
     "scheme_id": "44362",
     "scheme_name": "DSP Multicap FundMulti Cap",
     "duration": "-",
-    "nav": "\u20b910.62",
-    "change": "-1.8%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b910.37",
+    "change": "-2.29%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "44367",
@@ -9291,9 +9291,9 @@
     "scheme_id": "44438",
     "scheme_name": "SBI Nifty50 Equal Weight Index FundLarge Cap Index",
     "duration": "-",
-    "nav": "\u20b911.11",
-    "change": "-1.65%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b910.88",
+    "change": "-2%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "44448",
@@ -9403,9 +9403,9 @@
     "scheme_id": "44509",
     "scheme_name": "SBI Energy Opportunities FundEnergy",
     "duration": "-",
-    "nav": "\u20b99.91",
-    "change": "-0.73%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b99.79",
+    "change": "-1.26%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "44513",
@@ -9595,9 +9595,9 @@
     "scheme_id": "44668",
     "scheme_name": "Edelweiss Nifty Alpha Low Volatility 30 Index FundLarge Cap Index",
     "duration": "-",
-    "nav": "\u20b99.11",
-    "change": "-1.94%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b98.88",
+    "change": "-2.57%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "44672",
@@ -9635,9 +9635,9 @@
     "scheme_id": "44695",
     "scheme_name": "DSP Nifty Bank Index FundOther Equity Index",
     "duration": "-",
-    "nav": "\u20b910.6",
-    "change": "-2.68%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b910.2",
+    "change": "-3.83%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "44697",
@@ -9659,9 +9659,9 @@
     "scheme_id": "44705",
     "scheme_name": "SBI Automotive Opportunities FundOthers",
     "duration": "-",
-    "nav": "\u20b910.47",
-    "change": "-2.08%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b910.22",
+    "change": "-2.47%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "44709",
@@ -9739,9 +9739,9 @@
     "scheme_id": "44752",
     "scheme_name": "Edelweiss Business Cycle FundStrategy",
     "duration": "-",
-    "nav": "\u20b98.17",
-    "change": "-2.08%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b97.98",
+    "change": "-2.42%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "44756",
@@ -9803,9 +9803,9 @@
     "scheme_id": "44780",
     "scheme_name": "SBI Silver ETF FoFGold/ Precious Metal Funds",
     "duration": "7 m",
-    "nav": "\u20b923.63",
-    "change": "-3.89%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b924",
+    "change": "1.6%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "44784",
@@ -9867,9 +9867,9 @@
     "scheme_id": "44817",
     "scheme_name": "SBI Innovative Opportunities FundOthers",
     "duration": "-",
-    "nav": "\u20b98.33",
-    "change": "-1.41%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b98.13",
+    "change": "-2.44%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "44822",
@@ -9939,9 +9939,9 @@
     "scheme_id": "44852",
     "scheme_name": "DSP Nifty Top 10 Equal Weight Index FundLarge Cap Index",
     "duration": "-",
-    "nav": "\u20b98.65",
-    "change": "-1.59%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b98.45",
+    "change": "-2.33%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "44855",
@@ -10107,9 +10107,9 @@
     "scheme_id": "44925",
     "scheme_name": "SBI Nifty 500 Index FundMulti Cap Index",
     "duration": "-",
-    "nav": "\u20b98.67",
-    "change": "-2.13%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b98.47",
+    "change": "-2.34%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "44929",
@@ -10155,9 +10155,9 @@
     "scheme_id": "44943",
     "scheme_name": "LIC MF Manufacturing FundOthers",
     "duration": "-",
-    "nav": "\u20b99.42",
-    "change": "-2.07%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b99.19",
+    "change": "-2.45%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "44958",
@@ -10259,9 +10259,9 @@
     "scheme_id": "45005",
     "scheme_name": "Edelweiss Nifty500 Multicap Momentum Quality 50 Index FundMulti Cap Index",
     "duration": "-",
-    "nav": "\u20b98.12",
-    "change": "-2.41%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b97.93",
+    "change": "-2.37%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "45011",
@@ -10299,9 +10299,9 @@
     "scheme_id": "45029",
     "scheme_name": "SBI Nifty India Consumption Index FundOther Equity Index",
     "duration": "-",
-    "nav": "\u20b99.13",
-    "change": "-1.92%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b98.93",
+    "change": "-2.12%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "45034",
@@ -10499,9 +10499,9 @@
     "scheme_id": "45117",
     "scheme_name": "DSP Business Cycle FundStrategy",
     "duration": "-",
-    "nav": "\u20b99.48",
-    "change": "-1.96%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b99.27",
+    "change": "-2.28%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "45115",
@@ -10531,9 +10531,9 @@
     "scheme_id": "45135",
     "scheme_name": "Samco Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b911.57",
-    "change": "-0.09%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b911.59",
+    "change": "0.17%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "45131",
@@ -10587,9 +10587,9 @@
     "scheme_id": "45161",
     "scheme_name": "SBI Quant FundStrategy",
     "duration": "-",
-    "nav": "\u20b99.35",
-    "change": "-2.11%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b99.13",
+    "change": "-2.28%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "45165",
@@ -10715,25 +10715,25 @@
     "scheme_id": "45225",
     "scheme_name": "DSP BSE Sensex Next 30 Index FundLarge Cap Index",
     "duration": "-",
-    "nav": "\u20b910.8",
-    "change": "-1.46%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b910.63",
+    "change": "-1.64%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "45235",
     "scheme_name": "Edelweiss Consumption FundThematic-Consumption",
     "duration": "-",
-    "nav": "\u20b99.93",
-    "change": "-1.91%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b99.73",
+    "change": "-2.05%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "45239",
     "scheme_name": "LIC MF Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b911.09",
-    "change": "-1.92%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b910.94",
+    "change": "-1.38%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "45243",
@@ -10747,9 +10747,9 @@
     "scheme_id": "45247",
     "scheme_name": "SBI Nifty Bank Index FundOther Equity Index",
     "duration": "-",
-    "nav": "\u20b910.38",
-    "change": "-2.66%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b99.98",
+    "change": "-3.81%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "45255",
@@ -10859,17 +10859,17 @@
     "scheme_id": "45313",
     "scheme_name": "SBI Nifty IT Index FundOther Equity Index",
     "duration": "-",
-    "nav": "\u20b97.39",
-    "change": "-0.44%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b97.28",
+    "change": "-1.62%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "45325",
     "scheme_name": "DSP Nifty Private Bank Index FundOther Equity Index",
     "duration": "-",
-    "nav": "\u20b910.18",
-    "change": "-2.02%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b99.84",
+    "change": "-3.37%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "45329",
@@ -11051,9 +11051,9 @@
     "scheme_id": "45419",
     "scheme_name": "SBI BSE PSU Bank Index FundOther Equity Index",
     "duration": "-",
-    "nav": "\u20b913.12",
-    "change": "-3.89%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b912.52",
+    "change": "-4.59%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "45427",
@@ -11123,17 +11123,17 @@
     "scheme_id": "45473",
     "scheme_name": "SBI Income Plus Arbitrage Active FoFTax Efficient Income",
     "duration": "-",
-    "nav": "\u20b910.44",
-    "change": "0.01%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b910.45",
+    "change": "0.06%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "45477",
     "scheme_name": "Edelweiss BSE Internet Economy Index FundOther Equity Index",
     "duration": "-",
-    "nav": "\u20b99.22",
-    "change": "-2.14%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b98.98",
+    "change": "-2.58%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "45481",
@@ -11146,10 +11146,10 @@
   {
     "scheme_id": "45485",
     "scheme_name": "DSP Silver ETF FoFGold/ Precious Metal Funds",
-    "duration": "8 m",
-    "nav": "\u20b922.86",
-    "change": "-4.71%",
-    "date": "Mar 27, 2026"
+    "duration": "7 m",
+    "nav": "\u20b923.42",
+    "change": "2.42%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "45489",
@@ -11211,9 +11211,9 @@
     "scheme_id": "45530",
     "scheme_name": "SBI Nifty200 Quality 30 Index FundLarge & MidCap Index",
     "duration": "-",
-    "nav": "\u20b99.1",
-    "change": "-1.7%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b98.91",
+    "change": "-1.99%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "45534",
@@ -11259,17 +11259,17 @@
     "scheme_id": "45556",
     "scheme_name": "DSP Nifty IT Index FundOther Equity Index",
     "duration": "-",
-    "nav": "\u20b97.65",
-    "change": "-0.44%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b97.53",
+    "change": "-1.63%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "45560",
     "scheme_name": "DSP Nifty Healthcare Index FundOther Equity Index",
     "duration": "-",
-    "nav": "\u20b910.2",
-    "change": "-0.6%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b910.04",
+    "change": "-1.59%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "45568",
@@ -11347,9 +11347,9 @@
     "scheme_id": "45615",
     "scheme_name": "SBI Nifty200 Momentum 30 Index FundLarge & MidCap Index",
     "duration": "-",
-    "nav": "\u20b98.84",
-    "change": "-2.79%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b98.57",
+    "change": "-3.11%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "45619",
@@ -11475,9 +11475,9 @@
     "scheme_id": "45694",
     "scheme_name": "SBI Nifty100 Low Volatility 30 Index FundLarge Cap Index",
     "duration": "-",
-    "nav": "\u20b99.42",
-    "change": "-1.7%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b99.22",
+    "change": "-2.09%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "45690",
@@ -11555,9 +11555,9 @@
     "scheme_id": "45746",
     "scheme_name": "360 ONE Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b911.49",
-    "change": "-0.93%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b911.51",
+    "change": "0.09%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "45751",
@@ -11579,9 +11579,9 @@
     "scheme_id": "45768",
     "scheme_name": "Mirae Asset Multi Factor Passive FOFStrategy",
     "duration": "-",
-    "nav": "\u20b99.64",
-    "change": "-2.12%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b99.42",
+    "change": "-2.28%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "45772",
@@ -11595,9 +11595,9 @@
     "scheme_id": "45777",
     "scheme_name": "DSP Nifty500 Flexicap Quality 30 Index FundOther Equity Index",
     "duration": "-",
-    "nav": "\u20b98.8",
-    "change": "-1.52%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b98.63",
+    "change": "-1.96%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "45782",
@@ -11635,9 +11635,9 @@
     "scheme_id": "45808",
     "scheme_name": "SBI Dynamic Asset Allocation Active FoFDynamic Asset Allocation",
     "duration": "-",
-    "nav": "\u20b99.55",
-    "change": "-1.03%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b99.44",
+    "change": "-1.16%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "45815",
@@ -11771,9 +11771,9 @@
     "scheme_id": "45896",
     "scheme_name": "LIC MF Consumption FundThematic-Consumption",
     "duration": "-",
-    "nav": "\u20b98.66",
-    "change": "-2.16%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b98.49",
+    "change": "-1.89%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "45902",
@@ -11867,17 +11867,17 @@
     "scheme_id": "45975",
     "scheme_name": "DSP Nifty Midcap 150 Index FundMid Cap Index",
     "duration": "-",
-    "nav": "\u20b99.09",
-    "change": "-2.2%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b98.85",
+    "change": "-2.59%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "45982",
     "scheme_name": "DSP Nifty Smallcap 250 Index FundSmall Cap Index",
     "duration": "-",
-    "nav": "\u20b98.99",
-    "change": "-1.8%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b98.77",
+    "change": "-2.42%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "45980",
@@ -11939,9 +11939,9 @@
     "scheme_id": "46043",
     "scheme_name": "DSP Nifty 500 Index FundOther Equity Index",
     "duration": "-",
-    "nav": "\u20b98.73",
-    "change": "-2.11%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b98.52",
+    "change": "-2.3%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "46048",
@@ -12003,17 +12003,17 @@
     "scheme_id": "46073",
     "scheme_name": "Edelweiss Financial Services FundSectoral-Banking",
     "duration": "-",
-    "nav": "\u20b98.75",
-    "change": "-2.37%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b98.46",
+    "change": "-3.33%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "46079",
     "scheme_name": "Sundaram Income Plus Arbitrage Active FoFTax Efficient Income",
     "duration": "-",
-    "nav": "\u20b910.09",
-    "change": "0.03%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b910.1",
+    "change": "0.05%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "46083",
@@ -12075,9 +12075,9 @@
     "scheme_id": "46117",
     "scheme_name": "SBI Quality FundThematic",
     "duration": "-",
-    "nav": "\u20b99.21",
-    "change": "-1.7%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b99.06",
+    "change": "-1.71%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "46121",
@@ -12195,9 +12195,9 @@
     "scheme_id": "46174",
     "scheme_name": "LIC MF Technology FundSectoral-Technology",
     "duration": "-",
-    "nav": "\u20b910.03",
-    "change": "-0.36%",
-    "date": "Mar 27, 2026"
+    "nav": "\u20b99.95",
+    "change": "-0.82%",
+    "date": "Mar 30, 2026"
   },
   {
     "scheme_id": "46183",
