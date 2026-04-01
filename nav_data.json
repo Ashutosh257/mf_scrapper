@@ -12294,5 +12294,13 @@
     "nav": "\u20b910.01",
     "change": "\u221e%",
     "date": "Mar 30, 2026"
+  },
+  {
+    "scheme_id": "46253",
+    "scheme_name": "HDFC CRISIL-IBX Financial Services 9-12 Months Debt Index FundIndex",
+    "duration": "-",
+    "nav": "\u20b910.02",
+    "change": "0.11%",
+    "date": "Mar 30, 2026"
   }
 ]
