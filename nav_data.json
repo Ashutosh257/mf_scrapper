@@ -74,10 +74,10 @@
   {
     "scheme_id": "4820",
     "scheme_name": "DSP Strategic Bond FundDynamic Bond",
-    "duration": "10 yrs 9 m",
-    "nav": "\u20b93,324.77",
-    "change": "0.13%",
-    "date": "Apr 07, 2026"
+    "duration": "10 yrs 8 m",
+    "nav": "\u20b93,355.55",
+    "change": "0.93%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "1247",
@@ -106,10 +106,10 @@
   {
     "scheme_id": "2829",
     "scheme_name": "Franklin India Small Cap FundSmall Cap",
-    "duration": "4 yrs 9 m",
-    "nav": "\u20b9152.24",
-    "change": "0.44%",
-    "date": "Apr 07, 2026"
+    "duration": "3 yrs 9 m",
+    "nav": "\u20b9157.99",
+    "change": "3.78%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "1332",
@@ -187,9 +187,9 @@
     "scheme_id": "39224",
     "scheme_name": "DSP Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,435.89",
+    "nav": "\u20b91,436.08",
     "change": "0.01%",
-    "date": "Apr 07, 2026"
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "32378",
@@ -291,9 +291,9 @@
     "scheme_id": "25667",
     "scheme_name": "Invesco India - Invesco Global Equity Income FoFInternational",
     "duration": "3 yrs 4 m",
-    "nav": "\u20b932.65",
-    "change": "1.5%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b933.61",
+    "change": "2.94%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "32037",
@@ -571,9 +571,9 @@
     "scheme_id": "39611",
     "scheme_name": "DSP Nifty 50 Index FundLarge Cap Index",
     "duration": "5 yrs 5 m",
-    "nav": "\u20b922.36",
-    "change": "0.69%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b923.2",
+    "change": "3.77%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "12908",
@@ -604,8 +604,8 @@
     "scheme_name": "DSP Arbitrage FundArbitrage",
     "duration": "-",
     "nav": "\u20b915.6",
-    "change": "0.08%",
-    "date": "Apr 07, 2026"
+    "change": "-0.01%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "32517",
@@ -1002,10 +1002,10 @@
   {
     "scheme_id": "1386",
     "scheme_name": "DSP Large Cap FundLarge Cap",
-    "duration": "5 yrs 5 m",
-    "nav": "\u20b9435.47",
-    "change": "0.63%",
-    "date": "Apr 07, 2026"
+    "duration": "5 yrs 4 m",
+    "nav": "\u20b9451.04",
+    "change": "3.58%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "37622",
@@ -1210,10 +1210,10 @@
   {
     "scheme_id": "1360",
     "scheme_name": "PGIM India Large Cap FundLarge Cap",
-    "duration": "5 yrs 9 m",
-    "nav": "\u20b9307.66",
-    "change": "0.57%",
-    "date": "Apr 07, 2026"
+    "duration": "5 yrs 8 m",
+    "nav": "\u20b9319.9",
+    "change": "3.98%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "6467",
@@ -1226,10 +1226,10 @@
   {
     "scheme_id": "2040",
     "scheme_name": "DSP India T.I.G.E.R. FundSectoral-Infrastructure",
-    "duration": "3 yrs 5 m",
-    "nav": "\u20b9307.91",
-    "change": "0.46%",
-    "date": "Apr 07, 2026"
+    "duration": "3 yrs",
+    "nav": "\u20b9318.32",
+    "change": "3.38%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "3825",
@@ -1363,9 +1363,9 @@
     "scheme_id": "10271",
     "scheme_name": "Edelweiss Aggressive Hybrid FundAggressive Hybrid",
     "duration": "5 yrs 2 m",
-    "nav": "\u20b960.41",
-    "change": "0.25%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b962.17",
+    "change": "2.91%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "2778",
@@ -1434,10 +1434,10 @@
   {
     "scheme_id": "31894",
     "scheme_name": "Franklin India Mid Cap FundMid Cap",
-    "duration": "4 yrs 11 m",
-    "nav": "\u20b92,468.94",
-    "change": "0.15%",
-    "date": "Apr 07, 2026"
+    "duration": "3 yrs 9 m",
+    "nav": "\u20b92,564.1",
+    "change": "3.85%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "23454",
@@ -1458,26 +1458,26 @@
   {
     "scheme_id": "1284",
     "scheme_name": "DSP Short Term FundShort Duration",
-    "duration": "10 yrs 11 m",
-    "nav": "\u20b947.91",
-    "change": "0.06%",
-    "date": "Apr 07, 2026"
+    "duration": "10 yrs 10 m",
+    "nav": "\u20b948.1",
+    "change": "0.4%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "30664",
     "scheme_name": "PGIM India ELSS Tax Saver FundELSS",
     "duration": "5 yrs 4 m",
-    "nav": "\u20b930.72",
-    "change": "0.52%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b931.91",
+    "change": "3.87%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "2045",
     "scheme_name": "DSP Regular Savings FundConservative Hybrid",
     "duration": "10 yrs",
-    "nav": "\u20b958.64",
-    "change": "0.16%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b959.32",
+    "change": "1.16%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "3075",
@@ -1660,8 +1660,8 @@
     "scheme_name": "Edelweiss Arbitrage FundArbitrage",
     "duration": "11 yrs 8 m",
     "nav": "\u20b920.25",
-    "change": "0.06%",
-    "date": "Apr 07, 2026"
+    "change": "0%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "2012",
@@ -1995,9 +1995,9 @@
     "scheme_id": "21889",
     "scheme_name": "PGIM India Midcap FundMid Cap",
     "duration": "5 yrs 2 m",
-    "nav": "\u20b957.55",
-    "change": "-0.02%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b959.93",
+    "change": "4.14%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "1903",
@@ -2067,9 +2067,9 @@
     "scheme_id": "3381",
     "scheme_name": "DSP Ultra Short FundUltra Short Duration",
     "duration": "11 yrs 9 m",
-    "nav": "\u20b93,548.44",
-    "change": "0.03%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b93,551.69",
+    "change": "0.09%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "8140",
@@ -2202,10 +2202,10 @@
   {
     "scheme_id": "27691",
     "scheme_name": "DSP 10Y G-Sec FundLong Debt Index",
-    "duration": "10 yrs 8 m",
-    "nav": "\u20b921.78",
-    "change": "0.02%",
-    "date": "Apr 07, 2026"
+    "duration": "10 yrs 7 m",
+    "nav": "\u20b921.98",
+    "change": "0.89%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "32145",
@@ -2602,10 +2602,10 @@
   {
     "scheme_id": "5050",
     "scheme_name": "DSP Flexi Cap FundFlexi Cap",
-    "duration": "5 yrs 4 m",
-    "nav": "\u20b993.64",
-    "change": "0.43%",
-    "date": "Apr 07, 2026"
+    "duration": "5 yrs 3 m",
+    "nav": "\u20b997.69",
+    "change": "4.32%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "1801",
@@ -2834,10 +2834,10 @@
   {
     "scheme_id": "4876",
     "scheme_name": "DSP Small Cap FundSmall Cap",
-    "duration": "4 yrs 10 m",
-    "nav": "\u20b9183.84",
-    "change": "0.33%",
-    "date": "Apr 07, 2026"
+    "duration": "3 yrs 9 m",
+    "nav": "\u20b9190.32",
+    "change": "3.53%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "31962",
@@ -3098,10 +3098,10 @@
   {
     "scheme_id": "11739",
     "scheme_name": "LIC MF Equity Savings FundEquity Savings",
-    "duration": "11 yrs 4 m",
-    "nav": "\u20b927.03",
-    "change": "-0.01%",
-    "date": "Apr 07, 2026"
+    "duration": "11 yrs 3 m",
+    "nav": "\u20b927.32",
+    "change": "1.07%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "31885",
@@ -3267,9 +3267,9 @@
     "scheme_id": "39641",
     "scheme_name": "DSP Nifty Next 50 Index FundLarge Cap Index",
     "duration": "5 yrs 2 m",
-    "nav": "\u20b924.41",
-    "change": "0.46%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b925.56",
+    "change": "4.73%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "31998",
@@ -3307,9 +3307,9 @@
     "scheme_id": "39178",
     "scheme_name": "LIC MF Arbitrage FundArbitrage",
     "duration": "-",
-    "nav": "\u20b914.43",
-    "change": "0.1%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b914.42",
+    "change": "-0.05%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "1016",
@@ -3323,9 +3323,9 @@
     "scheme_id": "32350",
     "scheme_name": "DSP Savings FundMoney Market",
     "duration": "11 yrs 3 m",
-    "nav": "\u20b955.01",
-    "change": "0.04%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b955.1",
+    "change": "0.16%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "32603",
@@ -3362,10 +3362,10 @@
   {
     "scheme_id": "10816",
     "scheme_name": "DSP Focused FundStrategy",
-    "duration": "5 yrs 5 m",
-    "nav": "\u20b949.68",
-    "change": "0.65%",
-    "date": "Apr 07, 2026"
+    "duration": "5 yrs 4 m",
+    "nav": "\u20b951.76",
+    "change": "4.18%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "10120",
@@ -3515,9 +3515,9 @@
     "scheme_id": "5709",
     "scheme_name": "Edelweiss Liquid FundLiquid",
     "duration": "11 yrs 5 m",
-    "nav": "\u20b93,496.38",
-    "change": "0.02%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b93,497.65",
+    "change": "0.04%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "32331",
@@ -3539,17 +3539,17 @@
     "scheme_id": "32299",
     "scheme_name": "DSP Aggressive Hybrid FundAggressive Hybrid",
     "duration": "5 yrs 5 m",
-    "nav": "\u20b9331.03",
-    "change": "0.45%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b9341.33",
+    "change": "3.11%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "37985",
     "scheme_name": "DSP Corporate Bond FundCorporate Bond",
     "duration": "-",
-    "nav": "\u20b916.63",
-    "change": "0.04%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b916.66",
+    "change": "0.18%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "32272",
@@ -3562,18 +3562,18 @@
   {
     "scheme_id": "10269",
     "scheme_name": "Edelweiss Balanced Advantage FundDynamic Asset Allocation",
-    "duration": "5 yrs 9 m",
-    "nav": "\u20b949.82",
-    "change": "0.34%",
-    "date": "Apr 07, 2026"
+    "duration": "5 yrs 8 m",
+    "nav": "\u20b951.03",
+    "change": "2.43%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "3792",
     "scheme_name": "DSP ELSS Tax Saver FundELSS",
     "duration": "4 yrs 11 m",
-    "nav": "\u20b9129.13",
-    "change": "0.74%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b9134.69",
+    "change": "4.3%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "10500",
@@ -3642,10 +3642,10 @@
   {
     "scheme_id": "28978",
     "scheme_name": "PGIM India Flexi Cap FundFlexi Cap",
-    "duration": "5 yrs 5 m",
-    "nav": "\u20b932.99",
-    "change": "0.33%",
-    "date": "Apr 07, 2026"
+    "duration": "5 yrs 4 m",
+    "nav": "\u20b934.23",
+    "change": "3.76%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "8076",
@@ -3659,9 +3659,9 @@
     "scheme_id": "37746",
     "scheme_name": "Franklin India Equity Savings FundEquity Savings",
     "duration": "-",
-    "nav": "\u20b916.58",
-    "change": "0.18%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b916.7",
+    "change": "0.73%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "9932",
@@ -3730,10 +3730,10 @@
   {
     "scheme_id": "28768",
     "scheme_name": "Edelweiss Flexi Cap FundFlexi Cap",
-    "duration": "5 yrs 2 m",
-    "nav": "\u20b935.72",
-    "change": "0.49%",
-    "date": "Apr 07, 2026"
+    "duration": "4 yrs 11 m",
+    "nav": "\u20b937.14",
+    "change": "3.98%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "32793",
@@ -3770,10 +3770,10 @@
   {
     "scheme_id": "32351",
     "scheme_name": "DSP Gilt FundGilt",
-    "duration": "10 yrs",
-    "nav": "\u20b994.09",
-    "change": "0.2%",
-    "date": "Apr 07, 2026"
+    "duration": "9 yrs 11 m",
+    "nav": "\u20b995.28",
+    "change": "1.27%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "6805",
@@ -3850,18 +3850,18 @@
   {
     "scheme_id": "3532",
     "scheme_name": "DSP Midcap FundMid Cap",
-    "duration": "5 yrs 3 m",
-    "nav": "\u20b9137.01",
-    "change": "0.58%",
-    "date": "Apr 07, 2026"
+    "duration": "5 yrs 2 m",
+    "nav": "\u20b9142.95",
+    "change": "4.34%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "32123",
     "scheme_name": "DSP Bond FundMedium Duration",
     "duration": "11 yrs 4 m",
-    "nav": "\u20b983.91",
-    "change": "0.07%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b984.36",
+    "change": "0.53%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "31969",
@@ -3979,9 +3979,9 @@
     "scheme_id": "27390",
     "scheme_name": "PGIM India Arbitrage FundArbitrage",
     "duration": "-",
-    "nav": "\u20b919.14",
-    "change": "0.08%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b919.13",
+    "change": "-0.03%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "2156",
@@ -4155,9 +4155,9 @@
     "scheme_id": "1561",
     "scheme_name": "DSP Credit Risk FundCredit Risk",
     "duration": "9 yrs 8 m",
-    "nav": "\u20b950.49",
-    "change": "0.07%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b950.67",
+    "change": "0.35%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "12980",
@@ -4218,10 +4218,10 @@
   {
     "scheme_id": "1885",
     "scheme_name": "PGIM India Equity Savings FundEquity Savings",
-    "duration": "10 yrs 7 m",
-    "nav": "\u20b949.33",
-    "change": "0.34%",
-    "date": "Apr 07, 2026"
+    "duration": "10 yrs 1 m",
+    "nav": "\u20b949.88",
+    "change": "1.1%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "39256",
@@ -4515,9 +4515,9 @@
     "scheme_id": "31632",
     "scheme_name": "DSP Equity Savings FundEquity Savings",
     "duration": "6 yrs",
-    "nav": "\u20b921.78",
-    "change": "0.12%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b921.98",
+    "change": "0.93%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "32629",
@@ -4859,9 +4859,9 @@
     "scheme_id": "22958",
     "scheme_name": "DSP Dynamic Asset Allocation FundDynamic Asset Allocation",
     "duration": "6 yrs",
-    "nav": "\u20b927.33",
-    "change": "0.25%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b927.86",
+    "change": "1.94%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "10480",
@@ -4954,10 +4954,10 @@
   {
     "scheme_id": "35180",
     "scheme_name": "DSP Nifty 50 Equal Weight Index FundLarge Cap Index",
-    "duration": "5 yrs 2 m",
-    "nav": "\u20b924.46",
-    "change": "0.61%",
-    "date": "Apr 07, 2026"
+    "duration": "4 yrs 11 m",
+    "nav": "\u20b925.27",
+    "change": "3.32%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "40669",
@@ -5074,10 +5074,10 @@
   {
     "scheme_id": "20722",
     "scheme_name": "DSP Banking & PSU Debt FundBanking and PSU",
-    "duration": "10 yrs 4 m",
-    "nav": "\u20b924.6",
-    "change": "0.09%",
-    "date": "Apr 07, 2026"
+    "duration": "10 yrs 3 m",
+    "nav": "\u20b924.73",
+    "change": "0.53%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "21857",
@@ -5099,9 +5099,9 @@
     "scheme_id": "29116",
     "scheme_name": "DSP Low Duration FundLow Duration",
     "duration": "10 yrs 8 m",
-    "nav": "\u20b920.65",
-    "change": "0.04%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b920.69",
+    "change": "0.17%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "5667",
@@ -5131,9 +5131,9 @@
     "scheme_id": "32451",
     "scheme_name": "DSP Large & Mid Cap FundLarge & MidCap",
     "duration": "4 yrs 11 m",
-    "nav": "\u20b9576.77",
-    "change": "0.59%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b9600.63",
+    "change": "4.14%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "11147",
@@ -5298,18 +5298,18 @@
   {
     "scheme_id": "40421",
     "scheme_name": "DSP Quant FundStrategy",
-    "duration": "5 yrs 9 m",
-    "nav": "\u20b920.06",
-    "change": "0.64%",
-    "date": "Apr 07, 2026"
+    "duration": "5 yrs 8 m",
+    "nav": "\u20b920.83",
+    "change": "3.85%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "1111",
     "scheme_name": "LIC MF Liquid FundLiquid",
     "duration": "11 yrs 3 m",
-    "nav": "\u20b94,940.95",
-    "change": "0.02%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b94,942.72",
+    "change": "0.04%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "32157",
@@ -5395,9 +5395,9 @@
     "scheme_id": "2849",
     "scheme_name": "DSP Liquidity FundLiquid",
     "duration": "11 yrs 3 m",
-    "nav": "\u20b93,903.47",
-    "change": "0.02%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b93,904.81",
+    "change": "0.03%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "1765",
@@ -6290,10 +6290,10 @@
   {
     "scheme_id": "41695",
     "scheme_name": "Invesco India - Invesco Global Consumer Trends FoFInternational",
-    "duration": "-",
-    "nav": "\u20b910.74",
-    "change": "2.55%",
-    "date": "Apr 07, 2026"
+    "duration": "3 yrs 3 m",
+    "nav": "\u20b911.35",
+    "change": "5.7%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "41703",
@@ -6323,9 +6323,9 @@
     "scheme_id": "41729",
     "scheme_name": "PGIM India Balanced Advantage FundDynamic Asset Allocation",
     "duration": "-",
-    "nav": "\u20b914.27",
-    "change": "0.28%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b914.66",
+    "change": "2.73%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "41733",
@@ -6467,9 +6467,9 @@
     "scheme_id": "41822",
     "scheme_name": "DSP Floater FundFloater",
     "duration": "-",
-    "nav": "\u20b913.66",
-    "change": "0.05%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b913.71",
+    "change": "0.33%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "41842",
@@ -6675,9 +6675,9 @@
     "scheme_id": "42043",
     "scheme_name": "PGIM India Small Cap FundSmall Cap",
     "duration": "-",
-    "nav": "\u20b914.59",
-    "change": "0.27%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b915.06",
+    "change": "3.22%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "42041",
@@ -7323,9 +7323,9 @@
     "scheme_id": "42640",
     "scheme_name": "DSP Nifty SDL Plus G-Sec Jun 2028 30:70 Index FundTarget Maturity",
     "duration": "-",
-    "nav": "\u20b912.92",
-    "change": "0.04%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b912.96",
+    "change": "0.31%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "42674",
@@ -7419,9 +7419,9 @@
     "scheme_id": "42763",
     "scheme_name": "DSP Nifty Midcap 150 Quality 50 Index FundMid Cap Index",
     "duration": "-",
-    "nav": "\u20b912.84",
-    "change": "0.35%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b913.25",
+    "change": "3.18%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "42767",
@@ -8267,9 +8267,9 @@
     "scheme_id": "43501",
     "scheme_name": "DSP CRISIL-IBX 50:50 Gilt Plus SDL - April 2033 Index FundTarget Maturity",
     "duration": "-",
-    "nav": "\u20b912.54",
-    "change": "0.16%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b912.64",
+    "change": "0.85%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "43540",
@@ -8283,9 +8283,9 @@
     "scheme_id": "43544",
     "scheme_name": "DSP Nifty SDL Plus G-Sec Sep 2027 50:50 Index FundTarget Maturity",
     "duration": "-",
-    "nav": "\u20b912.56",
-    "change": "-0.05%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b912.59",
+    "change": "0.27%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "43555",
@@ -9043,7 +9043,7 @@
     "scheme_id": "44214",
     "scheme_name": "Helios Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,155.12",
+    "nav": "\u20b91,155.13",
     "change": "0.01%",
     "date": "Apr 08, 2026"
   },
@@ -9066,10 +9066,10 @@
   {
     "scheme_id": "44234",
     "scheme_name": "DSP Gold ETF FoFGold/ Precious Metal Funds",
-    "duration": "1 yrs 7 m",
-    "nav": "\u20b922.98",
-    "change": "-1.02%",
-    "date": "Apr 07, 2026"
+    "duration": "1 yrs 6 m",
+    "nav": "\u20b923.47",
+    "change": "2.14%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "44238",
@@ -9115,9 +9115,9 @@
     "scheme_id": "44270",
     "scheme_name": "DSP Banking & Financial Services FundSectoral-Banking",
     "duration": "-",
-    "nav": "\u20b913.12",
-    "change": "0.11%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b913.81",
+    "change": "5.19%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "44274",
@@ -9147,9 +9147,9 @@
     "scheme_id": "44306",
     "scheme_name": "DSP Nifty Smallcap250 Quality 50 Index FundSmall Cap Index",
     "duration": "-",
-    "nav": "\u20b99.86",
-    "change": "0.08%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b910.22",
+    "change": "3.65%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "44310",
@@ -9195,9 +9195,9 @@
     "scheme_id": "44362",
     "scheme_name": "DSP Multicap FundMulti Cap",
     "duration": "-",
-    "nav": "\u20b910.7",
-    "change": "0.35%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b911.14",
+    "change": "4.17%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "44367",
@@ -9219,9 +9219,9 @@
     "scheme_id": "44393",
     "scheme_name": "Bandhan Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b913.17",
-    "change": "0.1%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b913.51",
+    "change": "2.58%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "44389",
@@ -9299,9 +9299,9 @@
     "scheme_id": "44448",
     "scheme_name": "PGIM India Large and Mid Cap FundLarge & MidCap",
     "duration": "-",
-    "nav": "\u20b911.2",
-    "change": "0.45%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b911.64",
+    "change": "3.93%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "44452",
@@ -9507,9 +9507,9 @@
     "scheme_id": "44614",
     "scheme_name": "PGIM India Retirement FundLarge Cap",
     "duration": "-",
-    "nav": "\u20b910.66",
-    "change": "0.57%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b911.02",
+    "change": "3.38%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "44618",
@@ -9635,9 +9635,9 @@
     "scheme_id": "44695",
     "scheme_name": "DSP Nifty Bank Index FundOther Equity Index",
     "duration": "-",
-    "nav": "\u20b910.69",
-    "change": "0.2%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b911.29",
+    "change": "5.65%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "44697",
@@ -9779,9 +9779,9 @@
     "scheme_id": "44768",
     "scheme_name": "Franklin India Multi Cap FundMulti Cap",
     "duration": "-",
-    "nav": "\u20b99.37",
-    "change": "0.15%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b99.77",
+    "change": "4.29%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "44772",
@@ -9939,9 +9939,9 @@
     "scheme_id": "44852",
     "scheme_name": "DSP Nifty Top 10 Equal Weight Index FundLarge Cap Index",
     "duration": "-",
-    "nav": "\u20b98.81",
-    "change": "1.07%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b99.14",
+    "change": "3.73%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "44855",
@@ -9955,9 +9955,9 @@
     "scheme_id": "44863",
     "scheme_name": "PGIM India Multi Cap FundMulti Cap",
     "duration": "-",
-    "nav": "\u20b99.05",
-    "change": "0.44%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b99.37",
+    "change": "3.54%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "44867",
@@ -10355,9 +10355,9 @@
     "scheme_id": "45050",
     "scheme_name": "PGIM India Healthcare FundSectoral-Pharma",
     "duration": "-",
-    "nav": "\u20b99.48",
-    "change": "0.21%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b99.58",
+    "change": "1.05%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "45069",
@@ -10380,8 +10380,8 @@
     "scheme_name": "Franklin India Arbitrage FundArbitrage",
     "duration": "-",
     "nav": "\u20b910.89",
-    "change": "0.09%",
-    "date": "Apr 07, 2026"
+    "change": "-0.01%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "45073",
@@ -10499,9 +10499,9 @@
     "scheme_id": "45117",
     "scheme_name": "DSP Business Cycle FundStrategy",
     "duration": "-",
-    "nav": "\u20b99.55",
-    "change": "0.46%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b99.91",
+    "change": "3.73%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "45115",
@@ -10715,9 +10715,9 @@
     "scheme_id": "45225",
     "scheme_name": "DSP BSE Sensex Next 30 Index FundLarge Cap Index",
     "duration": "-",
-    "nav": "\u20b910.97",
-    "change": "0.73%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b911.29",
+    "change": "2.89%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "45235",
@@ -10867,9 +10867,9 @@
     "scheme_id": "45325",
     "scheme_name": "DSP Nifty Private Bank Index FundOther Equity Index",
     "duration": "-",
-    "nav": "\u20b910.31",
-    "change": "0.48%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b910.88",
+    "change": "5.53%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "45329",
@@ -11147,9 +11147,9 @@
     "scheme_id": "45485",
     "scheme_name": "DSP Silver ETF FoFGold/ Precious Metal Funds",
     "duration": "7 m",
-    "nav": "\u20b923.83",
-    "change": "-1.06%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b925",
+    "change": "4.91%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "45489",
@@ -11259,17 +11259,17 @@
     "scheme_id": "45556",
     "scheme_name": "DSP Nifty IT Index FundOther Equity Index",
     "duration": "-",
-    "nav": "\u20b98.12",
-    "change": "2.47%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b98.17",
+    "change": "0.51%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "45560",
     "scheme_name": "DSP Nifty Healthcare Index FundOther Equity Index",
     "duration": "-",
-    "nav": "\u20b99.89",
-    "change": "0.21%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b99.95",
+    "change": "0.6%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "45568",
@@ -11595,9 +11595,9 @@
     "scheme_id": "45777",
     "scheme_name": "DSP Nifty500 Flexicap Quality 30 Index FundOther Equity Index",
     "duration": "-",
-    "nav": "\u20b99.02",
-    "change": "0.91%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b99.23",
+    "change": "2.3%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "45782",
@@ -11787,9 +11787,9 @@
     "scheme_id": "45913",
     "scheme_name": "Franklin India Multi-Factor FundThematic",
     "duration": "-",
-    "nav": "\u20b99.02",
-    "change": "0.45%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b99.37",
+    "change": "3.85%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "45918",
@@ -11835,9 +11835,9 @@
     "scheme_id": "45947",
     "scheme_name": "PGIM India Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b99.89",
-    "change": "0%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b910.16",
+    "change": "2.73%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "45964",
@@ -11867,17 +11867,17 @@
     "scheme_id": "45975",
     "scheme_name": "DSP Nifty Midcap 150 Index FundMid Cap Index",
     "duration": "-",
-    "nav": "\u20b99.16",
-    "change": "0.1%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b99.52",
+    "change": "3.94%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "45982",
     "scheme_name": "DSP Nifty Smallcap 250 Index FundSmall Cap Index",
     "duration": "-",
-    "nav": "\u20b99.14",
-    "change": "0.12%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b99.49",
+    "change": "3.89%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "45980",
@@ -11939,9 +11939,9 @@
     "scheme_id": "46043",
     "scheme_name": "DSP Nifty 500 Index FundOther Equity Index",
     "duration": "-",
-    "nav": "\u20b98.84",
-    "change": "0.47%",
-    "date": "Apr 07, 2026"
+    "nav": "\u20b99.18",
+    "change": "3.91%",
+    "date": "Apr 08, 2026"
   },
   {
     "scheme_id": "46048",
