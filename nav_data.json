@@ -290,10 +290,10 @@
   {
     "scheme_id": "25667",
     "scheme_name": "Invesco India - Invesco Global Equity Income FoFInternational",
-    "duration": "3 yrs 4 m",
-    "nav": "\u20b936.63",
-    "change": "0.33%",
-    "date": "May 22, 2026"
+    "duration": "3 yrs 2 m",
+    "nav": "\u20b937.16",
+    "change": "1.43%",
+    "date": "May 26, 2026"
   },
   {
     "scheme_id": "32037",
@@ -649,7 +649,7 @@
   },
   {
     "scheme_id": "3709",
-    "scheme_name": "ICICI Prudential Equity Arbitrage FundArbitrage",
+    "scheme_name": "ICICI Prudential Arbitrage FundArbitrage",
     "duration": "11 yrs 10 m",
     "nav": "\u20b936.07",
     "change": "0.03%",
@@ -1355,9 +1355,9 @@
     "scheme_id": "10271",
     "scheme_name": "Edelweiss Aggressive Hybrid FundAggressive Hybrid",
     "duration": "5 yrs 1 m",
-    "nav": "\u20b963.85",
-    "change": "0.95%",
-    "date": "May 25, 2026"
+    "nav": "\u20b963.78",
+    "change": "-0.11%",
+    "date": "May 26, 2026"
   },
   {
     "scheme_id": "2778",
@@ -1652,8 +1652,8 @@
     "scheme_name": "Edelweiss Arbitrage FundArbitrage",
     "duration": "11 yrs 8 m",
     "nav": "\u20b920.36",
-    "change": "0.06%",
-    "date": "May 25, 2026"
+    "change": "0.02%",
+    "date": "May 26, 2026"
   },
   {
     "scheme_id": "2012",
@@ -3563,9 +3563,9 @@
     "scheme_id": "10269",
     "scheme_name": "Edelweiss Balanced Advantage FundDynamic Asset Allocation",
     "duration": "5 yrs 8 m",
-    "nav": "\u20b951.88",
-    "change": "0.82%",
-    "date": "May 25, 2026"
+    "nav": "\u20b951.84",
+    "change": "-0.08%",
+    "date": "May 26, 2026"
   },
   {
     "scheme_id": "3792",
@@ -3812,8 +3812,8 @@
     "scheme_name": "Edelweiss Equity Savings FundEquity Savings",
     "duration": "7 yrs 6 m",
     "nav": "\u20b926.5",
-    "change": "0.41%",
-    "date": "May 25, 2026"
+    "change": "0%",
+    "date": "May 26, 2026"
   },
   {
     "scheme_id": "2085",
@@ -6283,9 +6283,9 @@
     "scheme_id": "41695",
     "scheme_name": "Invesco India - Invesco Global Consumer Trends FoFInternational",
     "duration": "1 yrs 9 m",
-    "nav": "\u20b913.78",
-    "change": "1.6%",
-    "date": "May 22, 2026"
+    "nav": "\u20b914.05",
+    "change": "1.96%",
+    "date": "May 26, 2026"
   },
   {
     "scheme_id": "41703",
@@ -8603,9 +8603,9 @@
     "scheme_id": "43956",
     "scheme_name": "Edelweiss Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b912.22",
-    "change": "0.13%",
-    "date": "May 25, 2026"
+    "nav": "\u20b912.23",
+    "change": "0.07%",
+    "date": "May 26, 2026"
   },
   {
     "scheme_id": "43964",
@@ -9116,8 +9116,8 @@
     "scheme_name": "Bandhan Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
     "nav": "\u20b914.11",
-    "change": "0.57%",
-    "date": "May 25, 2026"
+    "change": "-0.04%",
+    "date": "May 26, 2026"
   },
   {
     "scheme_id": "44389",
@@ -10276,8 +10276,8 @@
     "scheme_name": "Franklin India Arbitrage FundArbitrage",
     "duration": "-",
     "nav": "\u20b910.95",
-    "change": "0.06%",
-    "date": "May 25, 2026"
+    "change": "-0.01%",
+    "date": "May 26, 2026"
   },
   {
     "scheme_id": "45073",
