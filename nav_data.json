@@ -291,9 +291,9 @@
     "scheme_id": "25667",
     "scheme_name": "Invesco India - Invesco Global Equity Income FoFInternational",
     "duration": "3 yrs 5 m",
-    "nav": "\u20b936.76",
-    "change": "0.71%",
-    "date": "Jun 22, 2026"
+    "nav": "\u20b936.28",
+    "change": "-1.29%",
+    "date": "Jun 24, 2026"
   },
   {
     "scheme_id": "32037",
@@ -596,8 +596,8 @@
     "scheme_name": "DSP Arbitrage FundArbitrage",
     "duration": "-",
     "nav": "\u20b915.78",
-    "change": "0.04%",
-    "date": "Jun 23, 2026"
+    "change": "-0.04%",
+    "date": "Jun 24, 2026"
   },
   {
     "scheme_id": "32517",
@@ -4499,9 +4499,9 @@
     "scheme_id": "31632",
     "scheme_name": "DSP Equity Savings FundEquity Savings",
     "duration": "6 yrs 2 m",
-    "nav": "\u20b922.24",
-    "change": "-0.12%",
-    "date": "Jun 23, 2026"
+    "nav": "\u20b922.31",
+    "change": "0.29%",
+    "date": "Jun 24, 2026"
   },
   {
     "scheme_id": "32629",
@@ -4843,9 +4843,9 @@
     "scheme_id": "22958",
     "scheme_name": "DSP Dynamic Asset Allocation FundDynamic Asset Allocation",
     "duration": "6 yrs 2 m",
-    "nav": "\u20b928.55",
-    "change": "-0.32%",
-    "date": "Jun 23, 2026"
+    "nav": "\u20b928.67",
+    "change": "0.4%",
+    "date": "Jun 24, 2026"
   },
   {
     "scheme_id": "10480",
@@ -6274,10 +6274,10 @@
   {
     "scheme_id": "41695",
     "scheme_name": "Invesco India - Invesco Global Consumer Trends FoFInternational",
-    "duration": "1 yrs 2 m",
-    "nav": "\u20b914.48",
-    "change": "1.72%",
-    "date": "Jun 22, 2026"
+    "duration": "1 yrs 10 m",
+    "nav": "\u20b913.93",
+    "change": "-3.77%",
+    "date": "Jun 24, 2026"
   },
   {
     "scheme_id": "41703",
@@ -6518,6 +6518,14 @@
     "nav": "\u20b925.55",
     "change": "1.01%",
     "date": "Jun 24, 2026"
+  },
+  {
+    "scheme_id": "41920",
+    "scheme_name": "Baroda BNP Paribas Aqua FoFInternational",
+    "duration": "-",
+    "nav": "\u20b915.46",
+    "change": "0.14%",
+    "date": "Jun 22, 2026"
   },
   {
     "scheme_id": "41928",
