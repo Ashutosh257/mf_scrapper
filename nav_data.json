@@ -290,10 +290,10 @@
   {
     "scheme_id": "25667",
     "scheme_name": "Invesco India - Invesco Global Equity Income FoFInternational",
-    "duration": "3 yrs 5 m",
-    "nav": "\u20b936.9",
-    "change": "-0.16%",
-    "date": "Jun 30, 2026"
+    "duration": "3 yrs 3 m",
+    "nav": "\u20b937.13",
+    "change": "0.62%",
+    "date": "Jul 01, 2026"
   },
   {
     "scheme_id": "32037",
@@ -466,10 +466,10 @@
   {
     "scheme_id": "3778",
     "scheme_name": "Bandhan Arbitrage FundArbitrage",
-    "duration": "12 yrs 1 m",
-    "nav": "\u20b934.24",
-    "change": "-0.03%",
-    "date": "Jun 30, 2026"
+    "duration": "12 yrs",
+    "nav": "\u20b934.29",
+    "change": "0.13%",
+    "date": "Jul 01, 2026"
   },
   {
     "scheme_id": "1019",
@@ -515,9 +515,9 @@
     "scheme_id": "10502",
     "scheme_name": "Bandhan Multi-Asset Passive FoFMulti Asset Allocation",
     "duration": "6 yrs 2 m",
-    "nav": "\u20b941.24",
-    "change": "0.04%",
-    "date": "Jun 30, 2026"
+    "nav": "\u20b941.29",
+    "change": "0.11%",
+    "date": "Jul 01, 2026"
   },
   {
     "scheme_id": "5343",
@@ -539,8 +539,8 @@
     "scheme_id": "39768",
     "scheme_name": "Axis Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,438.83",
-    "change": "0.02%",
+    "nav": "\u20b91,438.8",
+    "change": "0.01%",
     "date": "Jul 01, 2026"
   },
   {
@@ -1819,9 +1819,9 @@
     "scheme_id": "2182",
     "scheme_name": "Bandhan Income Plus Arbitrage Active FoFTax Efficient Income",
     "duration": "10 yrs 3 m",
-    "nav": "\u20b946.39",
+    "nav": "\u20b946.42",
     "change": "0.06%",
-    "date": "Jun 30, 2026"
+    "date": "Jul 01, 2026"
   },
   {
     "scheme_id": "2249",
@@ -2867,9 +2867,9 @@
     "scheme_id": "10498",
     "scheme_name": "Bandhan Conservative Hybrid Passive FoFConservative Hybrid",
     "duration": "9 yrs 11 m",
-    "nav": "\u20b934.62",
-    "change": "0.1%",
-    "date": "Jun 30, 2026"
+    "nav": "\u20b934.64",
+    "change": "0.06%",
+    "date": "Jul 01, 2026"
   },
   {
     "scheme_id": "40620",
@@ -3571,9 +3571,9 @@
     "scheme_id": "10500",
     "scheme_name": "Bandhan Aggressive Hybrid Passive FoFAggressive Hybrid",
     "duration": "5 yrs 7 m",
-    "nav": "\u20b948.92",
-    "change": "0.11%",
-    "date": "Jun 30, 2026"
+    "nav": "\u20b949.03",
+    "change": "0.22%",
+    "date": "Jul 01, 2026"
   },
   {
     "scheme_id": "10495",
@@ -6274,10 +6274,10 @@
   {
     "scheme_id": "41695",
     "scheme_name": "Invesco India - Invesco Global Consumer Trends FoFInternational",
-    "duration": "1 yrs 10 m",
-    "nav": "\u20b913.96",
-    "change": "1.85%",
-    "date": "Jun 30, 2026"
+    "duration": "1 yrs 2 m",
+    "nav": "\u20b914.27",
+    "change": "2.21%",
+    "date": "Jul 01, 2026"
   },
   {
     "scheme_id": "41703",
@@ -9155,9 +9155,9 @@
     "scheme_id": "44393",
     "scheme_name": "Bandhan Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b914.03",
-    "change": "0.21%",
-    "date": "Jun 30, 2026"
+    "nav": "\u20b914.06",
+    "change": "0.2%",
+    "date": "Jul 01, 2026"
   },
   {
     "scheme_id": "44389",
