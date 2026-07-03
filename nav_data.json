@@ -291,9 +291,9 @@
     "scheme_id": "25667",
     "scheme_name": "Invesco India - Invesco Global Equity Income FoFInternational",
     "duration": "3 yrs 3 m",
-    "nav": "\u20b937.13",
-    "change": "0.62%",
-    "date": "Jul 01, 2026"
+    "nav": "\u20b937.54",
+    "change": "1.12%",
+    "date": "Jul 02, 2026"
   },
   {
     "scheme_id": "32037",
@@ -2371,7 +2371,7 @@
     "scheme_id": "2260",
     "scheme_name": "Tata Liquid FundLiquid",
     "duration": "11 yrs 3 m",
-    "nav": "\u20b94,373.33",
+    "nav": "\u20b94,373.36",
     "change": "0.02%",
     "date": "Jul 02, 2026"
   },
@@ -6274,10 +6274,10 @@
   {
     "scheme_id": "41695",
     "scheme_name": "Invesco India - Invesco Global Consumer Trends FoFInternational",
-    "duration": "1 yrs 2 m",
-    "nav": "\u20b914.27",
-    "change": "2.21%",
-    "date": "Jul 01, 2026"
+    "duration": "1 yrs 10 m",
+    "nav": "\u20b913.8",
+    "change": "-3.3%",
+    "date": "Jul 02, 2026"
   },
   {
     "scheme_id": "41703",
@@ -9155,9 +9155,9 @@
     "scheme_id": "44393",
     "scheme_name": "Bandhan Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b914.06",
-    "change": "0.2%",
-    "date": "Jul 01, 2026"
+    "nav": "\u20b914.15",
+    "change": "0.62%",
+    "date": "Jul 02, 2026"
   },
   {
     "scheme_id": "44389",
