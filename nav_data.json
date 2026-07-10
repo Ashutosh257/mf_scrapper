@@ -291,9 +291,9 @@
     "scheme_id": "25667",
     "scheme_name": "Invesco India - Invesco Global Equity Income FoFInternational",
     "duration": "3 yrs 3 m",
-    "nav": "\u20b937.49",
-    "change": "-0.74%",
-    "date": "Jul 08, 2026"
+    "nav": "\u20b937.41",
+    "change": "-0.2%",
+    "date": "Jul 09, 2026"
   },
   {
     "scheme_id": "32037",
@@ -515,9 +515,9 @@
     "scheme_id": "10502",
     "scheme_name": "Bandhan Multi-Asset Passive FoFMulti Asset Allocation",
     "duration": "6 yrs 3 m",
-    "nav": "\u20b941.21",
-    "change": "-0.93%",
-    "date": "Jul 08, 2026"
+    "nav": "\u20b941.49",
+    "change": "0.69%",
+    "date": "Jul 09, 2026"
   },
   {
     "scheme_id": "5343",
@@ -1820,8 +1820,8 @@
     "scheme_name": "Bandhan Income Plus Arbitrage Active FoFTax Efficient Income",
     "duration": "10 yrs 3 m",
     "nav": "\u20b946.41",
-    "change": "-0.15%",
-    "date": "Jul 08, 2026"
+    "change": "0.01%",
+    "date": "Jul 09, 2026"
   },
   {
     "scheme_id": "2249",
@@ -2867,9 +2867,9 @@
     "scheme_id": "10498",
     "scheme_name": "Bandhan Conservative Hybrid Passive FoFConservative Hybrid",
     "duration": "10 yrs",
-    "nav": "\u20b934.64",
-    "change": "-0.38%",
-    "date": "Jul 08, 2026"
+    "nav": "\u20b934.68",
+    "change": "0.12%",
+    "date": "Jul 09, 2026"
   },
   {
     "scheme_id": "40620",
@@ -3570,10 +3570,10 @@
   {
     "scheme_id": "10500",
     "scheme_name": "Bandhan Aggressive Hybrid Passive FoFAggressive Hybrid",
-    "duration": "5 yrs 8 m",
-    "nav": "\u20b948.73",
-    "change": "-1.16%",
-    "date": "Jul 08, 2026"
+    "duration": "5 yrs 7 m",
+    "nav": "\u20b949.01",
+    "change": "0.58%",
+    "date": "Jul 09, 2026"
   },
   {
     "scheme_id": "10495",
@@ -6275,9 +6275,9 @@
     "scheme_id": "41695",
     "scheme_name": "Invesco India - Invesco Global Consumer Trends FoFInternational",
     "duration": "2 yrs 8 m",
-    "nav": "\u20b912.7",
-    "change": "-4.19%",
-    "date": "Jul 08, 2026"
+    "nav": "\u20b913.08",
+    "change": "2.98%",
+    "date": "Jul 09, 2026"
   },
   {
     "scheme_id": "41703",
@@ -6537,7 +6537,7 @@
   },
   {
     "scheme_id": "41936",
-    "scheme_name": "ITI Ultra Short Duration FundUltra Short Duration",
+    "scheme_name": "ITI Ultra Short Term FundUltra Short Duration",
     "duration": "-",
     "nav": "\u20b91,308.19",
     "change": "0.04%",
@@ -6657,7 +6657,7 @@
   },
   {
     "scheme_id": "42026",
-    "scheme_name": "ITI Dynamic Bond FundDynamic Bond",
+    "scheme_name": "ITI Dynamic Term FundDynamic Bond",
     "duration": "-",
     "nav": "\u20b912.86",
     "change": "0.06%",
@@ -9155,9 +9155,9 @@
     "scheme_id": "44393",
     "scheme_name": "Bandhan Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b914.01",
-    "change": "-1.32%",
-    "date": "Jul 08, 2026"
+    "nav": "\u20b914.1",
+    "change": "0.65%",
+    "date": "Jul 09, 2026"
   },
   {
     "scheme_id": "44389",
