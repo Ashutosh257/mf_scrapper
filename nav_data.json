@@ -292,8 +292,8 @@
     "scheme_name": "Invesco India - Invesco Global Equity Income FoFInternational",
     "duration": "3 yrs 3 m",
     "nav": "\u20b937.96",
-    "change": "0.65%",
-    "date": "Jul 13, 2026"
+    "change": "-0%",
+    "date": "Jul 14, 2026"
   },
   {
     "scheme_id": "32037",
@@ -6275,9 +6275,9 @@
     "scheme_id": "41695",
     "scheme_name": "Invesco India - Invesco Global Consumer Trends FoFInternational",
     "duration": "2 yrs 8 m",
-    "nav": "\u20b913.21",
-    "change": "-1.21%",
-    "date": "Jul 13, 2026"
+    "nav": "\u20b913.08",
+    "change": "-1%",
+    "date": "Jul 14, 2026"
   },
   {
     "scheme_id": "41703",
@@ -9155,9 +9155,9 @@
     "scheme_id": "44393",
     "scheme_name": "Bandhan Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b914.14",
-    "change": "-0.11%",
-    "date": "Jul 13, 2026"
+    "nav": "\u20b914.09",
+    "change": "-0.36%",
+    "date": "Jul 14, 2026"
   },
   {
     "scheme_id": "44389",
