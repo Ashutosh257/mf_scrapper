@@ -291,9 +291,9 @@
     "scheme_id": "25667",
     "scheme_name": "Invesco India - Invesco Global Equity Income FoFInternational",
     "duration": "3 yrs 3 m",
-    "nav": "\u20b938.08",
-    "change": "-0.54%",
-    "date": "Jul 17, 2026"
+    "nav": "\u20b938.1",
+    "change": "0.05%",
+    "date": "Jul 20, 2026"
   },
   {
     "scheme_id": "32037",
@@ -1259,9 +1259,9 @@
     "scheme_id": "4354",
     "scheme_name": "Nippon India Low Duration FundLow Duration",
     "duration": "10 yrs 9 m",
-    "nav": "\u20b93,981.31",
-    "change": "0.05%",
-    "date": "Jul 17, 2026"
+    "nav": "\u20b93,981.45",
+    "change": "0%",
+    "date": "Jul 20, 2026"
   },
   {
     "scheme_id": "40138",
@@ -1747,9 +1747,9 @@
     "scheme_id": "11236",
     "scheme_name": "Nippon India Arbitrage FundArbitrage",
     "duration": "11 yrs 9 m",
-    "nav": "\u20b928.19",
-    "change": "0.1%",
-    "date": "Jul 17, 2026"
+    "nav": "\u20b928.17",
+    "change": "-0.06%",
+    "date": "Jul 20, 2026"
   },
   {
     "scheme_id": "40612",
@@ -3731,9 +3731,9 @@
     "scheme_id": "32793",
     "scheme_name": "Nippon India Ultra Short Duration FundUltra Short Duration",
     "duration": "11 yrs 9 m",
-    "nav": "\u20b94,289.95",
-    "change": "0.05%",
-    "date": "Jul 17, 2026"
+    "nav": "\u20b94,291",
+    "change": "0.02%",
+    "date": "Jul 20, 2026"
   },
   {
     "scheme_id": "35346",
@@ -6275,9 +6275,9 @@
     "scheme_id": "41695",
     "scheme_name": "Invesco India - Invesco Global Consumer Trends FoFInternational",
     "duration": "2 yrs 8 m",
-    "nav": "\u20b912.33",
-    "change": "-4.86%",
-    "date": "Jul 17, 2026"
+    "nav": "\u20b912.55",
+    "change": "1.8%",
+    "date": "Jul 20, 2026"
   },
   {
     "scheme_id": "41703",
@@ -9155,9 +9155,9 @@
     "scheme_id": "44393",
     "scheme_name": "Bandhan Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b914.09",
-    "change": "-0%",
-    "date": "Jul 17, 2026"
+    "nav": "\u20b914.1",
+    "change": "0.02%",
+    "date": "Jul 20, 2026"
   },
   {
     "scheme_id": "44389",
@@ -11244,8 +11244,8 @@
     "scheme_name": "Nippon India Income Plus Arbitrage Active FoFTax Efficient Income",
     "duration": "-",
     "nav": "\u20b910.62",
-    "change": "0.06%",
-    "date": "Jul 17, 2026"
+    "change": "-0.04%",
+    "date": "Jul 20, 2026"
   },
   {
     "scheme_id": "45581",
