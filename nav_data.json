@@ -290,10 +290,10 @@
   {
     "scheme_id": "25667",
     "scheme_name": "Invesco India - Invesco Global Equity Income FoFInternational",
-    "duration": "3 yrs 4 m",
-    "nav": "\u20b938.22",
-    "change": "-0.16%",
-    "date": "Jul 28, 2026"
+    "duration": "3 yrs 2 m",
+    "nav": "\u20b938.53",
+    "change": "0.81%",
+    "date": "Jul 29, 2026"
   },
   {
     "scheme_id": "32037",
@@ -6274,10 +6274,10 @@
   {
     "scheme_id": "41695",
     "scheme_name": "Invesco India - Invesco Global Consumer Trends FoFInternational",
-    "duration": "3 yrs 6 m",
-    "nav": "\u20b911.85",
-    "change": "-3.75%",
-    "date": "Jul 28, 2026"
+    "duration": "3 yrs 7 m",
+    "nav": "\u20b911.5",
+    "change": "-2.88%",
+    "date": "Jul 29, 2026"
   },
   {
     "scheme_id": "41703",
@@ -12444,8 +12444,8 @@
     "scheme_name": "AlphaGrep Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
     "nav": "\u20b910.01",
-    "change": "0%",
-    "date": "Jul 28, 2026"
+    "change": "-0.05%",
+    "date": "Jul 29, 2026"
   },
   {
     "scheme_id": "46365",
