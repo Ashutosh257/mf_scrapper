@@ -290,10 +290,10 @@
   {
     "scheme_id": "25667",
     "scheme_name": "Invesco India - Invesco Global Equity Income FoFInternational",
-    "duration": "3 yrs 3 m",
-    "nav": "\u20b938.54",
-    "change": "0.39%",
-    "date": "Aug 03, 2026"
+    "duration": "2 yrs 9 m",
+    "nav": "\u20b938.77",
+    "change": "0.58%",
+    "date": "Aug 04, 2026"
   },
   {
     "scheme_id": "32037",
@@ -436,7 +436,7 @@
     "scheme_name": "Mirae Asset Equity Savings FundEquity Savings",
     "duration": "6 yrs 1 m",
     "nav": "\u20b921.4",
-    "change": "-0.24%",
+    "change": "-0.23%",
     "date": "Aug 04, 2026"
   },
   {
@@ -1187,8 +1187,8 @@
     "scheme_id": "6550",
     "scheme_name": "Mirae Asset Large Cap FundLarge Cap",
     "duration": "5 yrs 8 m",
-    "nav": "\u20b9114.47",
-    "change": "-0.51%",
+    "nav": "\u20b9114.48",
+    "change": "-0.5%",
     "date": "Aug 04, 2026"
   },
   {
@@ -1931,8 +1931,8 @@
     "scheme_id": "30101",
     "scheme_name": "Mirae Asset Aggressive Hybrid FundAggressive Hybrid",
     "duration": "5 yrs 8 m",
-    "nav": "\u20b933.68",
-    "change": "-0.35%",
+    "nav": "\u20b933.69",
+    "change": "-0.34%",
     "date": "Aug 04, 2026"
   },
   {
@@ -5907,7 +5907,7 @@
     "scheme_id": "40989",
     "scheme_name": "Invesco India Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,380.04",
+    "nav": "\u20b91,380.03",
     "change": "0.01%",
     "date": "Aug 04, 2026"
   },
@@ -6274,10 +6274,10 @@
   {
     "scheme_id": "41695",
     "scheme_name": "Invesco India - Invesco Global Consumer Trends FoFInternational",
-    "duration": "3 yrs 6 m",
-    "nav": "\u20b911.94",
-    "change": "-0.73%",
-    "date": "Aug 03, 2026"
+    "duration": "2 yrs 9 m",
+    "nav": "\u20b912.41",
+    "change": "3.95%",
+    "date": "Aug 04, 2026"
   },
   {
     "scheme_id": "41703",
@@ -7396,7 +7396,7 @@
     "scheme_name": "Mirae Asset Balanced Advantage FundDynamic Asset Allocation",
     "duration": "-",
     "nav": "\u20b914.79",
-    "change": "-0.29%",
+    "change": "-0.28%",
     "date": "Aug 04, 2026"
   },
   {
@@ -9132,7 +9132,7 @@
     "scheme_name": "Mirae Asset Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
     "nav": "\u20b913.56",
-    "change": "-0.31%",
+    "change": "-0.3%",
     "date": "Aug 04, 2026"
   },
   {
@@ -9147,9 +9147,9 @@
     "scheme_id": "44393",
     "scheme_name": "Bandhan Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b914.32",
-    "change": "1.08%",
-    "date": "Aug 03, 2026"
+    "nav": "\u20b914.3",
+    "change": "-0.11%",
+    "date": "Aug 04, 2026"
   },
   {
     "scheme_id": "44389",
