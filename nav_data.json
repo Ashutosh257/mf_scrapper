@@ -9147,9 +9147,9 @@
     "scheme_id": "44393",
     "scheme_name": "Bandhan Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b914.4",
-    "change": "0.09%",
-    "date": "Aug 07, 2026"
+    "nav": "\u20b914.44",
+    "change": "0.24%",
+    "date": "Aug 10, 2026"
   },
   {
     "scheme_id": "44389",
@@ -12517,6 +12517,14 @@
     "duration": "-",
     "nav": "\u20b910.05",
     "change": "0.34%",
+    "date": "Aug 10, 2026"
+  },
+  {
+    "scheme_id": "46470",
+    "scheme_name": "AlphaGrep Liquid Omni FoFLiquid",
+    "duration": "-",
+    "nav": "\u20b91,000.81",
+    "change": "\u221e%",
     "date": "Aug 10, 2026"
   }
 ]
