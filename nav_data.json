@@ -291,9 +291,9 @@
     "scheme_id": "25667",
     "scheme_name": "Invesco India - Invesco Global Equity Income FoFInternational",
     "duration": "2 yrs 9 m",
-    "nav": "\u20b939.08",
-    "change": "-0.23%",
-    "date": "Aug 11, 2026"
+    "nav": "\u20b939.2",
+    "change": "0.3%",
+    "date": "Aug 12, 2026"
   },
   {
     "scheme_id": "32037",
@@ -5897,7 +5897,7 @@
   },
   {
     "scheme_id": "40977",
-    "scheme_name": "Axis Income Plus Arbitrage Active FoFTax Efficient Income",
+    "scheme_name": "Axis Income Plus Arbitrage Omni FoFTax Efficient Income",
     "duration": "-",
     "nav": "\u20b915.38",
     "change": "-0.01%",
@@ -6275,9 +6275,9 @@
     "scheme_id": "41695",
     "scheme_name": "Invesco India - Invesco Global Consumer Trends FoFInternational",
     "duration": "2 yrs 9 m",
-    "nav": "\u20b912.47",
-    "change": "0.44%",
-    "date": "Aug 11, 2026"
+    "nav": "\u20b912.77",
+    "change": "2.41%",
+    "date": "Aug 12, 2026"
   },
   {
     "scheme_id": "41703",
@@ -9147,9 +9147,9 @@
     "scheme_id": "44393",
     "scheme_name": "Bandhan Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b914.45",
+    "nav": "\u20b914.46",
     "change": "0.07%",
-    "date": "Aug 11, 2026"
+    "date": "Aug 12, 2026"
   },
   {
     "scheme_id": "44389",
@@ -11785,7 +11785,7 @@
   },
   {
     "scheme_id": "45938",
-    "scheme_name": "Axis Multi-Asset Active FoFMulti Asset Allocation",
+    "scheme_name": "Axis Multi-Asset Omni FoFMulti Asset Allocation",
     "duration": "-",
     "nav": "\u20b910.86",
     "change": "0.05%",
@@ -12539,8 +12539,8 @@
     "scheme_id": "46470",
     "scheme_name": "AlphaGrep Liquid Omni FoFLiquid",
     "duration": "-",
-    "nav": "\u20b91,000.98",
-    "change": "0.02%",
-    "date": "Aug 11, 2026"
+    "nav": "\u20b91,001.09",
+    "change": "0.01%",
+    "date": "Aug 12, 2026"
   }
 ]
