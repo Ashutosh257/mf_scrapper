@@ -235,7 +235,7 @@
     "scheme_id": "1524",
     "scheme_name": "Aditya Birla Sun Life Savings FundUltra Short Duration",
     "duration": "10 yrs 4 m",
-    "nav": "\u20b9588.58",
+    "nav": "\u20b9588.57",
     "change": "0.03%",
     "date": "Aug 13, 2026"
   },
@@ -291,9 +291,9 @@
     "scheme_id": "25667",
     "scheme_name": "Invesco India - Invesco Global Equity Income FoFInternational",
     "duration": "2 yrs 9 m",
-    "nav": "\u20b939.2",
-    "change": "0.3%",
-    "date": "Aug 12, 2026"
+    "nav": "\u20b939.19",
+    "change": "-0.04%",
+    "date": "Aug 13, 2026"
   },
   {
     "scheme_id": "32037",
@@ -6275,9 +6275,9 @@
     "scheme_id": "41695",
     "scheme_name": "Invesco India - Invesco Global Consumer Trends FoFInternational",
     "duration": "2 yrs 9 m",
-    "nav": "\u20b912.77",
-    "change": "2.41%",
-    "date": "Aug 12, 2026"
+    "nav": "\u20b913.01",
+    "change": "1.82%",
+    "date": "Aug 13, 2026"
   },
   {
     "scheme_id": "41703",
@@ -9147,9 +9147,9 @@
     "scheme_id": "44393",
     "scheme_name": "Bandhan Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b914.46",
-    "change": "0.07%",
-    "date": "Aug 12, 2026"
+    "nav": "\u20b914.44",
+    "change": "-0.16%",
+    "date": "Aug 13, 2026"
   },
   {
     "scheme_id": "44389",
@@ -12555,8 +12555,8 @@
     "scheme_id": "46470",
     "scheme_name": "AlphaGrep Liquid Omni FoFLiquid",
     "duration": "-",
-    "nav": "\u20b91,001.09",
-    "change": "0.01%",
-    "date": "Aug 12, 2026"
+    "nav": "\u20b91,001.29",
+    "change": "0.02%",
+    "date": "Aug 13, 2026"
   }
 ]
