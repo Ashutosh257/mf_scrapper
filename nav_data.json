@@ -291,9 +291,9 @@
     "scheme_id": "25667",
     "scheme_name": "Invesco India - Invesco Global Equity Income FoFInternational",
     "duration": "2 yrs 9 m",
-    "nav": "\u20b939.25",
-    "change": "0.16%",
-    "date": "Aug 14, 2026"
+    "nav": "\u20b939.34",
+    "change": "0.23%",
+    "date": "Aug 17, 2026"
   },
   {
     "scheme_id": "32037",
@@ -3571,9 +3571,9 @@
     "scheme_id": "10500",
     "scheme_name": "Bandhan Aggressive Hybrid Passive FoFAggressive Hybrid",
     "duration": "5 yrs 8 m",
-    "nav": "\u20b950.48",
-    "change": "-0.39%",
-    "date": "Aug 14, 2026"
+    "nav": "\u20b950.54",
+    "change": "0.12%",
+    "date": "Aug 17, 2026"
   },
   {
     "scheme_id": "10495",
@@ -6275,9 +6275,9 @@
     "scheme_id": "41695",
     "scheme_name": "Invesco India - Invesco Global Consumer Trends FoFInternational",
     "duration": "2 yrs 9 m",
-    "nav": "\u20b913.11",
-    "change": "0.82%",
-    "date": "Aug 14, 2026"
+    "nav": "\u20b913.46",
+    "change": "2.63%",
+    "date": "Aug 17, 2026"
   },
   {
     "scheme_id": "41703",
@@ -9028,7 +9028,7 @@
     "scheme_name": "Bajaj Finserv Balanced Advantage FundDynamic Asset Allocation",
     "duration": "-",
     "nav": "\u20b911.87",
-    "change": "0.04%",
+    "change": "0.06%",
     "date": "Aug 17, 2026"
   },
   {
@@ -9147,9 +9147,9 @@
     "scheme_id": "44393",
     "scheme_name": "Bandhan Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b914.41",
-    "change": "-0.16%",
-    "date": "Aug 14, 2026"
+    "nav": "\u20b914.42",
+    "change": "0.05%",
+    "date": "Aug 17, 2026"
   },
   {
     "scheme_id": "44389",
@@ -9796,7 +9796,7 @@
     "scheme_name": "Bajaj Finserv Large Cap FundLarge Cap",
     "duration": "-",
     "nav": "\u20b910.25",
-    "change": "-0.14%",
+    "change": "-0.13%",
     "date": "Aug 17, 2026"
   },
   {
@@ -10747,8 +10747,8 @@
     "scheme_id": "45271",
     "scheme_name": "Bajaj Finserv Multi Cap FundMulti Cap",
     "duration": "-",
-    "nav": "\u20b912.33",
-    "change": "0.41%",
+    "nav": "\u20b912.34",
+    "change": "0.42%",
     "date": "Aug 17, 2026"
   },
   {
@@ -11724,7 +11724,7 @@
     "scheme_name": "Bajaj Finserv Banking And Financial Services FundSectoral-Banking",
     "duration": "-",
     "nav": "\u20b99.93",
-    "change": "0.08%",
+    "change": "0.05%",
     "date": "Aug 17, 2026"
   },
   {
@@ -12555,8 +12555,8 @@
     "scheme_id": "46470",
     "scheme_name": "AlphaGrep Liquid Omni FoFLiquid",
     "duration": "-",
-    "nav": "\u20b91,001.46",
-    "change": "0.02%",
-    "date": "Aug 14, 2026"
+    "nav": "\u20b91,001.92",
+    "change": "0.05%",
+    "date": "Aug 17, 2026"
   }
 ]
