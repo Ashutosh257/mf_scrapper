@@ -291,9 +291,9 @@
     "scheme_id": "25667",
     "scheme_name": "Invesco India - Invesco Global Equity Income FoFInternational",
     "duration": "2 yrs 9 m",
-    "nav": "\u20b939.34",
-    "change": "0.23%",
-    "date": "Aug 17, 2026"
+    "nav": "\u20b938.91",
+    "change": "-1.09%",
+    "date": "Aug 18, 2026"
   },
   {
     "scheme_id": "32037",
@@ -6275,9 +6275,9 @@
     "scheme_id": "41695",
     "scheme_name": "Invesco India - Invesco Global Consumer Trends FoFInternational",
     "duration": "2 yrs 9 m",
-    "nav": "\u20b913.46",
-    "change": "2.63%",
-    "date": "Aug 17, 2026"
+    "nav": "\u20b913.1",
+    "change": "-2.68%",
+    "date": "Aug 18, 2026"
   },
   {
     "scheme_id": "41703",
@@ -9147,9 +9147,9 @@
     "scheme_id": "44393",
     "scheme_name": "Bandhan Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b914.42",
-    "change": "0.05%",
-    "date": "Aug 17, 2026"
+    "nav": "\u20b914.39",
+    "change": "-0.22%",
+    "date": "Aug 18, 2026"
   },
   {
     "scheme_id": "44389",
@@ -12555,8 +12555,8 @@
     "scheme_id": "46470",
     "scheme_name": "AlphaGrep Liquid Omni FoFLiquid",
     "duration": "-",
-    "nav": "\u20b91,001.92",
-    "change": "0.05%",
-    "date": "Aug 17, 2026"
+    "nav": "\u20b91,002.04",
+    "change": "0.01%",
+    "date": "Aug 18, 2026"
   }
 ]
