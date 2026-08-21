@@ -290,10 +290,10 @@
   {
     "scheme_id": "25667",
     "scheme_name": "Invesco India - Invesco Global Equity Income FoFInternational",
-    "duration": "3 yrs 3 m",
-    "nav": "\u20b938.74",
-    "change": "-0.46%",
-    "date": "Aug 19, 2026"
+    "duration": "2 yrs 9 m",
+    "nav": "\u20b938.97",
+    "change": "0.6%",
+    "date": "Aug 20, 2026"
   },
   {
     "scheme_id": "32037",
@@ -1059,9 +1059,9 @@
     "scheme_id": "1164",
     "scheme_name": "Kotak Bond Short Term FundShort Duration",
     "duration": "10 yrs 7 m",
-    "nav": "\u20b955.26",
-    "change": "0.01%",
-    "date": "Aug 19, 2026"
+    "nav": "\u20b955.19",
+    "change": "-0.14%",
+    "date": "Aug 20, 2026"
   },
   {
     "scheme_id": "31276",
@@ -1491,9 +1491,9 @@
     "scheme_id": "24788",
     "scheme_name": "Kotak Medium Term FundMedium Duration",
     "duration": "10 yrs 4 m",
-    "nav": "\u20b924.55",
-    "change": "0%",
-    "date": "Aug 19, 2026"
+    "nav": "\u20b924.5",
+    "change": "-0.19%",
+    "date": "Aug 20, 2026"
   },
   {
     "scheme_id": "33980",
@@ -1547,9 +1547,9 @@
     "scheme_id": "2694",
     "scheme_name": "Kotak Arbitrage FundArbitrage",
     "duration": "11 yrs 8 m",
-    "nav": "\u20b940.07",
-    "change": "0.14%",
-    "date": "Aug 19, 2026"
+    "nav": "\u20b940.03",
+    "change": "-0.09%",
+    "date": "Aug 20, 2026"
   },
   {
     "scheme_id": "40718",
@@ -2067,9 +2067,9 @@
     "scheme_id": "7626",
     "scheme_name": "Kotak Dynamic Bond FundDynamic Bond",
     "duration": "10 yrs",
-    "nav": "\u20b939.83",
-    "change": "0%",
-    "date": "Aug 19, 2026"
+    "nav": "\u20b939.73",
+    "change": "-0.26%",
+    "date": "Aug 20, 2026"
   },
   {
     "scheme_id": "4085",
@@ -2467,9 +2467,9 @@
     "scheme_id": "37558",
     "scheme_name": "Kotak Balanced Advantage FundDynamic Asset Allocation",
     "duration": "6 yrs 2 m",
-    "nav": "\u20b921.23",
-    "change": "-0.39%",
-    "date": "Aug 19, 2026"
+    "nav": "\u20b921.29",
+    "change": "0.3%",
+    "date": "Aug 20, 2026"
   },
   {
     "scheme_id": "1286",
@@ -2803,9 +2803,9 @@
     "scheme_id": "10789",
     "scheme_name": "Kotak Credit Risk FundCredit Risk",
     "duration": "10 yrs 7 m",
-    "nav": "\u20b931.9",
-    "change": "0.05%",
-    "date": "Aug 19, 2026"
+    "nav": "\u20b931.86",
+    "change": "-0.12%",
+    "date": "Aug 20, 2026"
   },
   {
     "scheme_id": "34456",
@@ -3051,9 +3051,9 @@
     "scheme_id": "5703",
     "scheme_name": "Kotak Corporate Bond FundCorporate Bond",
     "duration": "10 yrs 1 m",
-    "nav": "\u20b94,015.82",
-    "change": "0.02%",
-    "date": "Aug 19, 2026"
+    "nav": "\u20b94,008.88",
+    "change": "-0.17%",
+    "date": "Aug 20, 2026"
   },
   {
     "scheme_id": "2052",
@@ -3547,9 +3547,9 @@
     "scheme_id": "32272",
     "scheme_name": "Kotak Gilt ment FundGilt",
     "duration": "10 yrs 5 m",
-    "nav": "\u20b997.82",
-    "change": "-0.05%",
-    "date": "Aug 19, 2026"
+    "nav": "\u20b997.55",
+    "change": "-0.28%",
+    "date": "Aug 20, 2026"
   },
   {
     "scheme_id": "10269",
@@ -3611,9 +3611,9 @@
     "scheme_id": "40379",
     "scheme_name": "Kotak Floating Rate FundFloater",
     "duration": "-",
-    "nav": "\u20b91,619.98",
-    "change": "0.01%",
-    "date": "Aug 19, 2026"
+    "nav": "\u20b91,617.68",
+    "change": "-0.14%",
+    "date": "Aug 20, 2026"
   },
   {
     "scheme_id": "12191",
@@ -4099,9 +4099,9 @@
     "scheme_id": "1736",
     "scheme_name": "Kotak Debt Hybrid FundConservative Hybrid",
     "duration": "6 yrs 4 m",
-    "nav": "\u20b960.14",
-    "change": "-0.08%",
-    "date": "Aug 19, 2026"
+    "nav": "\u20b960.12",
+    "change": "-0.04%",
+    "date": "Aug 20, 2026"
   },
   {
     "scheme_id": "2611",
@@ -4491,9 +4491,9 @@
     "scheme_id": "32271",
     "scheme_name": "Kotak Banking and PSU Debt FundBanking and PSU",
     "duration": "10 yrs",
-    "nav": "\u20b969.69",
-    "change": "0.03%",
-    "date": "Aug 19, 2026"
+    "nav": "\u20b969.56",
+    "change": "-0.19%",
+    "date": "Aug 20, 2026"
   },
   {
     "scheme_id": "31632",
@@ -5667,9 +5667,9 @@
     "scheme_id": "27685",
     "scheme_name": "Kotak Equity Savings FundEquity Savings",
     "duration": "6 yrs 2 m",
-    "nav": "\u20b927.68",
-    "change": "-0.02%",
-    "date": "Aug 19, 2026"
+    "nav": "\u20b927.72",
+    "change": "0.12%",
+    "date": "Aug 20, 2026"
   },
   {
     "scheme_id": "38468",
@@ -6275,9 +6275,9 @@
     "scheme_id": "41695",
     "scheme_name": "Invesco India - Invesco Global Consumer Trends FoFInternational",
     "duration": "2 yrs 9 m",
-    "nav": "\u20b912.65",
-    "change": "-3.45%",
-    "date": "Aug 19, 2026"
+    "nav": "\u20b912.52",
+    "change": "-0.98%",
+    "date": "Aug 20, 2026"
   },
   {
     "scheme_id": "41703",
@@ -7915,9 +7915,9 @@
     "scheme_id": "43199",
     "scheme_name": "Kotak Income Plus Arbitrage Omni FoFTax Efficient Income",
     "duration": "-",
-    "nav": "\u20b913.16",
-    "change": "0.06%",
-    "date": "Aug 19, 2026"
+    "nav": "\u20b913.14",
+    "change": "-0.14%",
+    "date": "Aug 20, 2026"
   },
   {
     "scheme_id": "43203",
@@ -9147,9 +9147,9 @@
     "scheme_id": "44393",
     "scheme_name": "Bandhan Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b914.34",
-    "change": "-0.34%",
-    "date": "Aug 19, 2026"
+    "nav": "\u20b914.44",
+    "change": "0.68%",
+    "date": "Aug 20, 2026"
   },
   {
     "scheme_id": "44389",
@@ -9395,9 +9395,9 @@
     "scheme_id": "44555",
     "scheme_name": "Kotak Long Duration FundLong Duration",
     "duration": "-",
-    "nav": "\u20b911.25",
-    "change": "0.01%",
-    "date": "Aug 19, 2026"
+    "nav": "\u20b911.22",
+    "change": "-0.27%",
+    "date": "Aug 20, 2026"
   },
   {
     "scheme_id": "44571",
