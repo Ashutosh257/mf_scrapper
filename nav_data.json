@@ -73,7 +73,7 @@
   },
   {
     "scheme_id": "4820",
-    "scheme_name": "DSP Strategic Bond FundDynamic Bond",
+    "scheme_name": "DSP Dynamic Term FundDynamic Bond",
     "duration": "10 yrs 5 m",
     "nav": "\u20b93,456.62",
     "change": "0.03%",
@@ -291,9 +291,9 @@
     "scheme_id": "25667",
     "scheme_name": "Invesco India - Invesco Global Equity Income FoFInternational",
     "duration": "2 yrs 9 m",
-    "nav": "\u20b938.95",
-    "change": "-0.05%",
-    "date": "Aug 21, 2026"
+    "nav": "\u20b939.13",
+    "change": "0.48%",
+    "date": "Aug 24, 2026"
   },
   {
     "scheme_id": "32037",
@@ -505,7 +505,7 @@
   },
   {
     "scheme_id": "35913",
-    "scheme_name": "Mirae Asset Short Duration FundShort Duration",
+    "scheme_name": "Mirae Asset Short Term FundShort Duration",
     "duration": "-",
     "nav": "\u20b916.62",
     "change": "0.04%",
@@ -865,7 +865,7 @@
   },
   {
     "scheme_id": "11431",
-    "scheme_name": "Sundaram Balanced Advantage FundDynamic Asset Allocation",
+    "scheme_name": "Sundaram Dynamic Asset Allocation FundDynamic Asset Allocation",
     "duration": "6 yrs 2 m",
     "nav": "\u20b935.73",
     "change": "-0.25%",
@@ -1457,7 +1457,7 @@
   },
   {
     "scheme_id": "2045",
-    "scheme_name": "DSP Regular Savings FundConservative Hybrid",
+    "scheme_name": "DSP Conservative Hybrid FundConservative Hybrid",
     "duration": "10 yrs 1 m",
     "nav": "\u20b961.12",
     "change": "-0.02%",
@@ -2049,7 +2049,7 @@
   },
   {
     "scheme_id": "3381",
-    "scheme_name": "DSP Ultra Short FundUltra Short Duration",
+    "scheme_name": "DSP Ultra Short Term FundUltra Short Duration",
     "duration": "11 yrs 10 m",
     "nav": "\u20b93,638.29",
     "change": "0.05%",
@@ -2185,7 +2185,7 @@
   },
   {
     "scheme_id": "27691",
-    "scheme_name": "DSP 10Y G-Sec FundLong Debt Index",
+    "scheme_name": "DSP 10 year Constant Maturity Gilt FundLong Debt Index",
     "duration": "10 yrs 5 m",
     "nav": "\u20b922.53",
     "change": "0.06%",
@@ -3201,7 +3201,7 @@
   },
   {
     "scheme_id": "6923",
-    "scheme_name": "Mirae Asset Low Duration FundLow Duration",
+    "scheme_name": "Mirae Asset Ultra Short to Short Term FundLow Duration",
     "duration": "11 yrs 9 m",
     "nav": "\u20b92,412.12",
     "change": "0.06%",
@@ -3321,7 +3321,7 @@
   },
   {
     "scheme_id": "32350",
-    "scheme_name": "DSP Savings FundMoney Market",
+    "scheme_name": "DSP Money Market FundMoney Market",
     "duration": "11 yrs 4 m",
     "nav": "\u20b956.52",
     "change": "0.06%",
@@ -3377,7 +3377,7 @@
   },
   {
     "scheme_id": "1555",
-    "scheme_name": "Sundaram Short Duration FundShort Duration",
+    "scheme_name": "Sundaram Short Term FundShort Duration",
     "duration": "11 yrs 5 m",
     "nav": "\u20b947.02",
     "change": "0.05%",
@@ -3473,7 +3473,7 @@
   },
   {
     "scheme_id": "19310",
-    "scheme_name": "360 ONE Dynamic Bond FundDynamic Bond",
+    "scheme_name": "360 ONE Dynamic Term FundDynamic Bond",
     "duration": "10 yrs 5 m",
     "nav": "\u20b924.22",
     "change": "0.02%",
@@ -4065,7 +4065,7 @@
   },
   {
     "scheme_id": "2221",
-    "scheme_name": "Sundaram Low Duration FundLow Duration",
+    "scheme_name": "Sundaram Ultra Short to Short Term FundLow Duration",
     "duration": "11 yrs 9 m",
     "nav": "\u20b93,678.33",
     "change": "0.05%",
@@ -4457,7 +4457,7 @@
   },
   {
     "scheme_id": "1262",
-    "scheme_name": "Franklin India Floating Rate FundFloater",
+    "scheme_name": "Franklin India Floating Interest Rates FundFloater",
     "duration": "11 yrs 4 m",
     "nav": "\u20b943.65",
     "change": "0.04%",
@@ -5001,7 +5001,7 @@
   },
   {
     "scheme_id": "34198",
-    "scheme_name": "Mirae Asset Dynamic Bond FundDynamic Bond",
+    "scheme_name": "Mirae Asset Dynamic Term FundDynamic Bond",
     "duration": "-",
     "nav": "\u20b917.06",
     "change": "0.02%",
@@ -5057,7 +5057,7 @@
   },
   {
     "scheme_id": "20722",
-    "scheme_name": "DSP Banking & PSU Debt FundBanking and PSU",
+    "scheme_name": "DSP Banking and PSU Debt FundBanking and PSU",
     "duration": "10 yrs 4 m",
     "nav": "\u20b925.32",
     "change": "0.01%",
@@ -5081,7 +5081,7 @@
   },
   {
     "scheme_id": "29116",
-    "scheme_name": "DSP Low Duration FundLow Duration",
+    "scheme_name": "DSP Ultra Short to Short Term FundLow Duration",
     "duration": "10 yrs 9 m",
     "nav": "\u20b921.18",
     "change": "0.05%",
@@ -5377,7 +5377,7 @@
   },
   {
     "scheme_id": "2849",
-    "scheme_name": "DSP Liquidity FundLiquid",
+    "scheme_name": "DSP Liquid FundLiquid",
     "duration": "11 yrs 4 m",
     "nav": "\u20b94,000.04",
     "change": "0.02%",
@@ -6041,7 +6041,7 @@
   },
   {
     "scheme_id": "41499",
-    "scheme_name": "Mirae Asset Banking and PSU FundBanking and PSU",
+    "scheme_name": "Mirae Asset Banking and PSU Debt FundBanking and PSU",
     "duration": "-",
     "nav": "\u20b913.64",
     "change": "0.03%",
@@ -6137,7 +6137,7 @@
   },
   {
     "scheme_id": "41605",
-    "scheme_name": "Mirae Asset Ultra Short Duration FundUltra Short Duration",
+    "scheme_name": "Mirae Asset Ultra Short-Term FundUltra Short Duration",
     "duration": "-",
     "nav": "\u20b91,405.42",
     "change": "0.07%",
@@ -6275,9 +6275,9 @@
     "scheme_id": "41695",
     "scheme_name": "Invesco India - Invesco Global Consumer Trends FoFInternational",
     "duration": "2 yrs 9 m",
-    "nav": "\u20b912.49",
-    "change": "-0.23%",
-    "date": "Aug 21, 2026"
+    "nav": "\u20b912.39",
+    "change": "-0.85%",
+    "date": "Aug 24, 2026"
   },
   {
     "scheme_id": "41703",
@@ -6449,7 +6449,7 @@
   },
   {
     "scheme_id": "41822",
-    "scheme_name": "DSP Floater FundFloater",
+    "scheme_name": "DSP Floating Interest Rates FundFloater",
     "duration": "-",
     "nav": "\u20b914.08",
     "change": "0.06%",
@@ -9113,7 +9113,7 @@
   },
   {
     "scheme_id": "44362",
-    "scheme_name": "DSP Multicap FundMulti Cap",
+    "scheme_name": "DSP Multi Cap FundMulti Cap",
     "duration": "-",
     "nav": "\u20b912.46",
     "change": "-0.2%",
@@ -9139,9 +9139,9 @@
     "scheme_id": "44393",
     "scheme_name": "Bandhan Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b914.51",
-    "change": "0.47%",
-    "date": "Aug 21, 2026"
+    "nav": "\u20b914.5",
+    "change": "-0.01%",
+    "date": "Aug 24, 2026"
   },
   {
     "scheme_id": "44389",
@@ -9873,7 +9873,7 @@
   },
   {
     "scheme_id": "44855",
-    "scheme_name": "Franklin India Ultra Short Duration FundUltra Short Duration",
+    "scheme_name": "Franklin India Ultra Short Term FundUltra Short Duration",
     "duration": "-",
     "nav": "\u20b911.38",
     "change": "0.05%",
@@ -9961,7 +9961,7 @@
   },
   {
     "scheme_id": "44892",
-    "scheme_name": "Franklin India Medium to Long Duration FundMedium to Long Duration",
+    "scheme_name": "Franklin India Medium to Long Term FundMedium to Long Duration",
     "duration": "-",
     "nav": "\u20b911.23",
     "change": "0.04%",
@@ -10409,7 +10409,7 @@
   },
   {
     "scheme_id": "45109",
-    "scheme_name": "Mirae Asset Long Duration FundLong Duration",
+    "scheme_name": "Mirae Asset Long Term FundLong Duration",
     "duration": "-",
     "nav": "\u20b910.49",
     "change": "-0.14%",
@@ -10417,7 +10417,7 @@
   },
   {
     "scheme_id": "45121",
-    "scheme_name": "Franklin India Long Duration FundLong Duration",
+    "scheme_name": "Franklin India Long Term FundLong Duration",
     "duration": "-",
     "nav": "\u20b910.85",
     "change": "-0.01%",
@@ -10873,7 +10873,7 @@
   },
   {
     "scheme_id": "45363",
-    "scheme_name": "Franklin India Low Duration FundLow Duration",
+    "scheme_name": "Franklin India Ultra Short to Short Term FundLow Duration",
     "duration": "-",
     "nav": "\u20b911.02",
     "change": "0.05%",
@@ -12547,8 +12547,8 @@
     "scheme_id": "46470",
     "scheme_name": "AlphaGrep Liquid Omni FoFLiquid",
     "duration": "-",
-    "nav": "\u20b91,002.44",
-    "change": "0.01%",
-    "date": "Aug 21, 2026"
+    "nav": "\u20b91,002.92",
+    "change": "0.05%",
+    "date": "Aug 24, 2026"
   }
 ]
