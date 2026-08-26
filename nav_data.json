@@ -25,7 +25,7 @@
   },
   {
     "scheme_id": "8560",
-    "scheme_name": "ICICI Prudential Bond FundMedium to Long Duration",
+    "scheme_name": "ICICI Prudential Medium to Long Term FundMedium to Long Duration",
     "duration": "10 yrs 2 m",
     "nav": "\u20b942.38",
     "change": "0.01%",
@@ -107,9 +107,9 @@
     "scheme_id": "2829",
     "scheme_name": "Franklin India Small Cap FundSmall Cap",
     "duration": "3 yrs 11 m",
-    "nav": "\u20b9180.91",
-    "change": "-0.45%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b9180.82",
+    "change": "-0.05%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "1332",
@@ -139,13 +139,13 @@
     "scheme_id": "2681",
     "scheme_name": "Franklin India Liquid FundLiquid",
     "duration": "11 yrs 3 m",
-    "nav": "\u20b94,219.53",
+    "nav": "\u20b94,220.31",
     "change": "0.02%",
-    "date": "Aug 24, 2026"
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "32360",
-    "scheme_name": "Aditya Birla Sun Life Government Securities FundGilt",
+    "scheme_name": "Aditya Birla Sun Life Gilt FundGilt",
     "duration": "10 yrs 3 m",
     "nav": "\u20b982.18",
     "change": "0.04%",
@@ -233,7 +233,7 @@
   },
   {
     "scheme_id": "1524",
-    "scheme_name": "Aditya Birla Sun Life Savings FundUltra Short Duration",
+    "scheme_name": "Aditya Birla Sun Life Ultra Short Term FundUltra Short Duration",
     "duration": "10 yrs 4 m",
     "nav": "\u20b9589.33",
     "change": "0.04%",
@@ -250,10 +250,10 @@
   {
     "scheme_id": "32785",
     "scheme_name": "Franklin India Gilt FundGilt",
-    "duration": "11 yrs 8 m",
-    "nav": "\u20b961.65",
-    "change": "0.03%",
-    "date": "Aug 24, 2026"
+    "duration": "11 yrs 9 m",
+    "nav": "\u20b961.6",
+    "change": "-0.09%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "8402",
@@ -291,9 +291,9 @@
     "scheme_id": "25667",
     "scheme_name": "Invesco India - Invesco Global Equity Income FoFInternational",
     "duration": "2 yrs 9 m",
-    "nav": "\u20b939.13",
-    "change": "0.48%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b939.15",
+    "change": "0.04%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "32037",
@@ -337,7 +337,7 @@
   },
   {
     "scheme_id": "31865",
-    "scheme_name": "ICICI Prudential Multicap FundMulti Cap",
+    "scheme_name": "ICICI Prudential Multi Cap FundMulti Cap",
     "duration": "4 yrs",
     "nav": "\u20b9876.63",
     "change": "0.26%",
@@ -377,7 +377,7 @@
   },
   {
     "scheme_id": "32212",
-    "scheme_name": "Aditya Birla Sun Life Equity Hybrid '95 FundAggressive Hybrid",
+    "scheme_name": "Aditya Birla Sun Life Aggressive Hybrid FundAggressive Hybrid",
     "duration": "5 yrs 9 m",
     "nav": "\u20b91,571.61",
     "change": "0.32%",
@@ -481,7 +481,7 @@
   },
   {
     "scheme_id": "31889",
-    "scheme_name": "JM Medium to Long Duration FundMedium to Long Duration",
+    "scheme_name": "JM Medium to Long Term FundMedium to Long Duration",
     "duration": "14 yrs 3 m",
     "nav": "\u20b964.68",
     "change": "0.09%",
@@ -515,9 +515,9 @@
     "scheme_id": "10502",
     "scheme_name": "Bandhan Multi-Asset Passive FoFMulti Asset Allocation",
     "duration": "6 yrs 2 m",
-    "nav": "\u20b943.25",
-    "change": "0.2%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b943.23",
+    "change": "-0.05%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "5343",
@@ -691,9 +691,9 @@
     "scheme_id": "32375",
     "scheme_name": "Franklin India Aggressive Hybrid FundAggressive Hybrid",
     "duration": "5 yrs 9 m",
-    "nav": "\u20b9269.34",
-    "change": "-0.23%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b9270.22",
+    "change": "0.33%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "10511",
@@ -705,7 +705,7 @@
   },
   {
     "scheme_id": "25789",
-    "scheme_name": "ICICI Prudential Dividend Yield Equity FundDividend Yield",
+    "scheme_name": "ICICI Prudential Dividend Yield FundDividend Yield",
     "duration": "4 yrs",
     "nav": "\u20b953.19",
     "change": "0.38%",
@@ -899,9 +899,9 @@
     "scheme_id": "13091",
     "scheme_name": "Union ELSS Tax Saver FundELSS",
     "duration": "5 yrs 3 m",
-    "nav": "\u20b966.68",
-    "change": "-0.34%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b966.88",
+    "change": "0.3%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "10392",
@@ -931,9 +931,9 @@
     "scheme_id": "40646",
     "scheme_name": "Edelweiss Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,416.5",
+    "nav": "\u20b91,416.69",
     "change": "0.01%",
-    "date": "Aug 24, 2026"
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "30853",
@@ -1347,9 +1347,9 @@
     "scheme_id": "10271",
     "scheme_name": "Edelweiss Aggressive Hybrid FundAggressive Hybrid",
     "duration": "5 yrs 3 m",
-    "nav": "\u20b965.85",
-    "change": "0%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b966.08",
+    "change": "0.35%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "2778",
@@ -1418,10 +1418,10 @@
   {
     "scheme_id": "31894",
     "scheme_name": "Franklin India Mid Cap FundMid Cap",
-    "duration": "4 yrs",
-    "nav": "\u20b92,874.33",
-    "change": "-0.4%",
-    "date": "Aug 24, 2026"
+    "duration": "3 yrs 4 m",
+    "nav": "\u20b92,888.34",
+    "change": "0.49%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "23454",
@@ -1609,7 +1609,7 @@
   },
   {
     "scheme_id": "32225",
-    "scheme_name": "Aditya Birla Sun Life Low Duration FundLow Duration",
+    "scheme_name": "Aditya Birla Sun Life Ultra Short to Short Term FundLow Duration",
     "duration": "10 yrs 10 m",
     "nav": "\u20b9698.88",
     "change": "0.02%",
@@ -1643,9 +1643,9 @@
     "scheme_id": "26662",
     "scheme_name": "Edelweiss Arbitrage FundArbitrage",
     "duration": "11 yrs 9 m",
-    "nav": "\u20b920.72",
-    "change": "0.04%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b920.71",
+    "change": "-0.03%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "2012",
@@ -1820,8 +1820,8 @@
     "scheme_name": "Bandhan Income Plus Arbitrage Active FoFTax Efficient Income",
     "duration": "10 yrs 4 m",
     "nav": "\u20b946.67",
-    "change": "0.05%",
-    "date": "Aug 24, 2026"
+    "change": "-0.01%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "2249",
@@ -1851,9 +1851,9 @@
     "scheme_id": "32523",
     "scheme_name": "Franklin India Conservative Hybrid FundConservative Hybrid",
     "duration": "10 yrs 1 m",
-    "nav": "\u20b992.97",
-    "change": "-0%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b993.08",
+    "change": "0.12%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "39531",
@@ -1961,7 +1961,7 @@
   },
   {
     "scheme_id": "5453",
-    "scheme_name": "ICICI Prudential Smallcap FundSmall Cap",
+    "scheme_name": "ICICI Prudential Small Cap FundSmall Cap",
     "duration": "4 yrs 2 m",
     "nav": "\u20b991.74",
     "change": "-0.26%",
@@ -1969,7 +1969,7 @@
   },
   {
     "scheme_id": "32369",
-    "scheme_name": "ICICI Prudential Equity & Debt FundAggressive Hybrid",
+    "scheme_name": "ICICI Prudential Aggressive Hybrid FundAggressive Hybrid",
     "duration": "4 yrs 11 m",
     "nav": "\u20b9409.69",
     "change": "0.26%",
@@ -2043,9 +2043,9 @@
     "scheme_id": "10232",
     "scheme_name": "Franklin Build India FundSectoral-Infrastructure",
     "duration": "3 yrs 4 m",
-    "nav": "\u20b9143.36",
-    "change": "-0.25%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b9143.62",
+    "change": "0.18%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "3381",
@@ -2250,10 +2250,10 @@
   {
     "scheme_id": "2420",
     "scheme_name": "Franklin India Large & Mid Cap FundLarge & MidCap",
-    "duration": "5 yrs 4 m",
-    "nav": "\u20b9196.28",
-    "change": "0.19%",
-    "date": "Aug 24, 2026"
+    "duration": "5 yrs 3 m",
+    "nav": "\u20b9197.35",
+    "change": "0.55%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "33990",
@@ -2305,7 +2305,7 @@
   },
   {
     "scheme_id": "1926",
-    "scheme_name": "ICICI Prudential Regular Savings FundConservative Hybrid",
+    "scheme_name": "ICICI Prudential Conservative Hybrid FundConservative Hybrid",
     "duration": "8 yrs 3 m",
     "nav": "\u20b979.37",
     "change": "0.07%",
@@ -2345,7 +2345,7 @@
   },
   {
     "scheme_id": "2276",
-    "scheme_name": "Aditya Birla Sun Life Dynamic Bond FundDynamic Bond",
+    "scheme_name": "Aditya Birla Sun Life Dynamic Term FundDynamic Bond",
     "duration": "11 yrs 2 m",
     "nav": "\u20b949.04",
     "change": "0.03%",
@@ -2435,17 +2435,17 @@
     "scheme_id": "32000",
     "scheme_name": "Templeton India Value FundValue & Contra",
     "duration": "5 yrs 2 m",
-    "nav": "\u20b9694.07",
-    "change": "-0.12%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b9693.05",
+    "change": "-0.15%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "25547",
     "scheme_name": "Franklin India Banking & PSU Debt FundBanking and PSU",
     "duration": "10 yrs 2 m",
     "nav": "\u20b924.06",
-    "change": "0.06%",
-    "date": "Aug 24, 2026"
+    "change": "0.02%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "6034",
@@ -2609,7 +2609,7 @@
   },
   {
     "scheme_id": "31809",
-    "scheme_name": "Aditya Birla Sun Life Income FundMedium to Long Duration",
+    "scheme_name": "Aditya Birla Sun Life Medium to Long Term FundMedium to Long Duration",
     "duration": "10 yrs 5 m",
     "nav": "\u20b9130.17",
     "change": "0.04%",
@@ -2659,9 +2659,9 @@
     "scheme_id": "6190",
     "scheme_name": "Franklin Asian Equity FundInternational",
     "duration": "3 yrs 9 m",
-    "nav": "\u20b945.36",
-    "change": "-1.31%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b945.53",
+    "change": "0.37%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "40489",
@@ -2675,9 +2675,9 @@
     "scheme_id": "10108",
     "scheme_name": "Edelweiss Large Cap FundLarge Cap",
     "duration": "5 yrs 8 m",
-    "nav": "\u20b984.16",
-    "change": "-0.09%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b984.52",
+    "change": "0.43%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "32325",
@@ -2819,9 +2819,9 @@
     "scheme_id": "4948",
     "scheme_name": "Franklin India Focused Equity FundFocused",
     "duration": "5 yrs 4 m",
-    "nav": "\u20b9102.38",
-    "change": "-0.33%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b9102.91",
+    "change": "0.51%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "40307",
@@ -2866,10 +2866,10 @@
   {
     "scheme_id": "10498",
     "scheme_name": "Bandhan Conservative Hybrid Passive FoFConservative Hybrid",
-    "duration": "10 yrs 1 m",
-    "nav": "\u20b935.04",
-    "change": "0.1%",
-    "date": "Aug 24, 2026"
+    "duration": "10 yrs",
+    "nav": "\u20b935.08",
+    "change": "0.11%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "40620",
@@ -2905,7 +2905,7 @@
   },
   {
     "scheme_id": "2833",
-    "scheme_name": "ICICI Prudential Floating Interest FundFloater",
+    "scheme_name": "ICICI Prudential Floating Interest Rates FundFloater",
     "duration": "10 yrs 2 m",
     "nav": "\u20b9455.76",
     "change": "0.03%",
@@ -2952,14 +2952,6 @@
     "date": "Aug 25, 2026"
   },
   {
-    "scheme_id": "23744",
-    "scheme_name": "Edelweiss Government Securities FundGilt",
-    "duration": "10 yrs 4 m",
-    "nav": "\u20b925.02",
-    "change": "0.12%",
-    "date": "Aug 25, 2026"
-  },
-  {
     "scheme_id": "2937",
     "scheme_name": "Bandhan Low Duration FundLow Duration",
     "duration": "10 yrs 9 m",
@@ -2979,9 +2971,9 @@
     "scheme_id": "40359",
     "scheme_name": "Franklin India Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,429.14",
+    "nav": "\u20b91,429.34",
     "change": "0.01%",
-    "date": "Aug 24, 2026"
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "32511",
@@ -3057,7 +3049,7 @@
   },
   {
     "scheme_id": "2052",
-    "scheme_name": "Aditya Birla Sun Life Regular Savings FundConservative Hybrid",
+    "scheme_name": "Aditya Birla Sun Life Conservative Hybrid FundConservative Hybrid",
     "duration": "6 yrs 5 m",
     "nav": "\u20b970.61",
     "change": "0.07%",
@@ -3195,9 +3187,9 @@
     "scheme_id": "1036",
     "scheme_name": "Franklin India Money Market FundMoney Market",
     "duration": "10 yrs 7 m",
-    "nav": "\u20b953.93",
-    "change": "0.06%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b953.96",
+    "change": "0.05%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "6923",
@@ -3369,7 +3361,7 @@
   },
   {
     "scheme_id": "10120",
-    "scheme_name": "ICICI Prudential All Seasons Bond FundDynamic Bond",
+    "scheme_name": "ICICI Prudential Dynamic Term FundDynamic Bond",
     "duration": "9 yrs 10 m",
     "nav": "\u20b939.24",
     "change": "0.03%",
@@ -3427,9 +3419,9 @@
     "scheme_id": "9834",
     "scheme_name": "Edelweiss ELSS Tax Saver FundELSS",
     "duration": "5 yrs 3 m",
-    "nav": "\u20b9117.61",
-    "change": "-0.32%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b9117.98",
+    "change": "0.31%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "39322",
@@ -3483,17 +3475,17 @@
     "scheme_id": "32291",
     "scheme_name": "Franklin India ELSS Tax Saver FundELSS",
     "duration": "5 yrs 3 m",
-    "nav": "\u20b91,442.45",
-    "change": "-0.17%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b91,448.11",
+    "change": "0.39%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "31893",
     "scheme_name": "Franklin India Large Cap FundLarge Cap",
     "duration": "5 yrs 8 m",
-    "nav": "\u20b91,035.07",
-    "change": "-0.06%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b91,040.7",
+    "change": "0.54%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "1325",
@@ -3507,9 +3499,9 @@
     "scheme_id": "5709",
     "scheme_name": "Edelweiss Liquid FundLiquid",
     "duration": "11 yrs 6 m",
-    "nav": "\u20b93,583.57",
+    "nav": "\u20b93,584.26",
     "change": "0.02%",
-    "date": "Aug 24, 2026"
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "32331",
@@ -3523,9 +3515,9 @@
     "scheme_id": "32129",
     "scheme_name": "Franklin India Retirement FundRetirement Solutions",
     "duration": "9 yrs 6 m",
-    "nav": "\u20b9219.68",
-    "change": "-0.06%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b9220.07",
+    "change": "0.18%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "32299",
@@ -3554,10 +3546,10 @@
   {
     "scheme_id": "10269",
     "scheme_name": "Edelweiss Balanced Advantage FundDynamic Asset Allocation",
-    "duration": "5 yrs 10 m",
-    "nav": "\u20b953.74",
-    "change": "0.04%",
-    "date": "Aug 24, 2026"
+    "duration": "5 yrs 9 m",
+    "nav": "\u20b953.92",
+    "change": "0.33%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "3792",
@@ -3571,9 +3563,9 @@
     "scheme_id": "10500",
     "scheme_name": "Bandhan Aggressive Hybrid Passive FoFAggressive Hybrid",
     "duration": "5 yrs 8 m",
-    "nav": "\u20b950.49",
-    "change": "0.08%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b950.67",
+    "change": "0.36%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "10495",
@@ -3593,7 +3585,7 @@
   },
   {
     "scheme_id": "32234",
-    "scheme_name": "ICICI Prudential Long Term Bond FundLong Duration",
+    "scheme_name": "ICICI Prudential Long Term FundLong Duration",
     "duration": "10 yrs 4 m",
     "nav": "\u20b992.68",
     "change": "0.02%",
@@ -3651,9 +3643,9 @@
     "scheme_id": "37746",
     "scheme_name": "Franklin India Equity Savings FundEquity Savings",
     "duration": "-",
-    "nav": "\u20b917.07",
-    "change": "-0.03%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b917.08",
+    "change": "0.08%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "9932",
@@ -3803,9 +3795,9 @@
     "scheme_id": "27746",
     "scheme_name": "Edelweiss Equity Savings FundEquity Savings",
     "duration": "6 yrs 4 m",
-    "nav": "\u20b927.48",
-    "change": "0.19%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b927.52",
+    "change": "0.14%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "2085",
@@ -3819,9 +3811,9 @@
     "scheme_id": "39328",
     "scheme_name": "Edelweiss Small Cap FundSmall Cap",
     "duration": "3 yrs 4 m",
-    "nav": "\u20b948.46",
-    "change": "-0.45%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b948.49",
+    "change": "0.08%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "3066",
@@ -4003,13 +3995,13 @@
     "scheme_id": "32500",
     "scheme_name": "Franklin India NSE Nifty 50 IndexLarge Cap Index",
     "duration": "5 yrs 9 m",
-    "nav": "\u20b9196.49",
-    "change": "-0.14%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b9197.42",
+    "change": "0.47%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "2764",
-    "scheme_name": "Aditya Birla Sun Life Money Manager FundMoney Market",
+    "scheme_name": "Aditya Birla Sun Life Money Market FundMoney Market",
     "duration": "10 yrs 6 m",
     "nav": "\u20b9398.1",
     "change": "0.05%",
@@ -4075,9 +4067,9 @@
     "scheme_id": "26378",
     "scheme_name": "Union Small Cap FundSmall Cap",
     "duration": "3 yrs 3 m",
-    "nav": "\u20b960.23",
-    "change": "-0.28%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b960.17",
+    "change": "-0.1%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "10348",
@@ -4123,9 +4115,9 @@
     "scheme_id": "31895",
     "scheme_name": "Franklin India Flexi Cap FundFlexi Cap",
     "duration": "5 yrs 3 m",
-    "nav": "\u20b91,616.15",
-    "change": "-0.2%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b91,622.05",
+    "change": "0.37%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "35222",
@@ -4177,7 +4169,7 @@
   },
   {
     "scheme_id": "10077",
-    "scheme_name": "ICICI Prudential Focused Equity FundFocused",
+    "scheme_name": "ICICI Prudential Focused FundFocused",
     "duration": "4 yrs",
     "nav": "\u20b996.62",
     "change": "0.67%",
@@ -4313,7 +4305,7 @@
   },
   {
     "scheme_id": "1318",
-    "scheme_name": "ICICI Prudential Multi Asset FundMulti Asset Allocation",
+    "scheme_name": "ICICI Prudential Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "4 yrs 2 m",
     "nav": "\u20b9825.37",
     "change": "0.12%",
@@ -4452,8 +4444,8 @@
     "scheme_name": "Franklin India Floating Interest Rates FundFloater",
     "duration": "11 yrs 4 m",
     "nav": "\u20b943.65",
-    "change": "0.04%",
-    "date": "Aug 24, 2026"
+    "change": "-0.01%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "4991",
@@ -4665,7 +4657,7 @@
   },
   {
     "scheme_id": "27472",
-    "scheme_name": "ICICI Prudential Constant Maturity Gilt FundGilt with 10 year Constant Duration",
+    "scheme_name": "ICICI Prudential 10 year Constant Maturity Gilt FundGilt with 10 year Constant Duration",
     "duration": "9 yrs 5 m",
     "nav": "\u20b926.13",
     "change": "0.11%",
@@ -4721,7 +4713,7 @@
   },
   {
     "scheme_id": "2203",
-    "scheme_name": "ICICI Prudential Medium Term Bond FundMedium Duration",
+    "scheme_name": "ICICI Prudential Medium Term FundMedium Duration",
     "duration": "9 yrs 11 m",
     "nav": "\u20b948.59",
     "change": "0.05%",
@@ -4953,7 +4945,7 @@
   },
   {
     "scheme_id": "37012",
-    "scheme_name": "ICICI Prudential Pharma Healthcare And Diagnostics (P.H.D) FundSectoral-Pharma",
+    "scheme_name": "ICICI Prudential Healthcare FundSectoral-Pharma",
     "duration": "3 yrs 1 m",
     "nav": "\u20b943.51",
     "change": "0.28%",
@@ -5177,7 +5169,7 @@
   },
   {
     "scheme_id": "10486",
-    "scheme_name": "ICICI Prudential Banking & PSU Debt FundBanking and PSU",
+    "scheme_name": "ICICI Prudential Banking and PSU Debt FundBanking and PSU",
     "duration": "10 yrs 1 m",
     "nav": "\u20b934.86",
     "change": "0.02%",
@@ -5425,7 +5417,7 @@
   },
   {
     "scheme_id": "2257",
-    "scheme_name": "ICICI Prudential Midcap FundMid Cap",
+    "scheme_name": "ICICI Prudential Mid Cap FundMid Cap",
     "duration": "3 yrs 2 m",
     "nav": "\u20b9351.09",
     "change": "0.22%",
@@ -5513,7 +5505,7 @@
   },
   {
     "scheme_id": "32328",
-    "scheme_name": "ICICI Prudential ELSS Tax SaverELSS",
+    "scheme_name": "ICICI Prudential ELSS Tax Saver FundELSS",
     "duration": "5 yrs 4 m",
     "nav": "\u20b9949.41",
     "change": "0.34%",
@@ -5561,7 +5553,7 @@
   },
   {
     "scheme_id": "1305",
-    "scheme_name": "ICICI Prudential Savings FundLow Duration",
+    "scheme_name": "ICICI Prudential Ultra Short to Short Term FundLow Duration",
     "duration": "10 yrs 1 m",
     "nav": "\u20b9584.92",
     "change": "0.03%",
@@ -5585,7 +5577,7 @@
   },
   {
     "scheme_id": "40411",
-    "scheme_name": "WhiteOak Capital Ultra Short Duration FundUltra Short Duration",
+    "scheme_name": "WhiteOak Capital Ultra Short Term FundUltra Short Duration",
     "duration": "-",
     "nav": "\u20b91,453.25",
     "change": "0.04%",
@@ -5795,9 +5787,9 @@
     "scheme_id": "40856",
     "scheme_name": "Union Large & Midcap FundLarge & MidCap",
     "duration": "5 yrs 2 m",
-    "nav": "\u20b927.54",
-    "change": "-0.18%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b927.67",
+    "change": "0.47%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "40868",
@@ -6267,9 +6259,9 @@
     "scheme_id": "41695",
     "scheme_name": "Invesco India - Invesco Global Consumer Trends FoFInternational",
     "duration": "2 yrs 9 m",
-    "nav": "\u20b912.39",
-    "change": "-0.85%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b912.3",
+    "change": "-0.68%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "41703",
@@ -6609,7 +6601,7 @@
   },
   {
     "scheme_id": "41991",
-    "scheme_name": "ICICI Prudential Flexicap FundFlexi Cap",
+    "scheme_name": "ICICI Prudential Flexi Cap FundFlexi Cap",
     "duration": "4 yrs 1 m",
     "nav": "\u20b921.14",
     "change": "0.19%",
@@ -7433,7 +7425,7 @@
   },
   {
     "scheme_id": "42780",
-    "scheme_name": "Aditya Birla Sun Life Long Duration FundLong Duration",
+    "scheme_name": "Aditya Birla Sun Life Long Term FundLong Duration",
     "duration": "-",
     "nav": "\u20b913.14",
     "change": "0.06%",
@@ -7563,13 +7555,13 @@
     "scheme_id": "42897",
     "scheme_name": "Franklin India Balanced Advantage FundDynamic Asset Allocation",
     "duration": "-",
-    "nav": "\u20b914.58",
-    "change": "-0.22%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b914.63",
+    "change": "0.35%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "42905",
-    "scheme_name": "JM Short Duration FundShort Duration",
+    "scheme_name": "JM Short Term FundShort Duration",
     "duration": "-",
     "nav": "\u20b912.72",
     "change": "0.04%",
@@ -7939,9 +7931,9 @@
     "scheme_id": "43221",
     "scheme_name": "Union Multicap FundMulti Cap",
     "duration": "-",
-    "nav": "\u20b917.79",
-    "change": "-0.22%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b917.85",
+    "change": "0.34%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "43229",
@@ -8620,8 +8612,8 @@
     "scheme_name": "Edelweiss Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
     "nav": "\u20b912.5",
-    "change": "0.08%",
-    "date": "Aug 24, 2026"
+    "change": "0.01%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "43964",
@@ -8969,7 +8961,7 @@
   },
   {
     "scheme_id": "44228",
-    "scheme_name": "Bajaj Finserv Banking and PSU FundBanking and PSU",
+    "scheme_name": "Bajaj Finserv Banking and PSU Debt FundBanking and PSU",
     "duration": "-",
     "nav": "\u20b912.03",
     "change": "0.04%",
@@ -9131,9 +9123,9 @@
     "scheme_id": "44393",
     "scheme_name": "Bandhan Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b914.5",
-    "change": "-0.01%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b914.51",
+    "change": "0.01%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "44389",
@@ -9299,9 +9291,9 @@
     "scheme_id": "44501",
     "scheme_name": "Union Business Cycle FundEquity Opportunities",
     "duration": "-",
-    "nav": "\u20b911.9",
-    "change": "-0.42%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b911.95",
+    "change": "0.42%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "44505",
@@ -9699,9 +9691,9 @@
     "scheme_id": "44768",
     "scheme_name": "Franklin India Multi Cap FundMulti Cap",
     "duration": "-",
-    "nav": "\u20b911.04",
-    "change": "-0.33%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b911.06",
+    "change": "0.14%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "44772",
@@ -9868,8 +9860,8 @@
     "scheme_name": "Franklin India Ultra Short Term FundUltra Short Duration",
     "duration": "-",
     "nav": "\u20b911.38",
-    "change": "0.05%",
-    "date": "Aug 24, 2026"
+    "change": "0.03%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "44863",
@@ -9956,8 +9948,8 @@
     "scheme_name": "Franklin India Medium to Long Term FundMedium to Long Duration",
     "duration": "-",
     "nav": "\u20b911.23",
-    "change": "0.04%",
-    "date": "Aug 24, 2026"
+    "change": "-0.01%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "44897",
@@ -10307,9 +10299,9 @@
     "scheme_id": "45060",
     "scheme_name": "Franklin India Arbitrage FundArbitrage",
     "duration": "-",
-    "nav": "\u20b911.15",
-    "change": "0.09%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b911.14",
+    "change": "-0.04%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "45073",
@@ -10411,9 +10403,9 @@
     "scheme_id": "45121",
     "scheme_name": "Franklin India Long Term FundLong Duration",
     "duration": "-",
-    "nav": "\u20b910.85",
-    "change": "-0.01%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b910.86",
+    "change": "0.04%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "45125",
@@ -10563,9 +10555,9 @@
     "scheme_id": "45195",
     "scheme_name": "Motilal Oswal Arbitrage FundArbitrage",
     "duration": "-",
-    "nav": "\u20b911.08",
-    "change": "0.07%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b911.07",
+    "change": "-0.05%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "45199",
@@ -10609,7 +10601,7 @@
   },
   {
     "scheme_id": "45209",
-    "scheme_name": "Bajaj Finserv ELSS Tax Saver FundELSS",
+    "scheme_name": "Bajaj Finserv ELSS - Tax Saver FundELSS",
     "duration": "-",
     "nav": "\u20b911.7",
     "change": "0.38%",
@@ -10868,8 +10860,8 @@
     "scheme_name": "Franklin India Ultra Short to Short Term FundLow Duration",
     "duration": "-",
     "nav": "\u20b911.02",
-    "change": "0.05%",
-    "date": "Aug 24, 2026"
+    "change": "-0%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "45367",
@@ -10945,7 +10937,7 @@
   },
   {
     "scheme_id": "45405",
-    "scheme_name": "Edelweiss Low Duration FundLow Duration",
+    "scheme_name": "Edelweiss Ultra Short to Short term FundLow Duration",
     "duration": "-",
     "nav": "\u20b91,089.74",
     "change": "0.02%",
@@ -11427,9 +11419,9 @@
     "scheme_id": "45700",
     "scheme_name": "Franklin India Multi Asset Allocation FundMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b911.26",
-    "change": "0.04%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b911.27",
+    "change": "0.14%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "45709",
@@ -11731,9 +11723,9 @@
     "scheme_id": "45913",
     "scheme_name": "Franklin India Multi-Factor FundQuant",
     "duration": "-",
-    "nav": "\u20b99.56",
-    "change": "-0.2%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b99.6",
+    "change": "0.44%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "45918",
@@ -12089,7 +12081,7 @@
   },
   {
     "scheme_id": "46148",
-    "scheme_name": "Bajaj Finserv Low Duration FundLow Duration",
+    "scheme_name": "Bajaj Finserv Ultra Short to Short Term FundLow Duration",
     "duration": "-",
     "nav": "\u20b91,028.92",
     "change": "0.04%",
@@ -12532,15 +12524,15 @@
     "scheme_name": "Franklin India Short Term FundShort Duration",
     "duration": "-",
     "nav": "\u20b910.01",
-    "change": "0.04%",
-    "date": "Aug 24, 2026"
+    "change": "0.02%",
+    "date": "Aug 25, 2026"
   },
   {
     "scheme_id": "46470",
     "scheme_name": "AlphaGrep Liquid Omni FoFLiquid",
     "duration": "-",
-    "nav": "\u20b91,002.92",
-    "change": "0.05%",
-    "date": "Aug 24, 2026"
+    "nav": "\u20b91,003.11",
+    "change": "0.02%",
+    "date": "Aug 25, 2026"
   }
 ]
