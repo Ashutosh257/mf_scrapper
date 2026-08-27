@@ -945,7 +945,7 @@
   },
   {
     "scheme_id": "7476",
-    "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt FundBanking and PSU",
+    "scheme_name": "Aditya Birla Sun Life Banking and PSU Debt FundBanking and PSU",
     "duration": "10 yrs 1 m",
     "nav": "\u20b9387.63",
     "change": "0.02%",
@@ -1601,7 +1601,7 @@
   },
   {
     "scheme_id": "32556",
-    "scheme_name": "Bandhan Short Duration FundShort Duration",
+    "scheme_name": "Bandhan Short Term FundShort Duration",
     "duration": "10 yrs 5 m",
     "nav": "\u20b961.01",
     "change": "0.03%",
@@ -1705,7 +1705,7 @@
   },
   {
     "scheme_id": "32501",
-    "scheme_name": "Bandhan Medium to Long Duration FundMedium to Long Duration",
+    "scheme_name": "Bandhan Medium to Long Term FundMedium to Long Duration",
     "duration": "11 yrs 1 m",
     "nav": "\u20b967.91",
     "change": "0.03%",
@@ -2953,7 +2953,7 @@
   },
   {
     "scheme_id": "2937",
-    "scheme_name": "Bandhan Low Duration FundLow Duration",
+    "scheme_name": "Bandhan Ultra Short to Short Term FundLow Duration",
     "duration": "10 yrs 9 m",
     "nav": "\u20b941.25",
     "change": "0.04%",
@@ -3057,7 +3057,7 @@
   },
   {
     "scheme_id": "1593",
-    "scheme_name": "Bandhan Medium Duration FundMedium Duration",
+    "scheme_name": "Bandhan Medium Term FundMedium Duration",
     "duration": "10 yrs 11 m",
     "nav": "\u20b948.44",
     "change": "0.04%",
@@ -3881,7 +3881,7 @@
   },
   {
     "scheme_id": "37434",
-    "scheme_name": "Bandhan Ultra Short Duration FundUltra Short Duration",
+    "scheme_name": "Bandhan Ultra Short Term FundUltra Short Duration",
     "duration": "-",
     "nav": "\u20b916.33",
     "change": "0.04%",
@@ -5505,7 +5505,7 @@
   },
   {
     "scheme_id": "32328",
-    "scheme_name": "ICICI Prudential ELSS Tax Saver FundELSS",
+    "scheme_name": "ICICI Prudential ELSS - Tax Saver FundELSS",
     "duration": "5 yrs 4 m",
     "nav": "\u20b9946.92",
     "change": "-0.26%",
@@ -5779,9 +5779,9 @@
     "scheme_id": "40847",
     "scheme_name": "Kotak Pioneer FundThematic-Innovation",
     "duration": "3 yrs 4 m",
-    "nav": "\u20b935.78",
-    "change": "0.33%",
-    "date": "Aug 25, 2026"
+    "nav": "\u20b935.76",
+    "change": "-0.04%",
+    "date": "Aug 26, 2026"
   },
   {
     "scheme_id": "40856",
@@ -6683,13 +6683,13 @@
     "scheme_id": "42061",
     "scheme_name": "Kotak Global Innovation Overseas Equity Active FoFInternational",
     "duration": "2 yrs 9 m",
-    "nav": "\u20b915.21",
-    "change": "0.71%",
-    "date": "Aug 25, 2026"
+    "nav": "\u20b915.24",
+    "change": "0.24%",
+    "date": "Aug 26, 2026"
   },
   {
     "scheme_id": "42070",
-    "scheme_name": "TRUSTMF Short Duration FundShort Duration",
+    "scheme_name": "TRUSTMF Short Term FundShort Duration",
     "duration": "-",
     "nav": "\u20b91,324.68",
     "change": "0.03%",
@@ -7417,7 +7417,7 @@
   },
   {
     "scheme_id": "42784",
-    "scheme_name": "Bandhan Midcap FundMid Cap",
+    "scheme_name": "Bandhan Mid Cap FundMid Cap",
     "duration": "3 yrs 4 m",
     "nav": "\u20b919.51",
     "change": "0.29%",
@@ -9361,7 +9361,7 @@
   },
   {
     "scheme_id": "44547",
-    "scheme_name": "Bandhan Long Duration FundLong Duration",
+    "scheme_name": "Bandhan Long Term FundLong Duration",
     "duration": "-",
     "nav": "\u20b911.37",
     "change": "-0.06%",
