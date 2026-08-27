@@ -617,7 +617,7 @@
   },
   {
     "scheme_id": "9725",
-    "scheme_name": "Bandhan Dynamic Bond FundDynamic Bond",
+    "scheme_name": "Bandhan Dynamic Term FundDynamic Bond",
     "duration": "10 yrs 4 m",
     "nav": "\u20b935.76",
     "change": "0%",
@@ -1001,7 +1001,7 @@
   },
   {
     "scheme_id": "17986",
-    "scheme_name": "Bandhan Banking and PSU FundBanking and PSU",
+    "scheme_name": "Bandhan Banking and PSU Debt FundBanking and PSU",
     "duration": "10 yrs 3 m",
     "nav": "\u20b926.23",
     "change": "0.03%",
@@ -2697,7 +2697,7 @@
   },
   {
     "scheme_id": "9741",
-    "scheme_name": "Bandhan ELSS Tax Saver FundELSS",
+    "scheme_name": "Bandhan ELSS - Tax Saver FundELSS",
     "duration": "5 yrs 3 m",
     "nav": "\u20b9156.21",
     "change": "-0.12%",
@@ -4089,7 +4089,7 @@
   },
   {
     "scheme_id": "1736",
-    "scheme_name": "Kotak Debt Hybrid FundConservative Hybrid",
+    "scheme_name": "Kotak Conservative Hybrid FundConservative Hybrid",
     "duration": "6 yrs 5 m",
     "nav": "\u20b960.12",
     "change": "0.18%",
@@ -4649,7 +4649,7 @@
   },
   {
     "scheme_id": "5367",
-    "scheme_name": "Kotak Global Emerging Market Overseas Equity Omni FoFInternational",
+    "scheme_name": "Kotak Global Emerging Market Overseas Equity Active FoFInternational",
     "duration": "2 yrs 9 m",
     "nav": "\u20b940.08",
     "change": "0.59%",
@@ -4681,7 +4681,7 @@
   },
   {
     "scheme_id": "1095",
-    "scheme_name": "Bandhan Gilt Fund with 10 year Constant Duration FundGilt with 10 year Constant Duration",
+    "scheme_name": "Bandhan 10 year Constant Maturity Gilt FundGilt with 10 year Constant Duration",
     "duration": "9 yrs 2 m",
     "nav": "\u20b948.62",
     "change": "0.11%",
@@ -5947,9 +5947,9 @@
     "scheme_id": "41132",
     "scheme_name": "ICICI Prudential Diversified Equity All Cap Omni FoFEquity FoF",
     "duration": "4 yrs 1 m",
-    "nav": "\u20b932",
-    "change": "0.51%",
-    "date": "Aug 25, 2026"
+    "nav": "\u20b931.99",
+    "change": "-0.06%",
+    "date": "Aug 26, 2026"
   },
   {
     "scheme_id": "41136",
@@ -6265,7 +6265,7 @@
   },
   {
     "scheme_id": "41703",
-    "scheme_name": "Kotak International REIT Overseas Equity Omni FoFInternational",
+    "scheme_name": "Kotak International REIT Overseas Equity Active FoFInternational",
     "duration": "-",
     "nav": "\u20b911.85",
     "change": "-0.2%",
@@ -6361,7 +6361,7 @@
   },
   {
     "scheme_id": "41765",
-    "scheme_name": "Bandhan Floater FundFloater",
+    "scheme_name": "Bandhan Floating Interest Rates FundFloater",
     "duration": "-",
     "nav": "\u20b913.82",
     "change": "0.04%",
@@ -6681,7 +6681,7 @@
   },
   {
     "scheme_id": "42061",
-    "scheme_name": "Kotak Global Innovation Overseas Equity Omni FoFInternational",
+    "scheme_name": "Kotak Global Innovation Overseas Equity Active FoFInternational",
     "duration": "2 yrs 9 m",
     "nav": "\u20b915.21",
     "change": "0.71%",
@@ -6795,9 +6795,9 @@
     "scheme_id": "42181",
     "scheme_name": "HDFC Developed World Overseas Equity Passive FoFInternational",
     "duration": "2 yrs 9 m",
-    "nav": "\u20b921.72",
-    "change": "0.32%",
-    "date": "Aug 25, 2026"
+    "nav": "\u20b921.7",
+    "change": "-0.06%",
+    "date": "Aug 26, 2026"
   },
   {
     "scheme_id": "42191",
@@ -11764,8 +11764,8 @@
     "scheme_name": "Axis Multi-Asset Omni FoFMulti Asset Allocation",
     "duration": "-",
     "nav": "\u20b910.98",
-    "change": "0.1%",
-    "date": "Aug 25, 2026"
+    "change": "0.03%",
+    "date": "Aug 26, 2026"
   },
   {
     "scheme_id": "45947",
@@ -12233,7 +12233,7 @@
   },
   {
     "scheme_id": "46225",
-    "scheme_name": "Kotak Quality Overseas Equity Omni FoFInternational",
+    "scheme_name": "Kotak Quality Overseas Equity Active FoFInternational",
     "duration": "-",
     "nav": "\u20b911.56",
     "change": "-0.26%",
@@ -12268,7 +12268,7 @@
     "scheme_name": "Kotak Multi Asset Active FoFMulti Asset Allocation",
     "duration": "-",
     "nav": "\u20b910.43",
-    "change": "0%",
+    "change": "-0.01%",
     "date": "Aug 26, 2026"
   },
   {
