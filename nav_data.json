@@ -345,7 +345,7 @@
   },
   {
     "scheme_id": "32340",
-    "scheme_name": "Tata Gilt Securities FundGilt",
+    "scheme_name": "Tata Gilt FundGilt",
     "duration": "11 yrs 7 m",
     "nav": "\u20b980.28",
     "change": "-0.18%",
@@ -4777,7 +4777,7 @@
   },
   {
     "scheme_id": "28004",
-    "scheme_name": "Tata ELSS FundELSS",
+    "scheme_name": "Tata ELSS - Tax Saver FundELSS",
     "duration": "5 yrs 3 m",
     "nav": "\u20b947.82",
     "change": "0.07%",
@@ -5884,8 +5884,8 @@
     "scheme_name": "Axis Income Plus Arbitrage Omni FoFTax Efficient Income",
     "duration": "-",
     "nav": "\u20b915.36",
-    "change": "-0.04%",
-    "date": "Aug 27, 2026"
+    "change": "0.02%",
+    "date": "Aug 28, 2026"
   },
   {
     "scheme_id": "40989",
