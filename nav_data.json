@@ -11747,9 +11747,9 @@
     "scheme_id": "45938",
     "scheme_name": "Axis Multi-Asset Omni FoFMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b910.87",
-    "change": "0.63%",
-    "date": "Sep 03, 2026"
+    "nav": "\u20b910.88",
+    "change": "0.1%",
+    "date": "Sep 04, 2026"
   },
   {
     "scheme_id": "45947",
@@ -12605,6 +12605,14 @@
     "duration": "-",
     "nav": "\u20b910.03",
     "change": "0.04%",
+    "date": "Sep 04, 2026"
+  },
+  {
+    "scheme_id": "46566",
+    "scheme_name": "HDFC Gold Silver Passive FoFOthers",
+    "duration": "-",
+    "nav": "\u20b910.17",
+    "change": "0.95%",
     "date": "Sep 04, 2026"
   }
 ]
