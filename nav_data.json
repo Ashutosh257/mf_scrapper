@@ -122,7 +122,7 @@
   {
     "scheme_id": "31882",
     "scheme_name": "Tata Mid Cap FundMid Cap",
-    "duration": "4 yrs 1 m",
+    "duration": "4 yrs 2 m",
     "nav": "\u20b9460.18",
     "change": "-0.04%",
     "date": "Sep 11, 2026"
@@ -338,7 +338,7 @@
   {
     "scheme_id": "31865",
     "scheme_name": "ICICI Prudential Multi Cap FundMulti Cap",
-    "duration": "4 yrs 1 m",
+    "duration": "4 yrs 2 m",
     "nav": "\u20b9851.07",
     "change": "-0.76%",
     "date": "Sep 11, 2026"
@@ -610,7 +610,7 @@
   {
     "scheme_id": "8576",
     "scheme_name": "Quant Flexi Cap FundFlexi Cap",
-    "duration": "4 yrs 1 m",
+    "duration": "4 yrs 2 m",
     "nav": "\u20b9107.52",
     "change": "-0.22%",
     "date": "Sep 11, 2026"
@@ -706,7 +706,7 @@
   {
     "scheme_id": "25789",
     "scheme_name": "ICICI Prudential Dividend Yield FundDividend Yield",
-    "duration": "4 yrs 1 m",
+    "duration": "4 yrs 2 m",
     "nav": "\u20b951.17",
     "change": "-0.33%",
     "date": "Sep 11, 2026"
@@ -842,7 +842,7 @@
   {
     "scheme_id": "34956",
     "scheme_name": "Axis Balanced Advantage FundDynamic Asset Allocation",
-    "duration": "6 yrs 2 m",
+    "duration": "6 yrs 3 m",
     "nav": "\u20b921.25",
     "change": "-0.19%",
     "date": "Sep 11, 2026"
@@ -1546,7 +1546,7 @@
   {
     "scheme_id": "2694",
     "scheme_name": "Kotak Arbitrage FundArbitrage",
-    "duration": "11 yrs 8 m",
+    "duration": "11 yrs 9 m",
     "nav": "\u20b940.14",
     "change": "-0.22%",
     "date": "Sep 11, 2026"
@@ -1618,7 +1618,7 @@
   {
     "scheme_id": "4475",
     "scheme_name": "Invesco India Short Term FundShort Duration",
-    "duration": "11 yrs 1 m",
+    "duration": "11 yrs 2 m",
     "nav": "\u20b93,774.68",
     "change": "-0.11%",
     "date": "Sep 11, 2026"
@@ -1770,7 +1770,7 @@
   {
     "scheme_id": "31977",
     "scheme_name": "SBI ELSS Tax Saver FundELSS",
-    "duration": "4 yrs 1 m",
+    "duration": "4 yrs 2 m",
     "nav": "\u20b9422.76",
     "change": "-0.28%",
     "date": "Sep 11, 2026"
@@ -2114,7 +2114,7 @@
   {
     "scheme_id": "6469",
     "scheme_name": "JM ELSS - Tax Saver FundELSS",
-    "duration": "4 yrs 1 m",
+    "duration": "4 yrs 2 m",
     "nav": "\u20b952.59",
     "change": "-0.17%",
     "date": "Sep 11, 2026"
@@ -2850,7 +2850,7 @@
   {
     "scheme_id": "2606",
     "scheme_name": "Nippon India Money Market FundMoney Market",
-    "duration": "10 yrs 7 m",
+    "duration": "10 yrs 8 m",
     "nav": "\u20b94,480.82",
     "change": "-0.01%",
     "date": "Sep 11, 2026"
@@ -2882,7 +2882,7 @@
   {
     "scheme_id": "1898",
     "scheme_name": "HSBC Flexi Cap FundFlexi Cap",
-    "duration": "4 yrs 1 m",
+    "duration": "4 yrs 2 m",
     "nav": "\u20b9234.24",
     "change": "-0.1%",
     "date": "Sep 11, 2026"
@@ -2898,7 +2898,7 @@
   {
     "scheme_id": "2190",
     "scheme_name": "HDFC Focused FundFocused",
-    "duration": "4 yrs 1 m",
+    "duration": "4 yrs 2 m",
     "nav": "\u20b9229.66",
     "change": "-0.31%",
     "date": "Sep 11, 2026"
@@ -3074,7 +3074,7 @@
   {
     "scheme_id": "28802",
     "scheme_name": "Nippon India Retirement Fund - Income Generation SchemeRetirement Solutions",
-    "duration": "10 yrs 5 m",
+    "duration": "10 yrs 6 m",
     "nav": "\u20b920.23",
     "change": "-0.27%",
     "date": "Sep 11, 2026"
@@ -3090,7 +3090,7 @@
   {
     "scheme_id": "11739",
     "scheme_name": "LIC MF Equity Savings FundEquity Savings",
-    "duration": "10 yrs 5 m",
+    "duration": "10 yrs 6 m",
     "nav": "\u20b928.61",
     "change": "-0.26%",
     "date": "Sep 11, 2026"
@@ -3690,7 +3690,7 @@
   {
     "scheme_id": "1663",
     "scheme_name": "UTI Ultra Short Term FundUltra Short Duration",
-    "duration": "11 yrs 3 m",
+    "duration": "11 yrs 4 m",
     "nav": "\u20b94,549.2",
     "change": "-0.01%",
     "date": "Sep 11, 2026"
@@ -4170,7 +4170,7 @@
   {
     "scheme_id": "10077",
     "scheme_name": "ICICI Prudential Focused FundFocused",
-    "duration": "4 yrs 1 m",
+    "duration": "4 yrs 2 m",
     "nav": "\u20b993.22",
     "change": "-0.22%",
     "date": "Sep 11, 2026"
@@ -4490,7 +4490,7 @@
   {
     "scheme_id": "32629",
     "scheme_name": "Canara Robeco Conservative Hybrid FundConservative Hybrid",
-    "duration": "9 yrs 5 m",
+    "duration": "9 yrs 6 m",
     "nav": "\u20b999.53",
     "change": "-0.15%",
     "date": "Sep 11, 2026"
@@ -4522,7 +4522,7 @@
   {
     "scheme_id": "7531",
     "scheme_name": "Bandhan Equity Savings FundEquity Savings",
-    "duration": "11 yrs 4 m",
+    "duration": "11 yrs 5 m",
     "nav": "\u20b932.39",
     "change": "-0.24%",
     "date": "Sep 11, 2026"
@@ -5266,7 +5266,7 @@
   {
     "scheme_id": "40421",
     "scheme_name": "DSP Quant FundQuant",
-    "duration": "6 yrs 1 m",
+    "duration": "6 yrs 2 m",
     "nav": "\u20b920.74",
     "change": "-0.47%",
     "date": "Sep 11, 2026"
@@ -5779,9 +5779,9 @@
     "scheme_id": "40847",
     "scheme_name": "Kotak Pioneer FundThematic-Innovation",
     "duration": "3 yrs 4 m",
-    "nav": "\u20b935.31",
-    "change": "-0.25%",
-    "date": "Sep 10, 2026"
+    "nav": "\u20b935.32",
+    "change": "0.02%",
+    "date": "Sep 11, 2026"
   },
   {
     "scheme_id": "40856",
@@ -6683,9 +6683,9 @@
     "scheme_id": "42061",
     "scheme_name": "Kotak Global Innovation Overseas Equity Active FoFInternational",
     "duration": "2 yrs 10 m",
-    "nav": "\u20b914.9",
-    "change": "-0.9%",
-    "date": "Sep 10, 2026"
+    "nav": "\u20b915.03",
+    "change": "0.89%",
+    "date": "Sep 11, 2026"
   },
   {
     "scheme_id": "42070",
@@ -7954,7 +7954,7 @@
   {
     "scheme_id": "43241",
     "scheme_name": "Mahindra Manulife Small Cap FundSmall Cap",
-    "duration": "3 yrs 2 m",
+    "duration": "3 yrs 3 m",
     "nav": "\u20b922.92",
     "change": "-0.57%",
     "date": "Sep 11, 2026"
