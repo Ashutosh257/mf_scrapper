@@ -2035,9 +2035,9 @@
     "scheme_id": "1769",
     "scheme_name": "ICICI Prudential Dynamic Asset Allocation Active FoFMulti Asset Allocation",
     "duration": "5 yrs 10 m",
-    "nav": "\u20b9123.82",
-    "change": "0.36%",
-    "date": "Sep 23, 2026"
+    "nav": "\u20b9122.48",
+    "change": "-1.08%",
+    "date": "Sep 24, 2026"
   },
   {
     "scheme_id": "10232",
@@ -3666,10 +3666,10 @@
   {
     "scheme_id": "1771",
     "scheme_name": "ICICI Prudential Aggressive Hybrid Active FoFAggressive Hybrid",
-    "duration": "5 yrs 3 m",
-    "nav": "\u20b9224.51",
-    "change": "0.26%",
-    "date": "Sep 23, 2026"
+    "duration": "5 yrs 4 m",
+    "nav": "\u20b9221.53",
+    "change": "-1.33%",
+    "date": "Sep 24, 2026"
   },
   {
     "scheme_id": "36872",
@@ -5723,9 +5723,9 @@
     "scheme_id": "40753",
     "scheme_name": "ICICI Prudential Global Advantage Fund (FOF)International",
     "duration": "3 yrs 10 m",
-    "nav": "\u20b922.05",
-    "change": "0.01%",
-    "date": "Sep 18, 2026"
+    "nav": "\u20b922.02",
+    "change": "-0.14%",
+    "date": "Sep 24, 2026"
   },
   {
     "scheme_id": "40769",
@@ -5947,9 +5947,9 @@
     "scheme_id": "41132",
     "scheme_name": "ICICI Prudential Diversified Equity All Cap Omni FoFEquity FoF",
     "duration": "4 yrs 3 m",
-    "nav": "\u20b931.27",
-    "change": "0.57%",
-    "date": "Sep 23, 2026"
+    "nav": "\u20b930.75",
+    "change": "-1.65%",
+    "date": "Sep 24, 2026"
   },
   {
     "scheme_id": "41136",
@@ -11723,9 +11723,9 @@
     "scheme_id": "45938",
     "scheme_name": "Axis Multi-Asset Omni FoFMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b910.8",
-    "change": "0.31%",
-    "date": "Sep 23, 2026"
+    "nav": "\u20b910.66",
+    "change": "-1.35%",
+    "date": "Sep 24, 2026"
   },
   {
     "scheme_id": "45947",
@@ -12003,9 +12003,9 @@
     "scheme_id": "46127",
     "scheme_name": "DSP Multi Asset Omni FoFMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b99.92",
-    "change": "-0.1%",
-    "date": "Sep 23, 2026"
+    "nav": "\u20b99.82",
+    "change": "-0.97%",
+    "date": "Sep 24, 2026"
   },
   {
     "scheme_id": "46135",
@@ -12395,9 +12395,9 @@
     "scheme_id": "46365",
     "scheme_name": "ICICI Prudential Multi-Asset Active FoFMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b910.08",
-    "change": "0.28%",
-    "date": "Sep 23, 2026"
+    "nav": "\u20b99.99",
+    "change": "-0.96%",
+    "date": "Sep 24, 2026"
   },
   {
     "scheme_id": "46367",
