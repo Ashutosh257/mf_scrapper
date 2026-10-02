@@ -2875,9 +2875,9 @@
     "scheme_id": "40620",
     "scheme_name": "LIC MF Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,420.11",
+    "nav": "\u20b91,420.3",
     "change": "0.01%",
-    "date": "Oct 01, 2026"
+    "date": "Oct 02, 2026"
   },
   {
     "scheme_id": "1898",
@@ -5275,9 +5275,9 @@
     "scheme_id": "1111",
     "scheme_name": "LIC MF Liquid FundLiquid",
     "duration": "11 yrs 5 m",
-    "nav": "\u20b95,093.9",
-    "change": "0.04%",
-    "date": "Oct 01, 2026"
+    "nav": "\u20b95,094.72",
+    "change": "0.02%",
+    "date": "Oct 02, 2026"
   },
   {
     "scheme_id": "32157",
@@ -6042,10 +6042,10 @@
   {
     "scheme_id": "41540",
     "scheme_name": "Nippon India Multi Asset Allocation FundMulti Asset Allocation",
-    "duration": "4 yrs 3 m",
-    "nav": "\u20b924.32",
-    "change": "-0.04%",
-    "date": "Sep 30, 2026"
+    "duration": "5 yrs 3 m",
+    "nav": "\u20b924.2",
+    "change": "-0.5%",
+    "date": "Oct 01, 2026"
   },
   {
     "scheme_id": "41550",
@@ -6403,17 +6403,17 @@
     "scheme_id": "41801",
     "scheme_name": "Motilal Oswal Multi Asset Passive FoFMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b918.64",
-    "change": "-0.11%",
-    "date": "Sep 30, 2026"
+    "nav": "\u20b918.53",
+    "change": "-0.59%",
+    "date": "Oct 01, 2026"
   },
   {
     "scheme_id": "41803",
     "scheme_name": "Motilal Oswal Asset Allocation Passive FoF - ConservativeMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b917.22",
-    "change": "0.06%",
-    "date": "Sep 30, 2026"
+    "nav": "\u20b917.24",
+    "change": "0.12%",
+    "date": "Oct 01, 2026"
   },
   {
     "scheme_id": "41805",
@@ -11707,9 +11707,9 @@
     "scheme_id": "45938",
     "scheme_name": "Axis Multi-Asset Omni FoFMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b910.51",
-    "change": "0.09%",
-    "date": "Sep 30, 2026"
+    "nav": "\u20b910.46",
+    "change": "-0.5%",
+    "date": "Oct 01, 2026"
   },
   {
     "scheme_id": "45947",
