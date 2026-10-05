@@ -26,7 +26,7 @@
   {
     "scheme_id": "8560",
     "scheme_name": "ICICI Prudential Medium to Long Term FundMedium to Long Duration",
-    "duration": "10 yrs 5 m",
+    "duration": "10 yrs 6 m",
     "nav": "\u20b941.97",
     "change": "-0.11%",
     "date": "Oct 01, 2026"
@@ -130,7 +130,7 @@
   {
     "scheme_id": "39840",
     "scheme_name": "SBI Equity Minimum Variance FundQuant",
-    "duration": "5 yrs 10 m",
+    "duration": "5 yrs 11 m",
     "nav": "\u20b922.24",
     "change": "-1.01%",
     "date": "Oct 01, 2026"
@@ -139,9 +139,9 @@
     "scheme_id": "2681",
     "scheme_name": "Franklin India Liquid FundLiquid",
     "duration": "11 yrs 3 m",
-    "nav": "\u20b94,247.27",
+    "nav": "\u20b94,248.61",
     "change": "0.02%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "32360",
@@ -187,9 +187,9 @@
     "scheme_id": "39224",
     "scheme_name": "DSP Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,471.12",
+    "nav": "\u20b91,471.53",
     "change": "0.01%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "32378",
@@ -258,7 +258,7 @@
   {
     "scheme_id": "8402",
     "scheme_name": "JM Flexi cap FundFlexi Cap",
-    "duration": "4 yrs 2 m",
+    "duration": "4 yrs 3 m",
     "nav": "\u20b995.86",
     "change": "-1.15%",
     "date": "Oct 01, 2026"
@@ -282,7 +282,7 @@
   {
     "scheme_id": "39700",
     "scheme_name": "Mahindra Manulife Large Cap FundLarge Cap",
-    "duration": "5 yrs 10 m",
+    "duration": "5 yrs 11 m",
     "nav": "\u20b920.7",
     "change": "-0.71%",
     "date": "Oct 01, 2026"
@@ -330,10 +330,10 @@
   {
     "scheme_id": "21875",
     "scheme_name": "360 ONE Liquid FundLiquid",
-    "duration": "11 yrs 11 m",
-    "nav": "\u20b92,164.3",
-    "change": "0.04%",
-    "date": "Oct 01, 2026"
+    "duration": "11 yrs 10 m",
+    "nav": "\u20b92,165.43",
+    "change": "0.05%",
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "31865",
@@ -362,7 +362,7 @@
   {
     "scheme_id": "3959",
     "scheme_name": "Sundaram Large and Mid Cap FundLarge & MidCap",
-    "duration": "5 yrs 4 m",
+    "duration": "5 yrs 5 m",
     "nav": "\u20b988.02",
     "change": "-1.41%",
     "date": "Oct 01, 2026"
@@ -387,9 +387,9 @@
     "scheme_id": "40679",
     "scheme_name": "Mahindra Manulife Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,419.72",
+    "nav": "\u20b91,420.1",
     "change": "0.01%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "1768",
@@ -539,9 +539,9 @@
     "scheme_id": "39768",
     "scheme_name": "Axis Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,457.01",
+    "nav": "\u20b91,457.62",
     "change": "0.01%",
-    "date": "Oct 01, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "4874",
@@ -555,9 +555,9 @@
     "scheme_id": "40311",
     "scheme_name": "ITI Liquid FundLiquid",
     "duration": "-",
-    "nav": "\u20b91,463.12",
-    "change": "0.04%",
-    "date": "Oct 01, 2026"
+    "nav": "\u20b91,463.79",
+    "change": "0.02%",
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "39611",
@@ -675,9 +675,9 @@
     "scheme_id": "33119",
     "scheme_name": "Mahindra Manulife Liquid FundLiquid",
     "duration": "-",
-    "nav": "\u20b91,834.58",
+    "nav": "\u20b91,835.16",
     "change": "0.02%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "39306",
@@ -722,7 +722,7 @@
   {
     "scheme_id": "14722",
     "scheme_name": "LIC MF Gold ETF FoFGold",
-    "duration": "2 yrs",
+    "duration": "2 yrs 1 m",
     "nav": "\u20b937.79",
     "change": "-0.08%",
     "date": "Oct 01, 2026"
@@ -746,7 +746,7 @@
   {
     "scheme_id": "32407",
     "scheme_name": "UTI ELSS Tax Saver FundELSS",
-    "duration": "5 yrs 10 m",
+    "duration": "5 yrs 11 m",
     "nav": "\u20b9189.14",
     "change": "-0.75%",
     "date": "Oct 01, 2026"
@@ -762,7 +762,7 @@
   {
     "scheme_id": "30849",
     "scheme_name": "Tata India Pharma & HealthCare FundSectoral-Pharma",
-    "duration": "3 yrs 5 m",
+    "duration": "3 yrs 6 m",
     "nav": "\u20b932.16",
     "change": "-0.64%",
     "date": "Oct 01, 2026"
@@ -810,7 +810,7 @@
   {
     "scheme_id": "4678",
     "scheme_name": "Edelweiss Large & Mid Cap FundLarge & MidCap",
-    "duration": "5 yrs 4 m",
+    "duration": "5 yrs 5 m",
     "nav": "\u20b985.23",
     "change": "-0.79%",
     "date": "Oct 01, 2026"
@@ -875,9 +875,9 @@
     "scheme_id": "39120",
     "scheme_name": "WhiteOak Capital Liquid FundLiquid",
     "duration": "-",
-    "nav": "\u20b91,514.21",
-    "change": "0.04%",
-    "date": "Oct 01, 2026"
+    "nav": "\u20b91,514.92",
+    "change": "0.05%",
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "32674",
@@ -915,9 +915,9 @@
     "scheme_id": "1290",
     "scheme_name": "SBI Overnight FundOvernight",
     "duration": "12 yrs 4 m",
-    "nav": "\u20b94,430.63",
+    "nav": "\u20b94,432.49",
     "change": "0.01%",
-    "date": "Oct 01, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "2151",
@@ -931,9 +931,9 @@
     "scheme_id": "40646",
     "scheme_name": "Edelweiss Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,423.6",
+    "nav": "\u20b91,424.19",
     "change": "0.01%",
-    "date": "Oct 01, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "30853",
@@ -955,14 +955,14 @@
     "scheme_id": "40293",
     "scheme_name": "Baroda BNP Paribas Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,444.37",
+    "nav": "\u20b91,444.98",
     "change": "0.01%",
-    "date": "Oct 01, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "34573",
     "scheme_name": "Union Largecap FundLarge Cap",
-    "duration": "5 yrs 11 m",
+    "duration": "6 yrs",
     "nav": "\u20b921.73",
     "change": "-0.73%",
     "date": "Oct 01, 2026"
@@ -1018,7 +1018,7 @@
   {
     "scheme_id": "31270",
     "scheme_name": "HDFC Retirement Fund - Hybrid Equity PlanRetirement Solutions",
-    "duration": "5 yrs 10 m",
+    "duration": "5 yrs 11 m",
     "nav": "\u20b935.57",
     "change": "-0.55%",
     "date": "Oct 01, 2026"
@@ -1066,7 +1066,7 @@
   {
     "scheme_id": "31276",
     "scheme_name": "HDFC Retirement Fund - Equity PlanRetirement Solutions",
-    "duration": "5 yrs 4 m",
+    "duration": "5 yrs 5 m",
     "nav": "\u20b946.19",
     "change": "-0.62%",
     "date": "Oct 01, 2026"
@@ -1075,9 +1075,9 @@
     "scheme_id": "40395",
     "scheme_name": "HSBC Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,433.39",
+    "nav": "\u20b91,433.79",
     "change": "0.01%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "39062",
@@ -1267,9 +1267,9 @@
     "scheme_id": "40138",
     "scheme_name": "Union Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,443.87",
+    "nav": "\u20b91,444.27",
     "change": "0.01%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "20542",
@@ -1283,14 +1283,14 @@
     "scheme_id": "34459",
     "scheme_name": "Quantum Liquid FundLiquid",
     "duration": "-",
-    "nav": "\u20b937.53",
+    "nav": "\u20b937.54",
     "change": "0.02%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "3087",
     "scheme_name": "Franklin India Dividend Yield FundDividend Yield",
-    "duration": "5 yrs 4 m",
+    "duration": "5 yrs 5 m",
     "nav": "\u20b9130.21",
     "change": "-0.7%",
     "date": "Oct 01, 2026"
@@ -1395,9 +1395,9 @@
     "scheme_id": "1992",
     "scheme_name": "Aditya Birla Sun Life Liquid FundLiquid",
     "duration": "11 yrs 4 m",
-    "nav": "\u20b9454.29",
-    "change": "0.04%",
-    "date": "Oct 01, 2026"
+    "nav": "\u20b9454.51",
+    "change": "0.02%",
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "27185",
@@ -1418,7 +1418,7 @@
   {
     "scheme_id": "31894",
     "scheme_name": "Franklin India Mid Cap FundMid Cap",
-    "duration": "4 yrs 2 m",
+    "duration": "4 yrs 3 m",
     "nav": "\u20b92,645.15",
     "change": "-1.11%",
     "date": "Oct 01, 2026"
@@ -1627,9 +1627,9 @@
     "scheme_id": "2836",
     "scheme_name": "ICICI Prudential Liquid FundLiquid",
     "duration": "11 yrs 4 m",
-    "nav": "\u20b9417.07",
-    "change": "0.04%",
-    "date": "Oct 01, 2026"
+    "nav": "\u20b9417.27",
+    "change": "0.02%",
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "32185",
@@ -1691,9 +1691,9 @@
     "scheme_id": "40628",
     "scheme_name": "Canara Robeco Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,424.66",
+    "nav": "\u20b91,425.05",
     "change": "0.01%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "39294",
@@ -1738,7 +1738,7 @@
   {
     "scheme_id": "1328",
     "scheme_name": "HSBC Large Cap FundLarge Cap",
-    "duration": "5 yrs 10 m",
+    "duration": "5 yrs 11 m",
     "nav": "\u20b9455.07",
     "change": "-0.61%",
     "date": "Oct 01, 2026"
@@ -1818,7 +1818,7 @@
   {
     "scheme_id": "2182",
     "scheme_name": "Bandhan Income Plus Arbitrage Active FoFTax Efficient Income",
-    "duration": "10 yrs 5 m",
+    "duration": "10 yrs 6 m",
     "nav": "\u20b946.81",
     "change": "-0%",
     "date": "Oct 01, 2026"
@@ -1827,14 +1827,14 @@
     "scheme_id": "2249",
     "scheme_name": "Sundaram Liquid FundLiquid",
     "duration": "11 yrs 6 m",
-    "nav": "\u20b92,484.66",
+    "nav": "\u20b92,485.42",
     "change": "0.02%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "1292",
     "scheme_name": "Aditya Birla Sun Life Nifty 50 Index FundLarge Cap Index",
-    "duration": "5 yrs 11 m",
+    "duration": "6 yrs",
     "nav": "\u20b9228.44",
     "change": "-0.88%",
     "date": "Oct 01, 2026"
@@ -1914,7 +1914,7 @@
   {
     "scheme_id": "32554",
     "scheme_name": "SBI Gilt FundGilt",
-    "duration": "10 yrs 1 m",
+    "duration": "10 yrs 2 m",
     "nav": "\u20b968.21",
     "change": "-0.08%",
     "date": "Oct 01, 2026"
@@ -1930,7 +1930,7 @@
   {
     "scheme_id": "30101",
     "scheme_name": "Mirae Asset Aggressive Hybrid FundAggressive Hybrid",
-    "duration": "5 yrs 10 m",
+    "duration": "5 yrs 11 m",
     "nav": "\u20b932.17",
     "change": "-0.67%",
     "date": "Oct 01, 2026"
@@ -1954,10 +1954,10 @@
   {
     "scheme_id": "3699",
     "scheme_name": "Invesco India Liquid FundLiquid",
-    "duration": "11 yrs 5 m",
-    "nav": "\u20b93,875.19",
-    "change": "0.04%",
-    "date": "Oct 01, 2026"
+    "duration": "11 yrs 4 m",
+    "nav": "\u20b93,877.05",
+    "change": "0.02%",
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "5453",
@@ -2074,7 +2074,7 @@
   {
     "scheme_id": "4085",
     "scheme_name": "Invesco India Contra FundValue & Contra",
-    "duration": "5 yrs 4 m",
+    "duration": "5 yrs 5 m",
     "nav": "\u20b9127.54",
     "change": "-0.87%",
     "date": "Oct 01, 2026"
@@ -2083,9 +2083,9 @@
     "scheme_id": "38993",
     "scheme_name": "Motilal Oswal Liquid FundLiquid",
     "duration": "-",
-    "nav": "\u20b914.81",
-    "change": "0.03%",
-    "date": "Oct 01, 2026"
+    "nav": "\u20b914.82",
+    "change": "0.04%",
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "1761",
@@ -2114,7 +2114,7 @@
   {
     "scheme_id": "6469",
     "scheme_name": "JM ELSS - Tax Saver FundELSS",
-    "duration": "4 yrs 2 m",
+    "duration": "4 yrs 3 m",
     "nav": "\u20b950.38",
     "change": "-1.35%",
     "date": "Oct 01, 2026"
@@ -2147,14 +2147,14 @@
     "scheme_id": "5608",
     "scheme_name": "PGIM India Liquid FundLiquid",
     "duration": "11 yrs 4 m",
-    "nav": "\u20b9367.04",
+    "nav": "\u20b9367.15",
     "change": "0.02%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "12963",
     "scheme_name": "Axis Gold FundGold",
-    "duration": "2 yrs",
+    "duration": "2 yrs 1 m",
     "nav": "\u20b942.41",
     "change": "-0.1%",
     "date": "Oct 01, 2026"
@@ -2371,9 +2371,9 @@
     "scheme_id": "2260",
     "scheme_name": "Tata Liquid FundLiquid",
     "duration": "11 yrs 4 m",
-    "nav": "\u20b94,438.9",
+    "nav": "\u20b94,440.34",
     "change": "0.02%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "13469",
@@ -2395,9 +2395,9 @@
     "scheme_id": "1808",
     "scheme_name": "UTI Overnight FundOvernight",
     "duration": "12 yrs 2 m",
-    "nav": "\u20b93,738.94",
+    "nav": "\u20b93,740.49",
     "change": "0.01%",
-    "date": "Oct 01, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "10234",
@@ -2418,7 +2418,7 @@
   {
     "scheme_id": "2118",
     "scheme_name": "SBI Money Market FundMoney Market",
-    "duration": "11 yrs 1 m",
+    "duration": "11 yrs 2 m",
     "nav": "\u20b944.67",
     "change": "0.03%",
     "date": "Oct 01, 2026"
@@ -2442,7 +2442,7 @@
   {
     "scheme_id": "25547",
     "scheme_name": "Franklin India Banking & PSU Debt FundBanking and PSU",
-    "duration": "10 yrs 2 m",
+    "duration": "10 yrs 3 m",
     "nav": "\u20b924.16",
     "change": "0.09%",
     "date": "Oct 01, 2026"
@@ -2483,9 +2483,9 @@
     "scheme_id": "8134",
     "scheme_name": "Bank of India Liquid FundLiquid",
     "duration": "11 yrs 4 m",
-    "nav": "\u20b93,249.02",
+    "nav": "\u20b93,250.09",
     "change": "0.02%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "10833",
@@ -2578,7 +2578,7 @@
   {
     "scheme_id": "36421",
     "scheme_name": "Navi Aggressive Hybrid FundAggressive Hybrid",
-    "duration": "5 yrs 10 m",
+    "duration": "5 yrs 11 m",
     "nav": "\u20b921.69",
     "change": "-0.81%",
     "date": "Oct 01, 2026"
@@ -2595,9 +2595,9 @@
     "scheme_id": "1801",
     "scheme_name": "UTI Liquid FundLiquid",
     "duration": "11 yrs 4 m",
-    "nav": "\u20b9462.49",
-    "change": "0.04%",
-    "date": "Oct 01, 2026"
+    "nav": "\u20b9462.71",
+    "change": "0.02%",
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "32298",
@@ -2690,7 +2690,7 @@
   {
     "scheme_id": "2360",
     "scheme_name": "Tata Infrastructure FundSectoral-Infrastructure",
-    "duration": "4 yrs 2 m",
+    "duration": "4 yrs 3 m",
     "nav": "\u20b9173.48",
     "change": "-1.28%",
     "date": "Oct 01, 2026"
@@ -2763,9 +2763,9 @@
     "scheme_id": "38732",
     "scheme_name": "ICICI Prudential Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,479.26",
+    "nav": "\u20b91,479.86",
     "change": "0.01%",
-    "date": "Oct 01, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "39539",
@@ -2786,7 +2786,7 @@
   {
     "scheme_id": "39633",
     "scheme_name": "Nippon India Nifty Next 50 Junior BeES FoFLarge Cap Index",
-    "duration": "5 yrs 4 m",
+    "duration": "5 yrs 5 m",
     "nav": "\u20b925.66",
     "change": "-1.16%",
     "date": "Oct 01, 2026"
@@ -2859,9 +2859,9 @@
     "scheme_id": "4471",
     "scheme_name": "SBI Liquid FundLiquid",
     "duration": "11 yrs 5 m",
-    "nav": "\u20b94,403.64",
-    "change": "0.03%",
-    "date": "Oct 01, 2026"
+    "nav": "\u20b94,405.69",
+    "change": "0.02%",
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "10498",
@@ -2875,9 +2875,9 @@
     "scheme_id": "40620",
     "scheme_name": "LIC MF Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,420.3",
+    "nav": "\u20b91,420.69",
     "change": "0.01%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "1898",
@@ -2971,9 +2971,9 @@
     "scheme_id": "40359",
     "scheme_name": "Franklin India Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,436.58",
+    "nav": "\u20b91,436.99",
     "change": "0.01%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "32511",
@@ -3035,9 +3035,9 @@
     "scheme_id": "12508",
     "scheme_name": "Union Liquid FundLiquid",
     "duration": "11 yrs 10 m",
-    "nav": "\u20b92,712.56",
+    "nav": "\u20b92,713.43",
     "change": "0.02%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "5703",
@@ -3146,7 +3146,7 @@
   {
     "scheme_id": "5689",
     "scheme_name": "Invesco India Infrastructure FundSectoral-Infrastructure",
-    "duration": "3 yrs 5 m",
+    "duration": "3 yrs 6 m",
     "nav": "\u20b965.28",
     "change": "-0.65%",
     "date": "Oct 01, 2026"
@@ -3171,9 +3171,9 @@
     "scheme_id": "36493",
     "scheme_name": "Parag Parikh Liquid FundLiquid",
     "duration": "-",
-    "nav": "\u20b91,562.53",
+    "nav": "\u20b91,563.03",
     "change": "0.02%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "34867",
@@ -3194,7 +3194,7 @@
   {
     "scheme_id": "6923",
     "scheme_name": "Mirae Asset Ultra Short to Short Term FundLow Duration",
-    "duration": "11 yrs 9 m",
+    "duration": "11 yrs 10 m",
     "nav": "\u20b92,424.97",
     "change": "0.04%",
     "date": "Oct 01, 2026"
@@ -3250,7 +3250,7 @@
   {
     "scheme_id": "34328",
     "scheme_name": "Baroda BNP Paribas Aggressive Hybrid FundAggressive Hybrid",
-    "duration": "5 yrs 10 m",
+    "duration": "5 yrs 11 m",
     "nav": "\u20b926.84",
     "change": "-0.51%",
     "date": "Oct 01, 2026"
@@ -3306,7 +3306,7 @@
   {
     "scheme_id": "1016",
     "scheme_name": "SBI Nifty Index FundLarge Cap Index",
-    "duration": "5 yrs 11 m",
+    "duration": "6 yrs",
     "nav": "\u20b9199.51",
     "change": "-0.88%",
     "date": "Oct 01, 2026"
@@ -3427,9 +3427,9 @@
     "scheme_id": "39322",
     "scheme_name": "Kotak Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,463.96",
+    "nav": "\u20b91,464.36",
     "change": "0.01%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "39932",
@@ -3459,14 +3459,14 @@
     "scheme_id": "10388",
     "scheme_name": "Axis Liquid FundLiquid",
     "duration": "11 yrs 4 m",
-    "nav": "\u20b93,140.73",
-    "change": "0.04%",
-    "date": "Oct 01, 2026"
+    "nav": "\u20b93,142.22",
+    "change": "0.02%",
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "19310",
     "scheme_name": "360 ONE Dynamic Term FundDynamic Bond",
-    "duration": "10 yrs 6 m",
+    "duration": "10 yrs 7 m",
     "nav": "\u20b924.04",
     "change": "-0.17%",
     "date": "Oct 01, 2026"
@@ -3499,9 +3499,9 @@
     "scheme_id": "5709",
     "scheme_name": "Edelweiss Liquid FundLiquid",
     "duration": "11 yrs 6 m",
-    "nav": "\u20b93,606.81",
-    "change": "0.04%",
-    "date": "Oct 01, 2026"
+    "nav": "\u20b93,608.58",
+    "change": "0.02%",
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "32331",
@@ -3635,9 +3635,9 @@
     "scheme_id": "8076",
     "scheme_name": "Canara Robeco Liquid FundLiquid",
     "duration": "11 yrs 6 m",
-    "nav": "\u20b93,392.73",
+    "nav": "\u20b93,393.82",
     "change": "0.02%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "37746",
@@ -3651,17 +3651,17 @@
     "scheme_id": "9932",
     "scheme_name": "Baroda BNP Paribas Liquid FundLiquid",
     "duration": "11 yrs 4 m",
-    "nav": "\u20b93,238.59",
-    "change": "0.04%",
-    "date": "Oct 01, 2026"
+    "nav": "\u20b93,240.15",
+    "change": "0.02%",
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "32544",
     "scheme_name": "HDFC Liquid FundLiquid",
     "duration": "11 yrs 5 m",
-    "nav": "\u20b95,529.99",
+    "nav": "\u20b95,531.74",
     "change": "0.02%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "1771",
@@ -3683,9 +3683,9 @@
     "scheme_id": "1745",
     "scheme_name": "Kotak Liquid FundLiquid",
     "duration": "11 yrs 5 m",
-    "nav": "\u20b95,695.27",
+    "nav": "\u20b95,697.09",
     "change": "0.02%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "1663",
@@ -3746,7 +3746,7 @@
   {
     "scheme_id": "10960",
     "scheme_name": "Canara Robeco Large Cap FundLarge Cap",
-    "duration": "5 yrs 10 m",
+    "duration": "5 yrs 11 m",
     "nav": "\u20b957.85",
     "change": "-0.89%",
     "date": "Oct 01, 2026"
@@ -3979,22 +3979,22 @@
     "scheme_id": "1054",
     "scheme_name": "HDFC Overnight FundOvernight",
     "duration": "12 yrs 6 m",
-    "nav": "\u20b94,051.8",
+    "nav": "\u20b94,052.89",
     "change": "0.01%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "6082",
     "scheme_name": "Aditya Birla Sun Life Global Excellence Equity FoFInternational",
     "duration": "3 yrs 6 m",
-    "nav": "\u20b944.09",
-    "change": "-0.61%",
-    "date": "Sep 30, 2026"
+    "nav": "\u20b944.25",
+    "change": "0.36%",
+    "date": "Oct 01, 2026"
   },
   {
     "scheme_id": "32500",
     "scheme_name": "Franklin India NSE Nifty 50 IndexLarge Cap Index",
-    "duration": "5 yrs 11 m",
+    "duration": "6 yrs",
     "nav": "\u20b9181.95",
     "change": "-0.87%",
     "date": "Oct 01, 2026"
@@ -4058,7 +4058,7 @@
   {
     "scheme_id": "2221",
     "scheme_name": "Sundaram Ultra Short to Short Term FundLow Duration",
-    "duration": "11 yrs 9 m",
+    "duration": "11 yrs 10 m",
     "nav": "\u20b93,697.48",
     "change": "0.02%",
     "date": "Oct 01, 2026"
@@ -4146,7 +4146,7 @@
   {
     "scheme_id": "12980",
     "scheme_name": "HDFC Gold ETF Fund of FundGold",
-    "duration": "2 yrs",
+    "duration": "2 yrs 1 m",
     "nav": "\u20b943.61",
     "change": "-0.14%",
     "date": "Oct 01, 2026"
@@ -4162,7 +4162,7 @@
   {
     "scheme_id": "40299",
     "scheme_name": "Mirae Asset Focused FundFocused",
-    "duration": "5 yrs 11 m",
+    "duration": "6 yrs",
     "nav": "\u20b924.2",
     "change": "-0.6%",
     "date": "Oct 01, 2026"
@@ -4194,7 +4194,7 @@
   {
     "scheme_id": "2292",
     "scheme_name": "Nippon India Consumption FundThematic-Consumption",
-    "duration": "5 yrs 4 m",
+    "duration": "5 yrs 5 m",
     "nav": "\u20b9178.81",
     "change": "-1.77%",
     "date": "Oct 01, 2026"
@@ -4227,9 +4227,9 @@
     "scheme_id": "39017",
     "scheme_name": "Nippon India Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b9147.38",
+    "nav": "\u20b9147.44",
     "change": "0.01%",
-    "date": "Oct 01, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "27070",
@@ -4339,9 +4339,9 @@
     "scheme_id": "9859",
     "scheme_name": "Mirae Asset Liquid FundLiquid",
     "duration": "11 yrs 6 m",
-    "nav": "\u20b92,953.27",
-    "change": "0.04%",
-    "date": "Oct 01, 2026"
+    "nav": "\u20b92,954.71",
+    "change": "0.02%",
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "29210",
@@ -4418,7 +4418,7 @@
   {
     "scheme_id": "10787",
     "scheme_name": "Bandhan Nifty 50 Index FundLarge Cap Index",
-    "duration": "5 yrs 11 m",
+    "duration": "6 yrs",
     "nav": "\u20b948.5",
     "change": "-0.88%",
     "date": "Oct 01, 2026"
@@ -4515,9 +4515,9 @@
     "scheme_id": "38610",
     "scheme_name": "Aditya Birla Sun Life Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,480.82",
+    "nav": "\u20b91,481.42",
     "change": "0.01%",
-    "date": "Oct 01, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "7531",
@@ -4570,7 +4570,7 @@
   {
     "scheme_id": "10771",
     "scheme_name": "PGIM India Global Equity Opportunities FoFInternational",
-    "duration": "3 yrs 8 m",
+    "duration": "3 yrs 9 m",
     "nav": "\u20b949.93",
     "change": "0.18%",
     "date": "Oct 01, 2026"
@@ -4619,9 +4619,9 @@
     "scheme_id": "32194",
     "scheme_name": "JM Liquid FundLiquid",
     "duration": "11 yrs 5 m",
-    "nav": "\u20b976.82",
+    "nav": "\u20b976.84",
     "change": "0.02%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "10358",
@@ -4643,9 +4643,9 @@
     "scheme_id": "2016",
     "scheme_name": "Bandhan Liquid FundLiquid",
     "duration": "11 yrs 6 m",
-    "nav": "\u20b93,401.21",
-    "change": "0.04%",
-    "date": "Oct 01, 2026"
+    "nav": "\u20b93,402.81",
+    "change": "0.02%",
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "5367",
@@ -4682,7 +4682,7 @@
   {
     "scheme_id": "1095",
     "scheme_name": "Bandhan 10 year Constant Maturity Gilt FundGilt with 10 year Constant Duration",
-    "duration": "9 yrs 4 m",
+    "duration": "9 yrs 5 m",
     "nav": "\u20b947.78",
     "change": "-0.16%",
     "date": "Oct 01, 2026"
@@ -4707,9 +4707,9 @@
     "scheme_id": "39312",
     "scheme_name": "Bandhan Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,461.42",
+    "nav": "\u20b91,462.01",
     "change": "0.01%",
-    "date": "Oct 01, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "2203",
@@ -4755,9 +4755,9 @@
     "scheme_id": "40710",
     "scheme_name": "PGIM India Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,417.37",
+    "nav": "\u20b91,417.74",
     "change": "0.01%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "36562",
@@ -4803,9 +4803,9 @@
     "scheme_id": "2751",
     "scheme_name": "Quant Liquid FundLiquid",
     "duration": "11 yrs 3 m",
-    "nav": "\u20b944.29",
-    "change": "0.02%",
-    "date": "Oct 01, 2026"
+    "nav": "\u20b944.31",
+    "change": "0.04%",
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "1546",
@@ -4818,7 +4818,7 @@
   {
     "scheme_id": "10236",
     "scheme_name": "Edelweiss Greater China Equity Offshore FundInternational",
-    "duration": "2 yrs 1 m",
+    "duration": "2 yrs 2 m",
     "nav": "\u20b963.09",
     "change": "0.27%",
     "date": "Sep 30, 2026"
@@ -4898,7 +4898,7 @@
   {
     "scheme_id": "40722",
     "scheme_name": "Motilal Oswal Nifty Bank Index FundSectoral-Banking",
-    "duration": "5 yrs 10 m",
+    "duration": "5 yrs 11 m",
     "nav": "\u20b919.26",
     "change": "-0.34%",
     "date": "Oct 01, 2026"
@@ -4954,7 +4954,7 @@
   {
     "scheme_id": "32478",
     "scheme_name": "HSBC Gilt FundGilt",
-    "duration": "11 yrs 9 m",
+    "duration": "11 yrs 10 m",
     "nav": "\u20b966.36",
     "change": "-0.03%",
     "date": "Oct 01, 2026"
@@ -5003,9 +5003,9 @@
     "scheme_id": "40114",
     "scheme_name": "Tata Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,446.5",
+    "nav": "\u20b91,446.9",
     "change": "0.01%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "10831",
@@ -5035,9 +5035,9 @@
     "scheme_id": "10572",
     "scheme_name": "Navi Liquid FundLiquid",
     "duration": "11 yrs 7 m",
-    "nav": "\u20b930.43",
+    "nav": "\u20b930.44",
     "change": "0.02%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "20722",
@@ -5074,7 +5074,7 @@
   {
     "scheme_id": "5667",
     "scheme_name": "HSBC Banking and PSU Debt FundBanking and PSU",
-    "duration": "10 yrs 10 m",
+    "duration": "10 yrs 11 m",
     "nav": "\u20b925.72",
     "change": "0%",
     "date": "Oct 01, 2026"
@@ -5115,9 +5115,9 @@
     "scheme_id": "2069",
     "scheme_name": "HSBC Liquid FundLiquid",
     "duration": "11 yrs 5 m",
-    "nav": "\u20b92,810.08",
+    "nav": "\u20b92,810.99",
     "change": "0.02%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "28262",
@@ -5146,7 +5146,7 @@
   {
     "scheme_id": "2166",
     "scheme_name": "Baroda BNP Paribas Dynamic Term FundDynamic Bond",
-    "duration": "11 yrs 9 m",
+    "duration": "11 yrs 10 m",
     "nav": "\u20b946.42",
     "change": "-0.07%",
     "date": "Oct 01, 2026"
@@ -5275,9 +5275,9 @@
     "scheme_id": "1111",
     "scheme_name": "LIC MF Liquid FundLiquid",
     "duration": "11 yrs 5 m",
-    "nav": "\u20b95,094.72",
+    "nav": "\u20b95,096.36",
     "change": "0.02%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "32157",
@@ -5314,7 +5314,7 @@
   {
     "scheme_id": "31854",
     "scheme_name": "Canara Robeco Aggressive Hybrid FundAggressive Hybrid",
-    "duration": "5 yrs 11 m",
+    "duration": "6 yrs",
     "nav": "\u20b9351.76",
     "change": "-0.73%",
     "date": "Oct 01, 2026"
@@ -5363,9 +5363,9 @@
     "scheme_id": "2849",
     "scheme_name": "DSP Liquid FundLiquid",
     "duration": "11 yrs 5 m",
-    "nav": "\u20b94,026.26",
+    "nav": "\u20b94,027.54",
     "change": "0.02%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "1765",
@@ -5458,7 +5458,7 @@
   {
     "scheme_id": "2770",
     "scheme_name": "Canara Robeco Infrastructure FundSectoral-Infrastructure",
-    "duration": "4 yrs 1 m",
+    "duration": "4 yrs 2 m",
     "nav": "\u20b9158.19",
     "change": "-1.04%",
     "date": "Oct 01, 2026"
@@ -5466,7 +5466,7 @@
   {
     "scheme_id": "40483",
     "scheme_name": "Aditya Birla Sun Life Pharma & Healthcare FundSectoral-Pharma",
-    "duration": "3 yrs 3 m",
+    "duration": "3 yrs 4 m",
     "nav": "\u20b935.52",
     "change": "-0.28%",
     "date": "Oct 01, 2026"
@@ -5490,7 +5490,7 @@
   {
     "scheme_id": "1750",
     "scheme_name": "Franklin India Dynamic Asset Allocation Active FoFDynamic Asset Allocation",
-    "duration": "5 yrs 8 m",
+    "duration": "5 yrs 9 m",
     "nav": "\u20b9160.5",
     "change": "-0.54%",
     "date": "Oct 01, 2026"
@@ -5515,9 +5515,9 @@
     "scheme_id": "40038",
     "scheme_name": "Sundaram Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,456.81",
+    "nav": "\u20b91,457.22",
     "change": "0.01%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "3253",
@@ -5547,9 +5547,9 @@
     "scheme_id": "1805",
     "scheme_name": "Nippon India Liquid FundLiquid",
     "duration": "11 yrs 4 m",
-    "nav": "\u20b96,878.09",
-    "change": "0.04%",
-    "date": "Oct 01, 2026"
+    "nav": "\u20b96,881.33",
+    "change": "0.02%",
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "1305",
@@ -5763,17 +5763,17 @@
     "scheme_id": "40823",
     "scheme_name": "ITI Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,386.9",
+    "nav": "\u20b91,387.48",
     "change": "0.01%",
-    "date": "Oct 01, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "40835",
     "scheme_name": "Mirae Asset Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,408.05",
+    "nav": "\u20b91,408.62",
     "change": "0.01%",
-    "date": "Oct 01, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "40847",
@@ -5794,7 +5794,7 @@
   {
     "scheme_id": "40868",
     "scheme_name": "Mahindra Manulife Large & Mid Cap FundLarge & MidCap",
-    "duration": "5 yrs 4 m",
+    "duration": "5 yrs 5 m",
     "nav": "\u20b926.54",
     "change": "-1.24%",
     "date": "Oct 01, 2026"
@@ -5858,7 +5858,7 @@
   {
     "scheme_id": "40943",
     "scheme_name": "Motilal Oswal Nifty 50 Index FundLarge Cap Index",
-    "duration": "5 yrs 11 m",
+    "duration": "6 yrs",
     "nav": "\u20b919.04",
     "change": "-0.88%",
     "date": "Oct 01, 2026"
@@ -5891,9 +5891,9 @@
     "scheme_id": "40989",
     "scheme_name": "Invesco India Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,390.76",
+    "nav": "\u20b91,391.36",
     "change": "0.01%",
-    "date": "Oct 01, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "40997",
@@ -5915,9 +5915,9 @@
     "scheme_id": "41005",
     "scheme_name": "JM Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,392.61",
+    "nav": "\u20b91,392.97",
     "change": "0.01%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "41012",
@@ -5939,9 +5939,9 @@
     "scheme_id": "41043",
     "scheme_name": "Bank of India Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,401.7",
+    "nav": "\u20b91,402.09",
     "change": "0.01%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "41132",
@@ -5954,7 +5954,7 @@
   {
     "scheme_id": "41136",
     "scheme_name": "Edelweiss US Technology Equity FoFInternational",
-    "duration": "2 yrs 1 m",
+    "duration": "2 yrs 2 m",
     "nav": "\u20b939.97",
     "change": "0.5%",
     "date": "Oct 01, 2026"
@@ -5986,7 +5986,7 @@
   {
     "scheme_id": "41441",
     "scheme_name": "HSBC Nifty 50 Index FundLarge Cap Index",
-    "duration": "5 yrs 11 m",
+    "duration": "6 yrs",
     "nav": "\u20b926.07",
     "change": "-0.88%",
     "date": "Oct 01, 2026"
@@ -6074,7 +6074,7 @@
   {
     "scheme_id": "41566",
     "scheme_name": "Axis Global Equity Alpha FoFInternational",
-    "duration": "3 yrs 4 m",
+    "duration": "3 yrs 5 m",
     "nav": "\u20b925.15",
     "change": "-0.51%",
     "date": "Oct 01, 2026"
@@ -6090,7 +6090,7 @@
   {
     "scheme_id": "41587",
     "scheme_name": "Mirae Asset Diversified Equity Allocator Passive FoFEquity FoF",
-    "duration": "5 yrs 9 m",
+    "duration": "5 yrs 10 m",
     "nav": "\u20b923.56",
     "change": "-0.9%",
     "date": "Oct 01, 2026"
@@ -6098,7 +6098,7 @@
   {
     "scheme_id": "41593",
     "scheme_name": "ICICI Prudential ESG Exclusionary Strategy FundThematic-ESG",
-    "duration": "5 yrs 10 m",
+    "duration": "5 yrs 11 m",
     "nav": "\u20b920.3",
     "change": "-0.78%",
     "date": "Oct 01, 2026"
@@ -6130,7 +6130,7 @@
   {
     "scheme_id": "41609",
     "scheme_name": "Aditya Birla Sun Life Special Opportunities FundEquity Opportunities",
-    "duration": "4 yrs 2 m",
+    "duration": "4 yrs 3 m",
     "nav": "\u20b927.67",
     "change": "-1.11%",
     "date": "Oct 01, 2026"
@@ -6195,9 +6195,9 @@
     "scheme_id": "41660",
     "scheme_name": "DSP Value FundValue & Contra",
     "duration": "5 yrs 5 m",
-    "nav": "\u20b922.76",
-    "change": "-0.11%",
-    "date": "Sep 30, 2026"
+    "nav": "\u20b922.67",
+    "change": "-0.4%",
+    "date": "Oct 01, 2026"
   },
   {
     "scheme_id": "41668",
@@ -6338,7 +6338,7 @@
   {
     "scheme_id": "41753",
     "scheme_name": "Axis Greater China Equity FoFInternational",
-    "duration": "2 yrs 7 m",
+    "duration": "2 yrs 8 m",
     "nav": "\u20b912.02",
     "change": "0.67%",
     "date": "Sep 30, 2026"
@@ -6483,9 +6483,9 @@
     "scheme_id": "41877",
     "scheme_name": "TRUSTMF Liquid FundLiquid",
     "duration": "-",
-    "nav": "\u20b91,368.05",
+    "nav": "\u20b91,368.48",
     "change": "0.02%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "41924",
@@ -7115,9 +7115,9 @@
     "scheme_id": "42499",
     "scheme_name": "TRUSTMF Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,302.93",
+    "nav": "\u20b91,303.28",
     "change": "0.01%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "42492",
@@ -7147,14 +7147,14 @@
     "scheme_id": "42507",
     "scheme_name": "DSP Global Innovation Overseas Equity Omni FoFInternational",
     "duration": "2 yrs 10 m",
-    "nav": "\u20b922.52",
-    "change": "0.66%",
-    "date": "Sep 30, 2026"
+    "nav": "\u20b922.54",
+    "change": "0.12%",
+    "date": "Oct 01, 2026"
   },
   {
     "scheme_id": "42503",
     "scheme_name": "Kotak Manufacture in India FundThematic-Manufacturing",
-    "duration": "3 yrs 5 m",
+    "duration": "3 yrs 6 m",
     "nav": "\u20b921.75",
     "change": "-1.07%",
     "date": "Oct 01, 2026"
@@ -7627,9 +7627,9 @@
     "scheme_id": "42994",
     "scheme_name": "Samco Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,249.69",
+    "nav": "\u20b91,250.01",
     "change": "0.01%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "42986",
@@ -8044,8 +8044,8 @@
     "scheme_name": "Quant Overnight FundOvernight",
     "duration": "-",
     "nav": "\u20b912.57",
-    "change": "0.02%",
-    "date": "Oct 01, 2026"
+    "change": "0.04%",
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "43384",
@@ -8635,17 +8635,17 @@
     "scheme_id": "44005",
     "scheme_name": "Bajaj Finserv Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,210.56",
+    "nav": "\u20b91,211.22",
     "change": "0.02%",
-    "date": "Oct 01, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "43995",
     "scheme_name": "Bajaj Finserv Liquid FundLiquid",
     "duration": "-",
-    "nav": "\u20b91,236.73",
-    "change": "0.03%",
-    "date": "Oct 01, 2026"
+    "nav": "\u20b91,237.3",
+    "change": "0.02%",
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "44015",
@@ -8923,9 +8923,9 @@
     "scheme_id": "44214",
     "scheme_name": "Helios Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,182.78",
+    "nav": "\u20b91,183.09",
     "change": "0.01%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "44222",
@@ -9106,7 +9106,7 @@
   {
     "scheme_id": "44389",
     "scheme_name": "Tata Silver ETF FoFSilver",
-    "duration": "1 yrs 3 m",
+    "duration": "1 yrs 4 m",
     "nav": "\u20b928.25",
     "change": "-0.47%",
     "date": "Oct 01, 2026"
@@ -11307,9 +11307,9 @@
     "scheme_id": "45664",
     "scheme_name": "360 ONE Overnight FundOvernight",
     "duration": "-",
-    "nav": "\u20b91,065.18",
-    "change": "0.01%",
-    "date": "Oct 01, 2026"
+    "nav": "\u20b91,065.64",
+    "change": "0.04%",
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "45672",
@@ -11571,9 +11571,9 @@
     "scheme_id": "45835",
     "scheme_name": "The Wealth Company Liquid FundLiquid",
     "duration": "-",
-    "nav": "\u20b91,062.46",
-    "change": "0.03%",
-    "date": "Oct 01, 2026"
+    "nav": "\u20b91,062.96",
+    "change": "0.02%",
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "45847",
@@ -11731,9 +11731,9 @@
     "scheme_id": "45964",
     "scheme_name": "Capitalmind Liquid FundLiquid",
     "duration": "-",
-    "nav": "\u20b91,054.88",
+    "nav": "\u20b91,055.21",
     "change": "0.02%",
-    "date": "Oct 02, 2026"
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "45967",
@@ -11787,9 +11787,9 @@
     "scheme_id": "46012",
     "scheme_name": "Abakkus Liquid FundLiquid",
     "duration": "-",
-    "nav": "\u20b9104.73",
-    "change": "0.04%",
-    "date": "Oct 01, 2026"
+    "nav": "\u20b9104.77",
+    "change": "0.02%",
+    "date": "Oct 04, 2026"
   },
   {
     "scheme_id": "46008",
