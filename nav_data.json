@@ -6800,14 +6800,6 @@
     "date": "Sep 30, 2026"
   },
   {
-    "scheme_id": "42191",
-    "scheme_name": "Aditya Birla Sun Life Nifty SDL Plus PSU Bond Sep 2026 60:40 Index FundTarget Maturity",
-    "duration": "-",
-    "nav": "\u20b913.26",
-    "change": "0.01%",
-    "date": "Sep 30, 2026"
-  },
-  {
     "scheme_id": "42195",
     "scheme_name": "ICICI Prudential Nifty PSU Bond Plus SDL Sep 2027 40:60 Index FundTarget Maturity",
     "duration": "-",
@@ -10078,14 +10070,6 @@
     "nav": "\u20b910.55",
     "change": "-1.6%",
     "date": "Oct 01, 2026"
-  },
-  {
-    "scheme_id": "44973",
-    "scheme_name": "Aditya Birla Sun Life CRISIL-IBX AAA NBFC-HFC Index-Sep 2026 FundTarget Maturity",
-    "duration": "-",
-    "nav": "\u20b911.49",
-    "change": "0.01%",
-    "date": "Sep 30, 2026"
   },
   {
     "scheme_id": "44981",
