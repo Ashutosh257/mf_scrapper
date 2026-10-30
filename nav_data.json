@@ -2034,10 +2034,10 @@
   {
     "scheme_id": "1769",
     "scheme_name": "ICICI Prudential Dynamic Asset Allocation Active FoFMulti Asset Allocation",
-    "duration": "6 yrs",
-    "nav": "\u20b9119.58",
-    "change": "0.04%",
-    "date": "Oct 28, 2026"
+    "duration": "5 yrs 11 m",
+    "nav": "\u20b9120.27",
+    "change": "0.58%",
+    "date": "Oct 29, 2026"
   },
   {
     "scheme_id": "10232",
@@ -3667,9 +3667,9 @@
     "scheme_id": "1771",
     "scheme_name": "ICICI Prudential Aggressive Hybrid Active FoFAggressive Hybrid",
     "duration": "5 yrs 5 m",
-    "nav": "\u20b9218.39",
-    "change": "0.1%",
-    "date": "Oct 28, 2026"
+    "nav": "\u20b9219.94",
+    "change": "0.71%",
+    "date": "Oct 29, 2026"
   },
   {
     "scheme_id": "36872",
@@ -5723,9 +5723,9 @@
     "scheme_id": "40753",
     "scheme_name": "ICICI Prudential Global Advantage Fund (FOF)International",
     "duration": "3 yrs 11 m",
-    "nav": "\u20b921.48",
-    "change": "0.12%",
-    "date": "Oct 28, 2026"
+    "nav": "\u20b921.56",
+    "change": "0.4%",
+    "date": "Oct 29, 2026"
   },
   {
     "scheme_id": "40769",
@@ -5946,10 +5946,10 @@
   {
     "scheme_id": "41132",
     "scheme_name": "ICICI Prudential Diversified Equity All Cap Omni FoFEquity FoF",
-    "duration": "5 yrs 4 m",
-    "nav": "\u20b929.68",
-    "change": "0.18%",
-    "date": "Oct 28, 2026"
+    "duration": "5 yrs 3 m",
+    "nav": "\u20b929.97",
+    "change": "0.97%",
+    "date": "Oct 29, 2026"
   },
   {
     "scheme_id": "41136",
@@ -12339,9 +12339,9 @@
     "scheme_id": "46365",
     "scheme_name": "ICICI Prudential Multi-Asset Active FoFMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b99.67",
-    "change": "0.27%",
-    "date": "Oct 28, 2026"
+    "nav": "\u20b99.71",
+    "change": "0.4%",
+    "date": "Oct 29, 2026"
   },
   {
     "scheme_id": "46367",
