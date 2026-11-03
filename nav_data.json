@@ -2034,10 +2034,10 @@
   {
     "scheme_id": "1769",
     "scheme_name": "ICICI Prudential Dynamic Asset Allocation Active FoFMulti Asset Allocation",
-    "duration": "6 yrs",
-    "nav": "\u20b9120.03",
-    "change": "-0.2%",
-    "date": "Oct 30, 2026"
+    "duration": "5 yrs 11 m",
+    "nav": "\u20b9121.2",
+    "change": "0.97%",
+    "date": "Nov 02, 2026"
   },
   {
     "scheme_id": "10232",
@@ -3667,9 +3667,9 @@
     "scheme_id": "1771",
     "scheme_name": "ICICI Prudential Aggressive Hybrid Active FoFAggressive Hybrid",
     "duration": "5 yrs 5 m",
-    "nav": "\u20b9219.46",
-    "change": "-0.22%",
-    "date": "Oct 30, 2026"
+    "nav": "\u20b9221",
+    "change": "0.7%",
+    "date": "Nov 02, 2026"
   },
   {
     "scheme_id": "36872",
@@ -5723,9 +5723,9 @@
     "scheme_id": "40753",
     "scheme_name": "ICICI Prudential Global Advantage Fund (FOF)International",
     "duration": "3 yrs 11 m",
-    "nav": "\u20b921.5",
-    "change": "-0.31%",
-    "date": "Oct 30, 2026"
+    "nav": "\u20b921.62",
+    "change": "0.56%",
+    "date": "Nov 02, 2026"
   },
   {
     "scheme_id": "40769",
@@ -5778,10 +5778,10 @@
   {
     "scheme_id": "40847",
     "scheme_name": "Kotak Pioneer FundThematic-Innovation",
-    "duration": "4 yrs 3 m",
-    "nav": "\u20b933.38",
-    "change": "-1.23%",
-    "date": "Oct 30, 2026"
+    "duration": "3 yrs 10 m",
+    "nav": "\u20b933.68",
+    "change": "0.9%",
+    "date": "Nov 02, 2026"
   },
   {
     "scheme_id": "40856",
@@ -5947,9 +5947,9 @@
     "scheme_id": "41132",
     "scheme_name": "ICICI Prudential Diversified Equity All Cap Omni FoFEquity FoF",
     "duration": "5 yrs 3 m",
-    "nav": "\u20b929.83",
-    "change": "-0.48%",
-    "date": "Oct 30, 2026"
+    "nav": "\u20b930.16",
+    "change": "1.12%",
+    "date": "Nov 02, 2026"
   },
   {
     "scheme_id": "41136",
@@ -6683,9 +6683,9 @@
     "scheme_id": "42061",
     "scheme_name": "Kotak Global Innovation Overseas Equity Active FoFInternational",
     "duration": "3 yrs 7 m",
-    "nav": "\u20b913.89",
-    "change": "-3.2%",
-    "date": "Oct 30, 2026"
+    "nav": "\u20b913.82",
+    "change": "-0.54%",
+    "date": "Nov 02, 2026"
   },
   {
     "scheme_id": "42070",
@@ -6795,9 +6795,9 @@
     "scheme_id": "42181",
     "scheme_name": "HDFC Developed World Overseas Equity Passive FoFInternational",
     "duration": "3 yrs",
-    "nav": "\u20b921.16",
-    "change": "-1.41%",
-    "date": "Oct 30, 2026"
+    "nav": "\u20b921.12",
+    "change": "-0.19%",
+    "date": "Nov 02, 2026"
   },
   {
     "scheme_id": "42195",
@@ -11948,8 +11948,8 @@
     "scheme_name": "DSP Multi Asset Omni FoFMulti Asset Allocation",
     "duration": "-",
     "nav": "\u20b99.88",
-    "change": "0.15%",
-    "date": "Oct 30, 2026"
+    "change": "0.04%",
+    "date": "Nov 02, 2026"
   },
   {
     "scheme_id": "46135",
@@ -12339,9 +12339,9 @@
     "scheme_id": "46365",
     "scheme_name": "ICICI Prudential Multi-Asset Active FoFMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b99.67",
-    "change": "-0.4%",
-    "date": "Oct 30, 2026"
+    "nav": "\u20b99.73",
+    "change": "0.61%",
+    "date": "Nov 02, 2026"
   },
   {
     "scheme_id": "46367",
