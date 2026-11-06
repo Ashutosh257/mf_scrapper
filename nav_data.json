@@ -2034,10 +2034,10 @@
   {
     "scheme_id": "1769",
     "scheme_name": "ICICI Prudential Dynamic Asset Allocation Active FoFMulti Asset Allocation",
-    "duration": "6 yrs",
-    "nav": "\u20b9123.24",
-    "change": "0.77%",
-    "date": "Nov 04, 2026"
+    "duration": "5 yrs 11 m",
+    "nav": "\u20b9124.89",
+    "change": "1.34%",
+    "date": "Nov 05, 2026"
   },
   {
     "scheme_id": "10232",
@@ -3666,10 +3666,10 @@
   {
     "scheme_id": "1771",
     "scheme_name": "ICICI Prudential Aggressive Hybrid Active FoFAggressive Hybrid",
-    "duration": "5 yrs 5 m",
-    "nav": "\u20b9225.06",
-    "change": "0.76%",
-    "date": "Nov 04, 2026"
+    "duration": "5 yrs 4 m",
+    "nav": "\u20b9229.11",
+    "change": "1.8%",
+    "date": "Nov 05, 2026"
   },
   {
     "scheme_id": "36872",
@@ -5723,9 +5723,9 @@
     "scheme_id": "40753",
     "scheme_name": "ICICI Prudential Global Advantage Fund (FOF)International",
     "duration": "3 yrs 11 m",
-    "nav": "\u20b922.03",
-    "change": "1.91%",
-    "date": "Nov 04, 2026"
+    "nav": "\u20b921.93",
+    "change": "-0.43%",
+    "date": "Nov 05, 2026"
   },
   {
     "scheme_id": "40769",
@@ -5947,9 +5947,9 @@
     "scheme_id": "41132",
     "scheme_name": "ICICI Prudential Diversified Equity All Cap Omni FoFEquity FoF",
     "duration": "4 yrs 4 m",
-    "nav": "\u20b930.94",
-    "change": "1.02%",
-    "date": "Nov 04, 2026"
+    "nav": "\u20b931.61",
+    "change": "2.17%",
+    "date": "Nov 05, 2026"
   },
   {
     "scheme_id": "41136",
@@ -11947,9 +11947,9 @@
     "scheme_id": "46127",
     "scheme_name": "DSP Multi Asset Omni FoFMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b910.06",
-    "change": "0.79%",
-    "date": "Nov 04, 2026"
+    "nav": "\u20b910.24",
+    "change": "1.84%",
+    "date": "Nov 05, 2026"
   },
   {
     "scheme_id": "46135",
@@ -12339,9 +12339,9 @@
     "scheme_id": "46365",
     "scheme_name": "ICICI Prudential Multi-Asset Active FoFMulti Asset Allocation",
     "duration": "-",
-    "nav": "\u20b99.92",
-    "change": "1.27%",
-    "date": "Nov 04, 2026"
+    "nav": "\u20b910.04",
+    "change": "1.22%",
+    "date": "Nov 05, 2026"
   },
   {
     "scheme_id": "46367",
